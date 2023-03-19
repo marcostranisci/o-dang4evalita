@@ -1,0 +1,1142 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://purl.archive.org/o-dang#"
+     xml:base="https://purl.archive.org/o-dang"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos1="http://www.w3.org/2008/05/skos#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="https://purl.archive.org/o-dang">
+        <dc:creator xml:lang="en">Marco Antonio Stranisci</dc:creator>
+        <terms:title xml:lang="en">The Ontology of Dangerous Speech</terms:title>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.lexinfo.net/ontology/3.0/lexinfo#gender -->
+
+    <owl:ObjectProperty rdf:about="http://www.lexinfo.net/ontology/3.0/lexinfo#gender">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P21"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#defines -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#defines">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isDefinedIn"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#expresses"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#hasPart"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRole -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRole">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#hasRole"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasSetting -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasSetting">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#hasSetting"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isExpressedBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isPartOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isRoleOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSettingFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSettingFor">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isSettingFor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/ns/lemon/ontolex#evokes -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/ns/lemon/ontolex#evokes">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#evokes"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/ns/lemon/ontolex#isEvokedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/ns/lemon/ontolex#isEvokedBy">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#isEvokedBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#allegiance -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#allegiance">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P945"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#biographicalInformation -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#biographicalInformation"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#birthCountry -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#birthCountry">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#birthYear -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#birthYear">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#child -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#child">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P40"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#citizenship -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#citizenship">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P27"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#deathCountry -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#deathCountry">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#defines -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#defines">
+        <rdfs:domain rdf:resource="https://purl.archive.org/o-dang#Description"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#Concept"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#doctoralAdvisor -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#doctoralAdvisor">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P184"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#ethnicGroup -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#ethnicGroup">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P172"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#evokes -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#evokes">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isEvokedBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#expresses -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#expresses">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isExpressedBy"/>
+        <rdfs:domain rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#Description"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#family -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#family">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P53"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#father -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#father">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P22"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#floruit -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#floruit">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1317"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#hasPart -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#hasPart">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isPartOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#hasRole -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#hasRole">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isRoleOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#hasSetting -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#hasSetting">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isSettingFor"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#CommunicativeSituation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#hasValue -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#hasValue"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isDefinedIn -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isDefinedIn">
+        <owl:inverseOf rdf:resource="https://purl.archive.org/o-dang#isDefinedIn"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isEmbodimentOf -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isEmbodimentOf">
+        <rdfs:domain rdf:resource="https://purl.archive.org/o-dang#Manifestation"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#Description"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isEvokedBy -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isEvokedBy"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isExpressedBy -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isExpressedBy">
+        <rdfs:domain rdf:resource="https://purl.archive.org/o-dang#Description"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isPartOf -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isPartOf"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isRoleOf -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isRoleOf"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#isSettingFor -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#isSettingFor">
+        <rdfs:domain rdf:resource="https://purl.archive.org/o-dang#CommunicativeSituation"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#Agent"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+        <rdfs:range rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#language -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#language">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1412"/>
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P6886"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#member -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#member">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P102"/>
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P463"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#nativeLanguage -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#nativeLanguage">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P103"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#occupation -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#occupation">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P106"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#placeOfBirth -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#placeOfBirth">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P19"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#placeOfDeath -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#placeOfDeath">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P20"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#placeOfDetention -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#placeOfDetention">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P2632"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#positionHeld -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#positionHeld">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P39"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#refersTo -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#refersTo"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#relative -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#relative">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1038"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#religiousOrder -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#religiousOrder">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P611"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#sibling -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#sibling">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P3373"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#spouse -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#spouse">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P26"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#student -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#student">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P802"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#studentOf -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#studentOf">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1066"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#wikidataProperties -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#wikidataProperties"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#workLocation -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#workLocation">
+        <owl:equivalentProperty rdf:resource="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P937"/>
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#biographicalInformation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P102 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P102">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P103 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P103">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1038 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1038">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P106 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P106">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1066 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1066">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P108 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P108">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P119 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P119">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1317 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1317">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1412 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P1412">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P172 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P172">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P184 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P184">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P19 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P19">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P20 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P20">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P21 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P21">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P22 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P22">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P25 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P25">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P26 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P26">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P2632 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P2632">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P27 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P27">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P3373 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P3373">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P39 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P39">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P40 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P40">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P463 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P463">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P53 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P53">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P551 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P551">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P569 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P569">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P611 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P611">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P6886 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P6886">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P802 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P802">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P937 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P937">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P945 -->
+
+    <owl:ObjectProperty rdf:about="https://purl.archive.org/o-dang#http://www.wikidata.org/prop/direct/P945">
+        <rdfs:subPropertyOf rdf:resource="https://purl.archive.org/o-dang#wikidataProperties"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/vocab/frbr/core#Expression -->
+
+    <owl:Class rdf:about="http://purl.org/vocab/frbr/core#Expression">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Expression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/vocab/frbr/core#Manifestation -->
+
+    <owl:Class rdf:about="http://purl.org/vocab/frbr/core#Manifestation">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Manifestation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.lexinfo.net/ontology/3.0/lexinfo#Adjective -->
+
+    <owl:Class rdf:about="http://www.lexinfo.net/ontology/3.0/lexinfo#Adjective">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Adjective"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.lexinfo.net/ontology/3.0/lexinfo#Adverb -->
+
+    <owl:Class rdf:about="http://www.lexinfo.net/ontology/3.0/lexinfo#Adverb">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Adverb"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.lexinfo.net/ontology/3.0/lexinfo#Noun -->
+
+    <owl:Class rdf:about="http://www.lexinfo.net/ontology/3.0/lexinfo#Noun">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Name"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.lexinfo.net/ontology/3.0/lexinfo#Verb -->
+
+    <owl:Class rdf:about="http://www.lexinfo.net/ontology/3.0/lexinfo#Verb">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Verb"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Agent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Concept"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationObject -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationObject">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Situation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/ns/lemon/ontolex#LexicalConcept -->
+
+    <owl:Class rdf:about="http://www.w3.org/ns/lemon/ontolex#LexicalConcept">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#LexicalConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/ns/lemon/ontolex#LexicalEntry -->
+
+    <owl:Class rdf:about="http://www.w3.org/ns/lemon/ontolex#LexicalEntry">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#LexicalEntry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/ns/lemon/ontolex#Word -->
+
+    <owl:Class rdf:about="http://www.w3.org/ns/lemon/ontolex#Word">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#Word"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Addressee -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Addressee">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Addresser -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Addresser">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Adjective -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Adjective">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Word"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Adverb -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Adverb">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Word"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Agent -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Agent"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#AnnotationScheme -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#AnnotationScheme">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Description"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#AnnotationValue -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#AnnotationValue">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Description"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#CommunicativeSituation -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#CommunicativeSituation">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Situation"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Concept -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Concept">
+        <rdfs:comment xml:lang="en">Concept</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Dataset -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Dataset">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Description -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Description"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Emotion -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Emotion">
+        <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Expression -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Expression">
+        <owl:equivalentClass rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#HaSpeeDe2023Scheme -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#HaSpeeDe2023Scheme">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#AnnotationScheme"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#HateSpeech -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#HateSpeech">
+        <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#InformationObject -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#InformationObject"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#LexicalConcept -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#LexicalConcept">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Concept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#LexicalEntry -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#LexicalEntry"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Manifestation -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Manifestation"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Name -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Name">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Word"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#NamedEntity -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#NamedEntity">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Role -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Role"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Situation -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Situation"/>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Target -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Target">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Role"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Text -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Text">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#InformationObject"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Verb -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Verb">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#Word"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.archive.org/o-dang#Word -->
+
+    <owl:Class rdf:about="https://purl.archive.org/o-dang#Word">
+        <rdfs:subClassOf rdf:resource="https://purl.archive.org/o-dang#LexicalEntry"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://purl.archive.org/o-dang#individuo -->
+
+    <owl:NamedIndividual rdf:about="https://purl.archive.org/o-dang#individuo">
+        <rdfs:label xml:lang="it">individuo di prova</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://purl.archive.org/o-dang#Adjective"/>
+            <rdf:Description rdf:about="https://purl.archive.org/o-dang#Adverb"/>
+            <rdf:Description rdf:about="https://purl.archive.org/o-dang#Name"/>
+            <rdf:Description rdf:about="https://purl.archive.org/o-dang#Verb"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

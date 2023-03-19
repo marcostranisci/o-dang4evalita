@@ -1,0 +1,29 @@
+[PrefixDeclaration]
+:		https://purl.archive.org/o-dang#
+dc:		http://purl.org/dc/elements/1.1/
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+xml:		http://www.w3.org/XML/1998/namespace
+xsd:		http://www.w3.org/2001/XMLSchema#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+skos1:		http://www.w3.org/2008/05/skos#
+terms:		http://purl.org/dc/terms/
+
+[MappingDeclaration] @collection [[
+mappingId	MAPID-91a87b4a36234dab8b464fc5fb324eae
+target		:{id} a :Text ; :isPartOf :{dataset} ; :expresses _:{id}{annotation_scheme}{label} . _:{id}{annotation_scheme}{label} :hasValue :{label} ; :defines :HateSpeech . 
+source		select distinct anonymized_tweet_id as id,label,dataset,annotation_scheme from training_set where label=1
+
+mappingId	MAPID-150c1b5c655647f4a2633e0bedfaf47f
+target		:{id} a :Text ; :isPartOf :{dataset} ; :expresses _:{id}{annotation_scheme}{label} . _:{id}{annotation_scheme}{label} :hasValue :{label} . 
+source		select distinct anonymized_tweet_id as id,label,dataset,annotation_scheme from training_set where label=0
+
+mappingId	MAPID-57ee0c9e3a5745feaf88bbbfdf41bbc0
+target		_:{comm} a :CommunicativeSituation ; :isSettingFor :{id} , :{ent} . :{id} :hasRole :HateSpeechMessage ; :refersTo :{ent} . :{ent} :hasRole :NamedEntity ; rdfs:label {ent_label} . 
+source		SELECT DISTINCT Q1.com as comm, Q1.id_1 as id,Q1.label as label,Q1.ents_id as ent,Q1.namedEntity as ent_label FROM (SELECT training_set.comm as com, training_set.anonymized_tweet_id as id_1,training_set.label, entities.anonymized_tweet_id as id_2, entities.ents_id, entities.namedEntity FROM entities JOIN  training_set ON entities.anonymized_tweet_id = training_set.anonymized_tweet_id) as Q1 where Q1.label = 1
+
+mappingId	MAPID-6e025d77ba1d45bb89a1dcd7572e5830
+target		_:{comm} a :CommunicativeSituation ; :isSettingFor :{id} , :{ent} . :{id} :refersTo :{ent} . :{ent} :hasRole :NamedEntity ; rdfs:label {ent_label} . 
+source		SELECT DISTINCT Q1.com as comm, Q1.id_1 as id,Q1.label as label,Q1.ents_id as ent,Q1.namedEntity as ent_label FROM (SELECT training_set.comm as com, training_set.anonymized_tweet_id as id_1,training_set.label, entities.anonymized_tweet_id as id_2, entities.ents_id, entities.namedEntity FROM entities JOIN  training_set ON entities.anonymized_tweet_id = training_set.anonymized_tweet_id) as Q1 where Q1.label = 0
+]]
+
