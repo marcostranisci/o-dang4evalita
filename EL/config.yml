@@ -1,0 +1,4 @@
+data:
+  input_file: ../evalita/evalita_emit/entities.csv
+  entities_file: ./wikipedia_titles.csv
+  output_file: ../evalita/evalita_emit/candidates.csv
