@@ -1,0 +1,4296 @@
+mention,wp_title,cosine
+#Giletti,Massimo Giletti,0.8977945
+#Giletti,Antonella Mosetti,0.8412631
+#Meloni,Giorgia Meloni,0.9237858
+#Meloni,Marco Meloni (politico),0.9467108
+#Meloni,Christopher Meloni,0.9208989
+#Meloni,Alessandra Meloni,0.9166243
+#Meloni,Guido Crosetto,0.8748325
+ANCHE DELL’INSERIMENTO DI,Rania di Giordania,0.71095854
+ASTRONAVE SEI,Max Pezzali,0.8023071
+Abdul,Kareem Abdul-Jabbar,0.8676636
+Abdul,Paula Abdul,0.9306356
+Abdul,Abdul Aziz,0.92950886
+Abdul,Abdul Karim,0.94661677
+Abdul,Abdul Fatawu Issahaku,0.7823288
+Abdul,Yahya Abdul-Mateen II,0.7973844
+Acerbi,Francesco Acerbi,0.9190274
+Acerbi,Sandro Acerbo,0.8896476
+Acerbi,Rossella Acerbo,0.8805326
+Acerbi,Giuseppe Acerbi,0.92148656
+Acerbi,Giovanni Acerbi,0.91054434
+Acerbi,Ludovico Acerbi,0.9040316
+Acerbi,Angelo Acerbi,0.92100906
+Achille,Achille Occhetto,0.92190945
+Achille,Achille Lauro (cantante),0.8682091
+Achille,Papa Pio XI,0.7724603
+Achille,Achille Lauro,0.90713155
+Achille,Achille Togliani,0.89301455
+Achille,Achille Starace,0.9308011
+Achille,Achille Campanile,0.93694055
+Achille Lauro,Achille Lauro,1.0000001
+Achille Lauro,Achille Lauro (cantante),0.91326773
+Acker,Amy Acker,0.9543163
+Acker,Achille Van Acker,0.91551113
+Acker,Jean Acker,0.9315736
+Acker,Drew Van Acker,0.9256962
+Acker,Kathy Acker,0.9447299
+Acker,Alex Acker,0.94899166
+Acker,Shane Acker,0.9462896
+Adinolfi,Mario Adinolfi,0.93087995
+Adinolfi,Gabriele Adinolfi,0.9424962
+Adinolfi,Ugo Adinolfi,0.94116306
+Adinolfi,Isabella Adinolfi,0.9223766
+Adinolfi,Domenico Adinolfi,0.9373616
+Adinolfi,Francesco Adinolfi,0.9408558
+Adriano,Adriano,1.0
+Adriano,Luiz Adriano,0.9325419
+Adriano,Adriano Celentano,0.90814745
+Adriano,Papa Adriano VI,0.8533602
+Adriano,Adriano Olivetti,0.92572534
+Adriano,Adriano Leite Ribeiro,0.8443663
+Adriano,Adriano Sofri,0.9175334
+Adriano,Adriano Pappalardo,0.9309819
+Agrippina,Agrippina minore,0.9727962
+Agrippina,Agrippina maggiore,0.97503626
+Agrippina,Vipsania Agrippina,0.9571223
+Agrippina,Claudio,0.83787954
+Agrippina,Nerone,0.8426302
+Agrippina,Agrippina Jakovlevna Vaganova,0.9192974
+Ah,Yoo Ah-in,0.86462855
+Ah,Kim Hyun-ah,0.8583106
+Ahahah,Molella,0.830968
+Ahahahah,Tyga,0.91083324
+Ahhh,Steven St. Croix,0.80570936
+Ahhh,Nick Jonas,0.8400182
+Ahhh,Lisa Sparxxx,0.8077863
+Ahhh,Lil Durk,0.8555243
+Ahhh,Bobbi Starr,0.84762573
+Ahhh,Noname Jane,0.82614034
+Aiutatemi,Anita Ekberg,0.84348214
+Aiutatemi,Sibilla Aleramo,0.88064414
+Aiutatemi,Richard Benson,0.8881748
+Aiutatemi,Fabrizio Moro,0.8729793
+Aiutatemi,Ben Affleck,0.863294
+Alberto,Carlo Alberto di Savoia,0.8470614
+Alberto,Alberto Magno,0.93281424
+Alberto,Alberto Tomba,0.9417536
+Alberto,Alberto Sordi,0.91311365
+Alberto,Giovanni Alberto Agnelli,0.8631736
+Alberto,Alberto Paloschi,0.9337752
+Alberto,Alberto IV degli Alberti,0.87401307
+Alberto,Alberto Pérez,0.9311403
+Aldo Busi,Aldo Busi,1.0000002
+Aldo Busi,Dario Bellezza,0.8608638
+Alessandro,Alessandro Magno,0.91291296
+Alessandro,Alessandro Cattelan,0.9066166
+Alessandro,Alessandro Borghi (attore),0.8521212
+Alessandro,Alessandro Florenzi,0.896577
+Alessandro,Alessandro Barbero,0.910316
+Alex Sandro,Alex Sandro (calciatore 1991),0.9168987
+Alex Sandro,Alex Sandro da Silva,0.9481559
+Alex Sandro,Luca Pellegrini (calciatore 1999),0.8735303
+Alex Sandro,Alex Sandro Mendonça dos Santos,0.89380604
+Alfano,Angelino Alfano,0.9566579
+Alfano,Gioacchino Alfano,0.9451396
+Alfano,Beppe Alfano,0.94755065
+Alfano,Sonia Alfano,0.95390606
+Alfano,Alfano di Salerno,0.8711126
+Allegri,Massimiliano Allegri,0.94213015
+Allegri,Allegra Caracciolo,0.8194411
+Allegri,Eugenio Allegri,0.9397801
+Allegri,Gregorio Allegri,0.9261141
+Allegri,Correggio (pittore),0.7975895
+Allegri,Renzo Allegri,0.92019534
+AllegriOut,Massimiliano Allegri,0.9094371
+AllegriOut,Luciano Spalletti,0.84179974
+AllegriOut,Cristiano Ronaldo,0.81534046
+Altre,Sandra Milo,0.86048275
+Am4zon,Stromae,0.8971742
+Am4zon,Goran Višnjić,0.7923454
+Am4zon,Dick Lövgren,0.79346335
+Amato,Giuliano Amato,0.9249547
+Amato,Mario Amato,0.91360015
+Amato,Gaetano Amato,0.92587924
+Amato,Giuseppe Amato,0.93209267
+Amato,Stefano Amato,0.9429484
+Amber Heard...,Amber Heard,0.90417117
+Amber Heard...,Johnny Depp,0.81079435
+Amber Heard...,Elon Musk,0.8102623
+Amedeo,Amedeo Minghi,0.912711
+Amedeo,Amedeo Modigliani,0.92485106
+Amedeo,Amedeo di Savoia-Aosta (1943),0.8334104
+Amedeo,Amedeo di Savoia-Aosta (1898),0.8334104
+Amedeo,Vittorio Amedeo II di Savoia,0.84067005
+Amedeo,Amedeo Nazzari,0.94143426
+Amedeo,Amedeo I di Spagna,0.8304154
+Amici21,Giulia Stabile,0.8793574
+Amici21,Cristiano Caccamo,0.8804157
+Amici21,Elena D'Amario,0.83916545
+Ancelotti,Carlo Ancelotti,0.93965596
+Ancelotti,José Mourinho,0.9277034
+Ancelotti,Giovanni Trapattoni,0.84928745
+Ancelotti,Alessandro Costacurta,0.87256354
+Andrea,Andrea Camilleri,0.9002447
+Andrea,Andrea Doria,0.9220791
+Andrea,Andrea Sottil,0.9356811
+Andrea,Andrea Bosca,0.9238296
+Andrea,Andrea Pinamonti,0.86907524
+Andrea,Andrea Delogu,0.9413315
+Andrea Rocchelli,Andrea Rocchelli,1.0000001
+Andrea Rocchelli,Andrej Nikolaevič Mironov,0.8102753
+Andrea Rocchelli,Loris Mazzetti,0.8967351
+Andrea Tosatto,Unabomber (Italia),0.70844793
+Andrea Tosatto,Vieri Tosatti,0.92387986
+Andrea Tosatto,Gabriele Amorth,0.8706765
+Andrea Tosatto,Franco Baresi,0.8443967
+Andrea Tosatto,Gianluca Pagliuca,0.8767919
+Andrea Tosatto,Gianluca Vialli,0.86128557
+Angela Davis,Angela Davis,1.0000002
+Angela Davis,Geena Davis,0.88467157
+Angela Davis,Angela Lansbury,0.94265544
+Angela Davis,Virgilio Savona,0.8712694
+Angela Davis,Viola Davis,0.9447199
+Angelica pansini,Alberto Milli,0.8432762
+Angelica pansini,Nicola Popolizio,0.84151566
+Angelo Carotenuto,Giuseppe Vessicchio,0.9076772
+Angelo Carotenuto,Carolina Benvenga,0.88191086
+Angelo Carotenuto,Franco Tancredi,0.9042276
+Angelo Carotenuto,Nicola Amoruso,0.91855085
+Angelo Carotenuto,Giovanni Galli,0.87002444
+Angelo Carotenuto,Sossio Aruta,0.7612113
+Angelo Carotenuto,Romeo Benetti,0.8794
+Anna,Anna Bolena,0.9331473
+Anna,Anna Falchi,0.935552
+Anna,Anna Ammirati,0.9484612
+Anna,Anna Stepanovna Politkovskaja,0.8431392
+Anna,Anna (rapper),0.8726891
+Anna,Anna Oxa,0.89711285
+Anna,Anna O.,0.88607824
+Anna,Anna Tatangelo,0.91693544
+Anna,Anna Mazzamauro,0.85435814
+Anna cazzo,Pippo Baudo,0.84663105
+Anna cazzo,Fedez,0.8759296
+Anna cazzo,Milly D'Abbraccio,0.8080276
+Anna cazzo,Alberto Sordi,0.821341
+Anna cazzo,Ricky Portera,0.86230457
+Anna cazzo,Cesare Zavattini,0.8341507
+Annate,François Annat,0.8471018
+Arrivabene,Maurizio Arrivabene,0.9323114
+Arrivabene,Agostino Arrivabene,0.93616235
+Arrivabene,Giberto Arrivabene Valenti Gonzaga,0.8132272
+Arrivabene,Giovanni Arrivabene,0.92529774
+Arrivabene,Ferdinando Arrivabene,0.9274045
+Arrivabene,Adelia Arrivabene,0.9110763
+Arthur,Arthur Cabral,0.93917596
+Arthur,Arthur Schopenhauer,0.9283378
+Arthur,Arthur Conan Doyle,0.81755936
+Arthur,Arthur Melo,0.9289085
+Arthur,Arthur Miller,0.92596996
+Arthur,Arthur Dove,0.8970725
+Arthur,Chester Arthur,0.94448316
+Arthur,Arthur Leclerc,0.9402188
+Asensio,Marco Asensio,0.9616246
+Asensio,Asensio Julià,0.9609119
+Asensio,José Méndez Asensio,0.9491683
+Asensio,Florentino Asensio Barroso,0.92339694
+Asensio,Matilde Asensi,0.89559275
+Asperger,Hans Asperger,0.91149
+Asperger,Greta Thunberg,0.8234581
+Assafà,Assaf Al-Qarni,0.77656937
+Assafà,Assaf Tzur,0.8097527
+Assafà,Aldair,0.94905424
+Assafà,Mira Sorvino,0.8021362
+Assafà,Careca,0.9452211
+August D,Augusto,0.8690213
+August D,August Ames,0.8495454
+August D,Augusta Montaruli,0.75419414
+Avete,Ermal Meta,0.842597
+Avremmo,Lanfranco Pace,0.836197
+Azzolina,Lucia Azzolina,0.95639
+Azzolina,Gaetano Azzolina,0.9470179
+Azzolina,Lauro Azzolini,0.8609254
+Azzolina,Pasquale Azzolina,0.95903677
+Azzolina,Angelo Azzolina,0.95794946
+Azzolina,Decio Azzolino il Giovane,0.8779663
+Azzolina,Antonio Monda,0.8579726
+Azzolina,Franco Bonisoli,0.8448024
+B. E,B.B. King,0.9407424
+B. E,B.o.B,0.9485435
+BRAVI BRAVI,Michele Bravi,0.9314636
+BRAVI BRAVI,Giorgio Bravi,0.9304583
+BRAVI BRAVI,Joe Pesci,0.8136779
+Balbontin,Enrique Balbontin,0.9475086
+Balbontin,Fabrizio Casalino,0.85613984
+Balbontin,Gianluca Fubelli,0.8397905
+Ban,Zoran Ban,0.92723
+Ban,Ban Ki-moon,0.8333388
+Ban,Shigeru Ban,0.86344373
+Ban,Ban Chao,0.92398125
+Barbara,Barbara D'Urso,0.8764364
+Barbara,Barbara Ronchi,0.9494913
+Barbara,Santa Barbara,0.9224713
+Barbara,Barbara Bouchet,0.8722757
+Barbara,Barbara Berlusconi,0.9260067
+Barbara,Barbara Palombelli,0.92469513
+Barbara,Barbara Balzerani,0.8580879
+Barbara,Barbara Gallavotti,0.8539319
+Barbi,Ciccio Barbi,0.91070867
+Barbi,Barbi Benton,0.8862015
+Barbi,Michele Barbi,0.9303347
+Barbi,Roberto Barbi,0.9364399
+Barbi,Mario Barbi,0.9178437
+Barbi,Vincent Barbi,0.92107034
+Barbi,Alice Barbi,0.9226835
+Barbi,Paolo Barbi,0.92302024
+Barbie,Klaus Barbie,0.9271146
+Barbie,Barbie Ferreira,0.90667456
+Barbiere,Bruno Barbieri (chef),0.81927687
+Barca,Fabrizio Barca,0.92427504
+Barca,Amilcare Barca,0.8329255
+Barca,Asdrubale Barca,0.9251335
+Barca,Pedro Calderón de la Barca,0.8496839
+Barella,Nicolò Barella,0.9190872
+Barella,Mauro Barella,0.9057679
+Barella,Armida Barelli,0.8748827
+Barella,Alf-Inge Håland,0.7999152
+Barella,Paolo Barelli,0.87011456
+Barella,Josep Puigdengolas Barella,0.7707219
+Bargiggia,Paolo Bargiggia,0.9144316
+Bargiggia,Giovanni Bargiggia,0.90179217
+Bargiggia,Sara Tommasi,0.86828625
+Bargiggia,Mark Iuliano,0.86864376
+Bargiggia,Saphir Taïder,0.8567625
+Basaglia,Franco Basaglia,0.9190768
+Basaglia,Vittorio Basaglia,0.89819026
+Basaglia,Franco Rotelli,0.902315
+Basaglia,Franca Ongaro,0.81192905
+Basaglia,Maria Basaglia,0.8994469
+Baschirotto,Gianlino Baschirotto,0.9246868
+Baschirotto,Davide Calabria,0.83723813
+Baschirotto,Federico Di Francesco,0.7743382
+Bassetti,Gualtiero Bassetti,0.9226131
+Bassetti,Angela Bassett,0.82913065
+Bassetti,Piero Bassetti,0.9069036
+Bassetti,Marcantonio Bassetti,0.8580477
+Bassetti,Tito Bassetti,0.91086495
+Bassetti,Remo Bassetti,0.89691037
+Bassetti,Joshua Bassett,0.82529056
+Battiato,Franco Battiato,0.9456258
+Battiato,Giacomo Battiato,0.94879603
+Battiato,Alice (cantante),0.8208207
+Battiato,Manlio Sgalambro,0.7884416
+Battiato,Giuni Russo,0.8735734
+Battiato,Giusto Pio,0.88234806
+Bei,Adele Bei,0.9196879
+Bei,Liu Bei,0.9340363
+Belen Rodriguez,Belén Rodríguez,0.9999999
+Belen Rodriguez,Stefano De Martino,0.84793425
+Belen Rodriguez,Joe Bastianich,0.87388945
+Belen Rodriguez,Rudy Zerbi,0.84522593
+Belen Rodriguez,Maria De Filippi,0.8456191
+Belen Rodriguez,Virginia Raffaele,0.8557288
+Belen Rodriguez,Elisabetta Canalis,0.9108545
+Belen Rodriguez,Barbara D'Urso,0.8341511
+Belen Rodriguez,Luca Bizzarri,0.8485033
+Bella,Gianni Bella,0.9173113
+Bella,Bella Ramsey,0.91821146
+Bella,Marcella Bella,0.9285655
+Bella,Bella Hadid,0.9262308
+Bello,Antonietta Bello,0.9414847
+Bello,Maria Bello,0.9401402
+Bello,Antonio Bello,0.93866587
+Bello,Filippo IV di Francia,0.8080607
+Bello,Marco Di Bello,0.8690818
+Beppe,Beppe Grillo,0.9287857
+Beppe,Beppe Fenoglio,0.89984137
+Beppe,Beppe Convertini,0.85976684
+Beppe,Beppe Severgnini,0.9236226
+Beppe,Beppe Viola,0.90342915
+Beppe,Giuseppe Fiorello,0.8933536
+Beppe,Beppe Montana,0.9074762
+Beppe,Beppe Recchia,0.93546164
+Beppe Sala,Giuseppe Sala (politico),0.86631525
+Beppe Sala,Gino Strada,0.85901475
+Beppe Sala,Beppe Tenti,0.9443367
+Beppe Sala,Lisa Noja,0.81472343
+Beppe Sala,Claudio Sala,0.93383694
+Berardi,Domenico Berardi,0.9450963
+Berardi,Franco Berardi,0.938599
+Berardi,Giancarlo Berardi,0.93225497
+Berardi,Gaetano Berardi,0.9358417
+Bergoglio,Papa Francesco,0.90361595
+Bergoglio,Carlo Bergoglio,0.92934626
+Bergoglio,Diego Fusaro,0.8548582
+Berisha,Etrit Berisha,0.8353625
+Berisha,Mërgim Berisha,0.8341852
+Berisha,Sali Berisha,0.89422894
+Berisha,Valon Berisha,0.9446946
+Berisha,Valmir Berisha,0.8541005
+Berisha,Bernard Berisha,0.92399395
+Berisha,Veton Berisha,0.8938863
+Berisha,Pierluigi Gollini,0.82233995
+Berlinguer,Enrico Berlinguer,0.9400115
+Berlinguer,Bianca Berlinguer,0.9276433
+Berlinguer,Giovanni Berlinguer,0.9359927
+Berlinguer,Luigi Berlinguer,0.94376653
+Berlinguer,Mario Berlinguer,0.9353757
+Berlinguer,Sergio Berlinguer,0.94040245
+Berlusca,Silvio Berlusconi,0.8946621
+Berlusconi,Silvio Berlusconi,0.9417165
+Berlusconi,Marina Berlusconi,0.92954856
+Berlusconi,Barbara Berlusconi,0.92804253
+Berlusconi,Pier Silvio Berlusconi,0.88291395
+Berlusconi,Paolo Berlusconi,0.9186642
+Bernardeschi,Federico Bernardeschi,0.93357414
+Bernardeschi,Domenico Berardi,0.88812244
+Bernardeschi,Thiago Motta,0.85559416
+Bernardeschi,Gianluca Scamacca,0.8142753
+Bernardeschi,Khouma El Babacar,0.8196763
+Bersani,Pier Luigi Bersani,0.8827872
+Bersani,Samuele Bersani,0.95226127
+Bersani,Lello Bersani,0.9536539
+Betta,Betta Lemme,0.9402802
+Betta,Marco Betta,0.92746073
+Betta,Pietro Betta,0.9467572
+Betta,Edoardo De Betta,0.88403845
+Betta,Betta Lipcsei,0.887105
+Beyoncé,Beyoncé,1.0000002
+Beyoncé,Jay-Z,0.86195064
+Biasin,Sarah Biasini,0.82892835
+Biasin,Giovanni Biasin,0.8989656
+Biasin,Oddo Biasini,0.8483962
+Biasin,Francesco Biasin,0.9165054
+Biden,Joe Biden,0.90946805
+Biden,Jill Biden,0.91132504
+Biden,Beau Biden,0.93149155
+Biden,Hunter Biden,0.9071264
+Biden,Ashley Biden,0.9032282
+Biden,Neilia Hunter Biden,0.7782968
+Bigon,Alberto Bigon,0.9402366
+Bigon,Riccardo Bigon,0.9241022
+Bigon,Bruno Bigoni,0.8888029
+Bill Gates,Bill Gates,0.99999964
+Bill Gates,Melinda Gates,0.95762837
+Bill Gates,Steve Jobs,0.9114714
+Billy,Billy Wilder,0.9071963
+Billy,Billy the Kid,0.8719225
+Billy,Billy Milligan,0.8626311
+Billy,Billy Idol,0.9209265
+Billy,Billy Baron,0.9406819
+Billy,Billy Ray Cyrus,0.8859233
+Billy,Billy Corgan,0.834983
+Billy Crystal,Billy Crystal,1.0000001
+Billy Crystal,Penn Badgley,0.86772364
+Billy Crystal,Robin Williams,0.8840904
+Bizzarri,Luca Bizzarri,0.91709745
+Bizzarri,Albano Bizzarri,0.91772074
+Bizzarri,Girolamo Bizzarri,0.9149957
+Bizzarri,Paolo Kessisoglu,0.77357554
+Bizzarri,Bianca Caterina Bizzarri,0.7976372
+Bizzarri,Claudio Bizzarri,0.9262986
+Bizzarri,Mariano Bizzarri,0.93161273
+Bizzarri,Marco Bizzarri,0.9058933
+Black Noir,Nathan Mitchell,0.86597127
+Blanco,Blanco (cantante),0.8619891
+Blanco,Raúl González Blanco,0.8948712
+Blanco,Griselda Blanco,0.938614
+Blanco,Cuauhtémoc Blanco,0.8216157
+Blanco,Jorge Blanco,0.9272802
+Blanco,Luis Carrero Blanco,0.8597795
+Blanco,Benny Blanco,0.93381995
+Blanco,Álex Blanco,0.9407667
+BoJo,Jo Bo-ah,0.8358814
+BoJo,Toshirō Mifune,0.86155134
+BoJo,Sumi Jo,0.8694048
+Bob,Bob Dylan,0.9492729
+Bob,Bob Marley,0.93415517
+Bob,Bob Odenkirk,0.8605076
+Bob,Bob Sinclar,0.89893544
+Bob,Bob Geldof,0.92362523
+Boccaccio,Giovanni Boccaccio,0.93377596
+Boccaccio,Giuseppe Boccaccio,0.94309044
+Boccaccio,Boccaccio di Chellino,0.8273142
+Boldrini,Laura Boldrini,0.9532685
+Boldrini,Arrigo Boldrini,0.93618786
+Boldrini,Michele Boldrin,0.8836063
+Boldrini,Gustavo Boldrini,0.9465086
+Boldrini,Marcello Boldrini,0.94444525
+Boldrini,Giacinto Boldrini,0.9296779
+Boldrini,Giulio Boldrini,0.93435574
+Boldrini,Anselmo Boldrin,0.888311
+Bonino,Emma Bonino,0.9404201
+Bonino,Giorgio Bonino,0.92687523
+Bonino,Marco Bonini,0.8051954
+Bonino,Bonino de Boninis,0.8454957
+Bonino,Eugenia Bonino,0.9445255
+Bonucci,Leonardo Bonucci,0.9408686
+Bonucci,Alberto Bonucci,0.9358878
+Bonucci,Emilio Bonucci,0.9174106
+Bonucci,Silvia Bonucci,0.9279907
+Bonucci,Stefano Bonucci,0.9391517
+Bonucci,Giorgio Chiellini,0.9059725
+Borbone,Ferdinando I delle Due Sicilie,0.7911066
+Borbone,Carlo III di Spagna,0.7715656
+Borbone,Filippo I di Parma,0.7882141
+Borbone,Leonor di Borbone-Spagna,0.8059912
+Borbone,Sofia di Borbone-Spagna,0.8178315
+Borbone,Pietro di Borbone-Due Sicilie,0.81038475
+Borboni,Paola Borboni,0.8894387
+Borboni,Carlo III di Spagna,0.7583498
+Borboni,Filippo I di Parma,0.78346545
+Borboni,Pietro Carlo Borboni,0.80291283
+Borboni,Ferdinando I delle Due Sicilie,0.7891705
+Borghi,Alessandro Borghi (attore),0.87452644
+Borghi,Giovanni Borghi,0.94538563
+Borghi,Björn Borg,0.88419574
+Borghi,Lucrezia Borgia,0.8819682
+Boris,Boris Johnson,0.9328935
+Boris,Boris Giuliano,0.92670834
+Boris,Boris Karloff,0.88402164
+Boris,Boris Becker,0.92439014
+Boris,Boris Pasternak,0.931777
+Bosé,Miguel Bosé,0.9454391
+Bosé,Bimba Bosé,0.899382
+Bosé,Lucia Bosè,0.93752396
+Bosé,Ariana DeBose,0.840732
+Bosé,Paola Dominguín,0.8397411
+Botman,Sven Botman,0.9482456
+Botman,Machiel Botman,0.9301248
+Botman,Dries Riphagen,0.83279425
+Bravi,Michele Bravi,0.9440813
+Bravi,Joe Pesci,0.87284225
+Bravi,Alfredo Bravi,0.94425344
+Bravo Turrini,Gerhard Berger,0.8308071
+Bravo Turrini,Lucio Dalla,0.7986428
+Bravo Turrini,Francesco Guccini,0.8437349
+Bravo Turrini,Michele Alboreto,0.86210006
+Bravo Turrini,Ralph De Palma,0.81735665
+Bravo Turrini,Paolo Conte,0.8390557
+Bravo Turrini,Filippo Magnini,0.85162175
+Bremer,Gleison Bremer,0.9215197
+Bremer,Lewis Paul Bremer,0.9051347
+Bremer,Pauline Bremer,0.9487989
+Bremer,Lucille Bremer,0.9613556
+Bremer,Arthur Herman Bremer,0.91607153
+Bremer,J.R. Bremer,0.8670781
+Briatore,Flavio Briatore,0.9503398
+Briatore,Elisabetta Gregoraci,0.8934366
+Briatore,Fernando Alonso,0.891588
+Briatore,Lucio Presta,0.8578187
+Briatore,Giorgio Panariello,0.8465722
+Britney Spears,Britney Spears,1.0000001
+Britney Spears,Jamie Lynn Spears,0.9298553
+Brunetta,Renato Brunetta,0.9428879
+Brunetta,Brunetto Latini,0.8762473
+Brunetta,Roberto Brunetti,0.8719813
+Brunetta,Ernesto Brunetta,0.94757605
+Brunetta,Juan Brunetta,0.9099518
+Brunetta,Brunetta (cantante),0.8467808
+Brunetta voto Adinolfi,Walter Veltroni,0.82679105
+Brunetta voto Adinolfi,Silvio Berlusconi,0.8584888
+Buonasera,Claudia Mori,0.8412443
+Buonasera,Nicoletta Orsomando,0.8156787
+Burioni,Roberto Burioni,0.95475876
+Burioni,Michele Dalai,0.8407537
+Burioni,Massimiliano Fedriga,0.8115673
+Burioni,Marco Bizzarri (dirigente d'azienda),0.7655816
+Burioni,Alessandro Meluzzi,0.8357861
+Bush,George W. Bush,0.87124693
+Bush,George H. W. Bush,0.85628486
+Bush,Kate Bush,0.9375244
+Bush,Sophia Bush,0.9353564
+Bush,Barbara Bush,0.926873
+Bush,Jeb Bush,0.95121694
+Bush,Natalia Bush,0.93247706
+Bush,Laura Bush,0.9166597
+Bush,Prescott Bush,0.86197126
+Busolin,Emilio Busolini,0.9055262
+Busolin,Papa Paolo VI,0.8070251
+Busolin,Alessandro Farnese (generale),0.8185507
+Busolin,Papa Gregorio XIII,0.7683413
+Busolin,Tiberio Gambaruti,0.84952533
+Butch,Butch Cassidy,0.9425969
+Butch,Butch Hartman,0.9449594
+Butch,Butch Vig,0.94923365
+Butch,Butch Lee,0.91544926
+Butch,Butch Reed,0.9114795
+Buttateli,Achille Starace,0.8544335
+Butti,Alessio Butti,0.88266087
+Butti,Cesare Butti,0.86832494
+Butti,Enrico Butti,0.8757025
+Butti,Stefano Butti,0.88898015
+Butti,Giuseppe Maria Butti,0.8135457
+Butti,Alessandro Butti,0.8747319
+Butti,Enrico Annibale Butti,0.81446123
+Butti,Carlo Butti,0.8630464
+CARLO MARIA,Carlo Maria Viganò,0.9219829
+CARLO MARIA,Carlo Maria Martini,0.9467765
+CARLO MARIA,Carlo Maria Buonaparte,0.92778707
+CARLO MARIA,Carlo Maria Maggi (terrorista),0.913784
+CARLO MARIA,Carlo Maria Giulini,0.9432319
+CARLO MARIA,Carlo di Borbone-Due Sicilie,0.8614227
+CARLO MARIA,Carlo III di Spagna,0.84633225
+CARLO MARIA,Carlo VI d'Asburgo,0.8539337
+CARLO MARIA,Ferdinando II delle Due Sicilie,0.8152849
+CARLO MARIA,Carlo IV di Spagna,0.8657357
+Calderoli,Roberto Calderoli,0.9487475
+Calderoli,Cécile Kyenge,0.89728653
+Calderoli,Giancarlo Giorgetti,0.8604543
+Calenda,Carlo Calenda,0.86770374
+Calenda,Antonio Calenda,0.89437
+Calenda,Fabio Calenda,0.89980185
+Calhanoglu,Hakan Çalhanoğlu,0.9624139
+Calhanoglu,Kerim Çalhanoğlu,0.9567447
+Calhanoglu,DJ Ringo,0.7353686
+Calhanoglu,Brahim Díaz,0.81192935
+Calhanoglu,Krzysztof Piątek,0.7768602
+Calhanoglu,Gleison Bremer,0.8511071
+Camaleonti,Antonio Cripezzi,0.8067802
+Camaleonti,Mario Lavezzi,0.8538358
+Camaleonti,Riki Maiocchi,0.80716896
+Camila Cabello #Eurovision,Nicola Savino,0.80799395
+Camila Cabello #Eurovision,Quavo,0.7712654
+Camila Cabello #Eurovision,Feli,0.81033653
+Candy Candy,John Candy,0.94347554
+Candy Candy,Candy Dulfer,0.8718598
+Candy Candy,Candy Clark,0.95035493
+Candy Candy,Candy Samples,0.89568126
+Capito,Jost Capito,0.897136
+Capito,Luciano Capitò,0.94496506
+Capito,Shelley Moore Capito,0.8996589
+Cara,Cara Delevingne,0.92559516
+Cara,Irene Cara,0.94367146
+Cara,Alessia Cara,0.94095886
+Cara,Cara Buono,0.9388952
+Caressa,Fabio Caressa,0.9532931
+Caressa,Rinaldo Caressa,0.93761516
+Caressa,Ferruccio Caressa,0.93655837
+Caressa,Lamberto Giorgi,0.84578574
+Caressa,Caresse Crosby,0.76336455
+Caressa,Pierluigi Pardo,0.86919934
+Caressa,Caressa Cameron,0.90957874
+Caressa,Stefano De Grandis,0.84824073
+Caressa,Marco Bucciantini,0.81923807
+Carino,Carino,0.99999964
+Carino,Tonino Carino,0.94419825
+Carino,Carino Pietro da Balsamo,0.86329865
+Carino,Carino Gambacorta,0.90716785
+Carl,Linneo,0.8945492
+Carl,Carl Switzer,0.87986386
+Carl,Carl Brave,0.92932904
+Carl,Carl Carl,0.9591304
+Carl,Carl von Clausewitz,0.83328307
+Carl,Carl Gustav Jung,0.86599696
+Carl,Carl Lewis,0.93980396
+Carletto,Carlo Mazzone,0.87498415
+Carletto,Carletto Sposito,0.8859016
+Carletto,Carletto Manzoni,0.90767956
+Carletto,Beppe Carletti,0.8534366
+Carletto,Carletto Gambarotta,0.8976517
+Carletto,Francesco Carletti,0.87388384
+Carlo,Carlo V d'Asburgo,0.8372029
+Carlo,Carlo III di Spagna,0.83902484
+Carlo,Carlo I d'Angiò,0.8420931
+Carlo,Carlo VI d'Asburgo,0.861564
+Carlo,Carlo Di Carlo,0.8727336
+Carlo,Carlo Ancelotti,0.918745
+Carlo,Carlo Magno,0.9213978
+Carlo Ancelotti,Carlo Ancelotti,1.0000002
+Carlo Ancelotti,Carlo Mazzone,0.92106795
+Carlo Ancelotti,Paolo Maldini,0.90394807
+Carlo Ancelotti,Giovanni Trapattoni,0.86855674
+Carlo Ancelotti,Alessandro Costacurta,0.875907
+Carlo Gaifa,Margherita Rinaldi,0.8811267
+Carlo Gaifa,Federico da Montefeltro,0.8662703
+Carlo Gaifa,Giancarlo Ceccarini,0.858684
+Carmen Miranda,Carmen Miranda,0.9999999
+Carmen Miranda,Aurora Miranda,0.9563296
+Carmen Miranda,Cesar Romero,0.8895488
+Carmine smith,Carmine Appice,0.87021077
+Carmine smith,Chad Smith,0.9417154
+Carmine smith,Carmine Gallone,0.9379429
+Carmine smith,Lea Garofalo,0.84011227
+Carmine smith,John Saxon,0.8937732
+Caro,Rafael Caro Quintero,0.88405097
+Caro,Tito Lucrezio Caro,0.8599702
+Caro,Niki Caro,0.9276813
+Caro,Annibale Caro,0.94105136
+Caro,Isabelle Caro,0.94164467
+Cate Blanchett,Cate Blanchett,1.0000002
+Catone,Marco Porcio Catone,0.83673656
+Catone,Marco Porcio Catone Uticense,0.8453425
+Catone,Giampiero Catone,0.9305328
+Catone,Marzia (moglie di Catone),0.8373685
+Cecchi Gori,Vittorio Cecchi Gori,0.9599179
+Cecchi Gori,Mario Cecchi Gori,0.9599975
+Cecchi Gori,Rita Rusić,0.8680955
+Cecchi Paone,Alessandro Cecchi Paone,0.9656804
+Cecchi Paone,Nando Paone,0.9490436
+Cecchi Paone,Daniele Bossari,0.86718214
+Cerciello Rega?,Mario Cerciello Rega,0.93499565
+Checca,Checco Zalone,0.8400072
+Checca,Andrea Checchi,0.8345605
+Checca,Checco Durante,0.88833964
+Checca,Checco Marsella,0.8688334
+Checca Acida,Indro Montanelli,0.82116145
+Checca Catone,Caligola,0.8510933
+Checca Catone,Indro Montanelli,0.7772022
+Checca Catone,Coluccio Salutati,0.79972935
+Checca Checco,Checco Zalone,0.8912171
+Checca Checco,Checco Durante,0.9055958
+Checca Checco,Andrea Checchi,0.8319111
+Checca Checco,Checco Marsella,0.91928756
+Checca Checco,Checco Rissone,0.87731487
+Checca Checco,Checco Costa,0.8947592
+Checca Isterica,Nichi Vendola,0.8152747
+Checca Paone,Totò,0.8295326
+Checca Paone,Giovanna Donini,0.875339
+Checca Paone?,Totò,0.8193729
+Checca Paone?,Giovanna Donini,0.8626205
+Checca Paone…!,Totò,0.83461434
+Checca Paone…!,Giovanna Donini,0.85652286
+Checca Pavona,Checco Durante,0.86101115
+Checca Pavona,Arisa,0.8231546
+Checca Pavona,Totò,0.8280132
+Checca Pavona,Gianni Morandi,0.8178176
+Checca Pavone,Checco Durante,0.8661002
+Checca Pavone,Arisa,0.8503625
+Checca Pavone,Totò,0.8491669
+Checca Pavone,Gianni Morandi,0.86701596
+Checca Pavone!,Checco Durante,0.84733117
+Checca Pavone!,Arisa,0.83183104
+Checca Pavone!,Totò,0.83783716
+Checca Pavone!,Gianni Morandi,0.83937895
+Checca Pavone...,Checco Durante,0.8171834
+Checca Pavone...,Arisa,0.8323565
+Checca Pavone...,Totò,0.83438337
+Checca Pavone...,Gianni Morandi,0.8387255
+Checca Pavone?,Checco Durante,0.8572272
+Checca Pavone?,Arisa,0.833326
+Checca Pavone?,Totò,0.82758456
+Checca Pavone?,Gianni Morandi,0.8420013
+Checca Rino,Checco Durante,0.8549857
+Checca Rino,Nicola Di Bari (cantante),0.84499896
+Checca Rino,Ivone De Franceschi,0.8335066
+Checca Rino,Lino Banfi,0.8467957
+Checca Rino,Arisa,0.8455683
+Checca Rino,Caparezza,0.859982
+Checca....,Checco Zalone,0.7733445
+Checca....,Andrea Checchi,0.7726891
+Checca....,Checco Durante,0.7671336
+Checca....,Checco Marsella,0.7783114
+Checco,Checco Zalone,0.9257088
+Checco,Checco Durante,0.9303756
+Checco,Checco Marsella,0.9461626
+Checco,Andrea Checchi,0.8209555
+Checco Zalone,Checco Zalone,0.9999999
+Checco Zalone,Herbert Ballerina,0.83037925
+Checco Zalone,Teresa Mannino,0.86677945
+Cherubini,Luigi Cherubini,0.90053743
+Cherubini,Gianluca Cherubini,0.88861495
+Cherubini,Bixio Cherubini,0.9085057
+Cherubini,Jovanotti,0.93836814
+Cherubini,Carlo Cherubini (calciatore),0.8455142
+Chiaro,Chiara Iezzi,0.8332876
+Chiaro,Chiara Gribaudo,0.8405379
+Chiaro,Chiara Francini,0.8479117
+Chiaro,Chiaro Davanzati,0.8511876
+Chiaro,Chiara Ferragni,0.84380287
+Chico,Chico Forti,0.92838895
+Chico,Chico Buarque,0.81797814
+Chico,Chico Mendes,0.9387739
+Chico,Francisco Conceição,0.8425946
+Chico,Chico Xavier,0.9468583
+Chico,Chico Marx,0.9370958
+Chico,Chico Díaz,0.9221899
+Chico,Valentina Chico,0.9135036
+Chris Rock,Chris Rock,0.99999976
+Chris Rock,Adam Sandler,0.87197465
+Chris Rock,Chris Cornell,0.93854344
+Chris Rock,Nanni Baldini,0.8580216
+Ciao Mario,Mario Perrotta,0.8916676
+Ciao Mario,Mario Gómez,0.913533
+Ciao Mario,Mario Gulinelli,0.86613953
+Ciccio,Ciccio Ingrassia,0.947599
+Ciccio,Franco Franchi,0.8785145
+Ciccio,Francesco Graziani,0.8996993
+Ciccio,Ciccio Merolla,0.9458245
+Ciccio,Ciccio Franco,0.9522511
+Ciccio,Ciccio Barbi,0.9510045
+Cionci,Diego Fusaro,0.82567817
+Cionci,Jack lo squartatore,0.79678607
+Cionci,Enzo Bianchi,0.80674404
+Clark Kent?,Tom Welling,0.8598258
+Claudia Pandolfi,Claudia Pandolfi,0.9999998
+Claudia Pandolfi,Claudio Santamaria,0.90009975
+Claudia Pandolfi,Giulia Michelini,0.92400557
+Claudio Borghi,Claudio Borghi (politico),0.9300528
+Claudio Borghi,Claudio Borghi (calciatore),0.92842364
+Claudio Borghi,Alessandro Borghi (attore),0.90241826
+Claudio Borghi,Matteo Salvini,0.9161204
+Claudio Borghi,Alberto Bagnai,0.9299642
+Claudio Borghi,Daniele Capezzone,0.9102978
+Claudio Checchetto..,Fabio D'Auria,0.89660144
+Cmq,Cmqmartina,0.9271983
+Cmq,Osvaldo Farrés,0.8021621
+Commisso,Rocco Commisso,0.90490437
+Commisso,Cosimo Commisso,0.9219434
+Commisso,Giuseppe Commisso,0.9231117
+Commisso,Antonio Commisso,0.9262028
+Commisso,Antonio Macrì,0.8541895
+Complimenti,Piero Chiambretti,0.86291546
+Complimenti,Francesco Scali,0.8812636
+Congratulazioni,Keanu Reeves,0.8522978
+Congratulazioni,Alessandro Prontera,0.85807776
+Congratulazioni,Carmen Villani,0.87323195
+Congratulazioni,Moisè Maldacea,0.76724577
+Conte,Giuseppe Conte,0.9366316
+Conte,Antonio Conte,0.9414656
+Conte,Paolo Conte,0.93088406
+Conte,"Camillo Benso, conte di Cavour",0.81183213
+Continuamo,Carlos Alberto Carvalho da Silva Júnior,0.8101614
+Continuamo,João Pedro Almeida Machado,0.8230861
+Continuamo,Zíbia Gasparetto,0.81049335
+Correa,Joaquín Correa,0.91929376
+Correa,Marcos Aoás Corrêa,0.81541395
+Correa,Rafael Correa,0.91657966
+Correa,Ángel Correa,0.91876686
+Correa,Juan Manuel Correa,0.85568464
+Correa,Alessandro Correa,0.90120006
+Correa,Alejandro Correa,0.91489786
+Corri,Adrienne Corri,0.9192289
+Corri,Tomas Milian,0.81456447
+CortoMuso Allegri,Massimiliano Allegri,0.86197174
+CortoMuso Allegri,Kaio Jorge,0.8325218
+CortoMuso Allegri?,Massimiliano Allegri,0.85183215
+CortoMuso Allegri?,Kaio Jorge,0.83245504
+Costanzo,Maurizio Costanzo,0.93642855
+Costanzo,Costanzo II,0.9422197
+Costanzo,Saverio Costanzo,0.94024634
+Costanzo,Nello Di Costanzo,0.8766942
+Costanzo,Costanzo Ciano,0.9581327
+Costanzo,Costanzo Cloro,0.93568444
+Costanzo,Costanzo III,0.8581434
+Cremonini,Cesare Cremonini (cantante),0.87846357
+Cremonini,Luigi Cremonini,0.93884385
+Cremonini,Davide Petrella,0.8770667
+Cremonini,Cesare Cremonini (filosofo),0.89005125
+Cremonini,Alessio Cremonini,0.9442341
+Cristiano,Cristiano Ronaldo,0.93776804
+Cristiano,Cristiano Malgioglio,0.9398601
+Cristiano,Cristiano Giuntoli,0.88968706
+Cristiano,Cristiano De André,0.8750192
+Cristiano,Cristiano Caccamo,0.93469477
+Cristiano,Cristiano Lucarelli,0.91842496
+Cristiano,Cristiano Biraghi,0.93809664
+Cristiano,Cristiano Zanetti,0.93506795
+Cristiano gardini,Dario Franceschini,0.8862742
+Cristiano gardini,Giuseppe De André,0.86415625
+Cristiano gardini,Sharon Stone,0.87673986
+Cristiano gardini,Loretta Goggi,0.89553666
+Cristo,Gesù,0.9546828
+Crosetto,Guido Crosetto,0.9366857
+Crosetto,Giorgia Meloni,0.89971554
+Crosetto,Maurizio Crosetti,0.84574103
+Crosetto,Ignazio La Russa,0.8001658
+Crosetto,Gianfranco Zola,0.8788334
+Crosetto,Giuseppe Favalli,0.82842946
+Crosetto,Guillermo Ochoa,0.8811441
+Crosetto,Fabio Rampelli,0.8155281
+DITO IN,Dito Montiel,0.8864031
+DROGATI.COMPLIMENTI,Frank Sinatra,0.826661
+DROGATI.COMPLIMENTI,Rino Gaetano,0.83102787
+DROGATI.COMPLIMENTI,Little Richard,0.8055503
+Daddy Sugar,Lisa Kleypas,0.8134145
+Daddy Sugar,Trick Daddy,0.9156158
+Dai Giampi,Domenico Giampà,0.83637667
+Dai Giampi,Giampio Devasini,0.8339212
+Dai Giampi,Giuseppe Giampà,0.8334936
+Dai Giampi,Giorgio Giampà,0.8136531
+Daisy,Daisy Ridley,0.92880046
+Daisy,Daisy Edgar-Jones,0.8382512
+Daisy,Daisy Taylor,0.9075271
+Daisy,Daisy Lumini,0.92729706
+Daje,Louiselle,0.8332753
+Daje,Matteo Ciceroni,0.8507533
+Daje,Claudio Petruccioli,0.83436984
+Daje,Linda Lanzillotta,0.83472943
+Damia' hai rotto,Publio Clodio Pulcro,0.7905636
+Daniel,Daniel Day-Lewis,0.8685053
+Daniel,Daniel Maldini,0.93087643
+Daniel,Daniel Radcliffe,0.9446744
+Daniel,Daniel Brühl,0.8927843
+Daniele,Pino Daniele,0.9290973
+Daniele,Daniele Massaro,0.93377674
+Daniele,Daniele Scardina,0.93751013
+Daniele,Daniele Capezzone,0.9310511
+Daniele,Daniele Luttazzi,0.9173087
+Daniele,Daniele Adani,0.9055519
+Daniele,Daniele Rugani,0.9294227
+Daniele,Daniele Gastaldello,0.9259792
+Danielle [Dany,Dany París,0.8694614
+Danielle [Dany,Dany Saval,0.84706455
+Danielle [Dany,Karin Viard,0.84405893
+Danielle [Dany,Cathy Ménard,0.8425856
+Danielle [Dany,Rosetta Calavetta,0.8197317
+Dante,Dante Alighieri,0.9300107
+Dante,Dante Ferretti,0.9070653
+Dante,Emma Dante,0.91968983
+Dante,Beatrice Portinari,0.82016665
+Dante,Dante Gabriel Rossetti,0.88130325
+Dante Alighieri del cazzo,Bernabò Visconti,0.76218843
+Dante Alighieri del cazzo,Fito Páez,0.75413406
+Dario Bressanini,Dario Bressanini,1.0000002
+Darmian,Matteo Darmian,0.94006443
+Darmian,Antonio Candreva,0.8914089
+Darmian,Kamil Glik,0.88733673
+Darmian,Pierre-Emerick Aubameyang,0.81279385
+Darmian,Robin Gosens,0.75353855
+Darmian,Gian Piero Ventura,0.8542713
+Darwin,Charles Darwin,0.93798304
+Darwin,Darwin Núñez,0.88682723
+Datti,Mohammed Aliyu Datti,0.7565552
+Datti,Arocle Datti,0.8001946
+Datti,Emilio Solfrizzi,0.8544924
+Datti,Jesse Eisenberg,0.75187874
+Datti,Antonio Stornaiolo,0.7986165
+Datti,Marco Simone,0.8325503
+Davi,Robert Davi,0.9194708
+Davi,Klaus Davi,0.9343182
+Davi,Davi Santos,0.9312093
+Davi,Angelo Davì,0.9339237
+Davi,Luigi Davì,0.93388045
+Davi,Davi Araújo,0.8584987
+Davi,Davi Banda,0.8854424
+Davi,Davi Rossetto,0.9200722
+Davi,Davi Cortes da Silva,0.8443296
+David Guetta,David Guetta,0.9999999
+David Guetta,Nathalie Guetta,0.95590085
+David Guetta,Cathy Guetta,0.9575105
+David Guetta,Bernard Guetta,0.9748932
+Davide di Rimini,Eron,0.77331793
+Davide di Rimini,Davide Arcangeli,0.86207235
+Davide di Rimini,Davide Pagliarani,0.8380661
+Davide di Rimini,Davide Tentoni,0.8532138
+Davide di Rimini,Davide Moscardelli,0.831717
+Davide di Rimini,Vincenzo Muccioli,0.84636486
+Davide di Rimini,Davide Di Gennaro,0.88557464
+Dayane,Dayane Mello,0.92984974
+Dayane,Moshe Dayan,0.8891733
+Dayane,Dayane Rocha,0.9330166
+Dayane,Assi Dayan,0.89067024
+Dayane,Rebecca Dayan,0.9215436
+Dayane,Dayana Mendoza,0.9120899
+Dayane,Yael Dayan,0.8904654
+Dayane,Samuel Peron,0.8282897
+De Laurentiis?,Aurelio De Laurentiis,0.9198893
+De Laurentiis?,Dino De Laurentiis,0.89849466
+De Laurentiis?,Luigi De Laurentiis,0.9302391
+De Laurentiis?,Gaia De Laurentiis,0.9142152
+De Laurentiis?,Giada De Laurentiis,0.9220271
+De Laurentiis?,Luigi De Laurentiis (1979),0.88813734
+De Laurentiis?,Gianfranco De Laurentiis,0.93435335
+De Laurentiis?,Martha De Laurentiis,0.8990574
+De Laurentiis?,Alfredo De Laurentiis,0.9307371
+De Masi,Domenico De Masi,0.9246953
+De Masi,Mauro Masi,0.93003976
+De Masi,Carlo Masi,0.9132302
+De Masi,Francesco de Masi,0.9263054
+De Masi,Masi Oka,0.8292494
+De Masi,Stefano Feltri,0.871027
+De Masi,Omicidio di Giorgiana Masi,0.8448037
+De Masi,Piero De Masi,0.9250292
+De Sciglio,Mattia De Sciglio,0.9471101
+De Sciglio,Davide Calabria,0.8433373
+De Sciglio,Danilo Luiz da Silva,0.85170954
+De Sciglio,Ignazio Abate,0.88470495
+De Sciglio,Luca Pellegrini (calciatore 1999),0.8262589
+Dean Winchester,Jeffrey Dean Morgan,0.9219345
+Dean Winchester,Jensen Ackles,0.9116473
+Del Debbio,Paolo Del Debbio,0.940573
+Del Debbio,Enrico Del Debbio,0.9445443
+Del Debbio,Debbie Harry,0.82570636
+Del Debbio,Debbie Reynolds,0.8451983
+Del Debbio,Debbie Brill,0.8439388
+Del Debbio,Armando Del Debbio,0.9495118
+Del Debbio,Debbie Allen,0.84083855
+Del Piero,Alessandro Del Piero,0.9380022
+Del Piero,Piero della Francesca,0.7971705
+Del Piero,Piero da Vinci,0.87542427
+Del Piero,Piero Chiambretti,0.8916978
+Del Piero,Piero Ricca,0.91142976
+Del Piero,Piero Angela,0.92781425
+Del Piero,Piero Lardi Ferrari,0.8449031
+Del Piero,Piero Fassino,0.92240465
+Del Piero,Piero Ceccarini,0.8946028
+Dell,Michael Dell,0.88943285
+Dell,Dorothy Dell,0.92842156
+Dell,Dell Curry,0.91555935
+Dell,Dick Dell,0.9249227
+Dell,Christian Dell,0.922335
+Dell,Dell Demps,0.85501385
+Denaro,Matteo Messina Denaro,0.8637037
+Denaro,Francesco Messina Denaro,0.8745967
+Denis Verdini,Denis Verdini,0.9999999
+Denis Verdini,Marcello Dell'Utri,0.7978473
+Denis Verdini,Sandro Bondi,0.8464822
+Depay,Memphis Depay,0.89260405
+Depay,Jordy Clasie,0.85897446
+Depay,Ruud van Nistelrooij,0.80068946
+Depay,Darwin Núñez,0.84078866
+Depay,Cody Gakpo,0.83536184
+Depay,Noa Lang,0.8001777
+Depay,Ronald Koeman,0.8066486
+Di Maria,Maria (madre di Gesù),0.8777889
+Di Maria,Maria Maddalena,0.89235306
+Di Maria,Maria Teresa d'Austria,0.8654649
+Di Maria,Maria Antonietta d'Asburgo-Lorena,0.8426004
+Di Maria,Maria Stuarda,0.84821534
+Di Maria,Maria I d'Inghilterra,0.81433886
+DiMaio A,Luigi Di Maio,0.75110364
+DiMaio A,Salvatore Di Maio,0.76106495
+DiMaio A,Sebastien De Maio,0.7678753
+DiMaio A,Olimpia Di Maio,0.7553212
+DiMaio A,Oscar Di Maio (1959),0.79226565
+DiMaio A,Gaetano Di Maio,0.7528228
+Diamine,Federico Nardelli,0.87102044
+Diamine,Sandro Pertini,0.8520942
+Diamine,Claudio,0.92438775
+Diamine,Greg Nicotero,0.86289054
+Diba,Farah Pahlavi,0.8365184
+Diba,Reza Ciro Pahlavi,0.8223006
+Diba,Agostino Di Bartolomei,0.76611924
+Diba,Ali-Reza Pahlavi,0.8223996
+Diba,Farahnaz Pahlavi,0.83638406
+Dillo,Dillo Lombardi,0.9086076
+Dillo,Paolo Belli,0.85908306
+Dillo,Giampaolo Morelli,0.8470117
+Dillo,Enrico Brignano,0.8404342
+Dillo,Isabella Cecchi,0.85756624
+Dio Ludo,Nicola Cusano,0.8537319
+Dio Ludo,Liutperga,0.8113579
+Dio Ludo,Antonio Tari,0.875574
+Dio Ludo,Radovan Karadžić,0.78448176
+Direi,Livio Cori,0.8783379
+Direi,Chris Martin,0.89082396
+Direi,Paolo Sollier,0.8254674
+Direi,Ernest Renan,0.8712727
+Direi,Davide Serra,0.8740762
+Direi,Elvis Presley,0.8621415
+Dirà,Papa Leone XII,0.7773603
+Dirà,Marko Đira,0.84910905
+Dispiace,Max Tortora,0.8504255
+Dispiace,William Viali,0.8973399
+Dispiace,Asghar Farhadi,0.82249427
+Dispiace,Sabina Began,0.87030035
+DittaturaNaziSanitaria,Francisco Franco,0.7821361
+DittaturaNaziSanitaria,Iosif Stalin,0.77477497
+DittaturaNaziSanitaria,Winston Churchill,0.80640996
+DittaturaNaziSanitaria,Papa Benedetto XVI,0.7626498
+DittaturaNaziSanitaria,Sandro Pertini,0.75963604
+Dj Ax,DJ Jad,0.9318733
+Dj Ax,J-Ax,0.91131914
+Dj Ax,Wlady,0.8757503
+Dj Ax,Francesco Facchinetti,0.8827695
+Dj Ax,Space One,0.8489197
+Dmitrij #Medvedev,Dmitrij Medvedev,0.94788265
+Dmitrij #Medvedev,Svetlana Medvedeva,0.8223106
+Dmitrij #Medvedev,Vladimir Putin,0.8116583
+Dmitrij #Medvedev,Mikheil Saak'ashvili,0.8690021
+Dmitrij #Medvedev,Aleksej Naval'nyj,0.9045819
+Dmitrij #Medvedev,Viktor Alekseevič Zubkov,0.8485992
+Donna Filomena,Isa Danieli,0.8525232
+Donna Filomena,Filomena Pennacchio,0.8564042
+Donna Filomena,Filomena Morlando,0.7936545
+Donna Filomena,Filomena Galdieri,0.79108167
+Donnarumma,Gianluigi Donnarumma,0.94745445
+Donnarumma,Antonio Donnarumma,0.9504715
+Donnarumma,Alfredo Donnarumma,0.9508661
+Donnarumma,Paolo Donnarumma,0.9463249
+Donnarumma,Elvira Donnarumma,0.9551575
+Dorian Gray,Dorian Gray (attrice),0.90930194
+Dormo,Giancane,0.88199794
+Dormo,Gianmarco Saurino,0.8368719
+Dormo,Tedua,0.87804633
+Dosio,Giovanni Antonio Dosio,0.8809319
+Dosio,Pietro Dosio,0.92791927
+Dosio,Ugo Dosio,0.9271694
+Draghi,Mario Draghi,0.91662526
+Draghi,Enzo Draghi,0.91040635
+Duce,Benito Mussolini,0.9036808
+Duce,Livio Duce,0.93281484
+Dusan,Dušan Vlahović,0.89082116
+Dusan,Dušan Tadić,0.9338474
+Dusan,Dušan Basta,0.9396548
+Dusan,Dušan Lajović,0.91112506
+Dusan,Dušan Mandić,0.9393943
+Dusan,Dušan Bajević,0.9106276
+Dusan,Dušan Ivković,0.9156466
+Dusan,Dušan Makavejev,0.8942938
+Dusan Filip Sergej,Stefanos Tsitsipas,0.8774644
+Dusan Filip Sergej,Andrej Rublëv (tennista),0.8537413
+Dusan Filip Sergej,Dragan Stojković,0.85927755
+Dybala,Paulo Dybala,0.9411878
+Dybala,Marko Pjaca,0.8097514
+Dybala,Paul Pogba,0.8765302
+Dybala,Andrea Belotti,0.9047257
+Dybala,Oriana Sabatini,0.85053957
+Dybala #,Paulo Dybala,0.9158923
+Dybala #,Marko Pjaca,0.8203162
+Dybala #,Paul Pogba,0.85436004
+Dybala #,Oriana Sabatini,0.8357706
+Dybala #,Andrea Belotti,0.88250196
+Dyson,James Dyson,0.9074069
+Dyson,Freeman Dyson,0.93922836
+Dyson,Jeremy Dyson,0.9218595
+Dyson,Jerome Dyson,0.93243533
+Dyson,Esther Dyson,0.94485795
+D’Annunzio,Gabriele D'Annunzio,0.96497345
+D’Annunzio,Gabriellino D'Annunzio,0.9548882
+D’Annunzio,Mario D'Annunzio,0.94444144
+D’Annunzio,Ugo Veniero D'Annunzio,0.93714774
+Edoardo,Edoardo Agnelli (1954),0.8625704
+Edoardo,Edoardo Leo,0.9430466
+Edoardo,Edoardo VII del Regno Unito,0.83658767
+Edoardo,Edoardo VIII del Regno Unito,0.7988129
+Edoardo,Edoardo Bennato,0.94115156
+Edoardo,Edoardo VI d'Inghilterra,0.87639445
+Edoardo,Edoardo I d'Inghilterra,0.82090056
+Edoardo,Edoardo II d'Inghilterra,0.85340935
+El0n,Amanda Lear,0.8585009
+El0n,Jannik Sinner,0.81082046
+El0n,Alain Elkann,0.87704283
+Eleonora,Eleonora Giorgi,0.9452716
+Eleonora,Eleonora Duse,0.8611921
+Eleonora,Eleonora d'Aquitania,0.8500834
+Eleonora,Eleonora Daniele,0.92632556
+Eleonora,Eleonora Evi,0.8648894
+Eleonora,Eleonora di Toledo,0.853659
+Eleonora,Eleonora Abbagnato,0.9422027
+Eleonora,Eleonora Pedron,0.8777078
+Eleonora,Eleonora Cadeddu,0.86069256
+Elia,Antonella Elia,0.94201803
+Elia,Carmine Elia,0.9429029
+Elia,Elia Kazan,0.93847287
+Elia,Elia Viviani,0.9323697
+Elia,Eljero Elia,0.8638212
+Elia,Michele Mario Elia,0.8664483
+Elia,Elia Legati,0.9316149
+Elia,Leopoldo Elia,0.9509684
+Elijah,Elijah Wood,0.95569456
+Elijah,Elijah Muhammad,0.9617129
+Elijah,Elijah Bryant,0.9368224
+Elijah,Elijah Johnson,0.936466
+Elijah,Lil Peep,0.89829147
+Elizabeth Gould Davis,Owen Davis,0.91808426
+Elizabeth Gould Davis,Julie Andrews,0.8855867
+Elizabeth Gould Davis,Susan Sarandon,0.8590583
+Elizabeth Gould Davis,Julianne Moore,0.87568605
+Elizabeth Gould Davis,Paul Giamatti,0.8357151
+Elliott,Sam Elliott,0.9133813
+Elliott,Elliott Gould,0.9174818
+Elliott,Elliott Erwitt,0.8252963
+Elliott,Missy Elliott,0.9130285
+Elliott,Harvey Elliott,0.92379165
+Elliott,Ezekiel Elliott,0.86809474
+Elliott,Elliott Smith,0.90880096
+Elliott,Joe Elliott,0.9092299
+Elliott,Emun Elliott,0.8248544
+Elodie,Élodie Yung,0.9656201
+Elodie,Elodie Treccani,0.9340555
+Elodie,Élodie Fontan,0.9678275
+Elodie,Élodie Frenck,0.93765163
+Elon Musk,Elon Musk,0.9999999
+Elvis,Elvis Presley,0.93955123
+Elvis,Lisa Marie Presley,0.85753083
+Elvis,Colonnello Tom Parker,0.8117929
+Elvis,Elvis Costello,0.9449003
+Elvis,Priscilla Presley,0.90343404
+Er muro der pianto,Federico II di Svevia,0.8030458
+Ero,ERO (artista),0.86723864
+Ero,Ero Rossi,0.8841285
+Errico Porzio:,Totò,0.8566017
+Errico Porzio:,Papa Innocenzo XII,0.8213234
+Errico Porzio:,Raffaele Viviani,0.86498106
+Etero,Danny D,0.8897001
+Etero,Paola Turci,0.828646
+Etero,Selvaggia Lucarelli,0.8380579
+Ettore,Ettore Majorana,0.9272387
+Ettore,Ettore Fieramosca,0.84492457
+Ettore,Ettore Scola,0.9240206
+Ettore,Ettore Sottsass,0.8765047
+Ettore,Ettore Petrolini,0.9248246
+Ettore,Ettore Bassi,0.92406464
+Ettore,Ettore Muti,0.9028096
+Eugenii,Eugenio Finardi,0.8173218
+Eugenii,Eugenio Montale,0.8097781
+Eugenii,Eugenio di Savoia,0.7626449
+Eugenii,Eugène Ionesco,0.82065487
+Eugenii,Eugène Sue,0.84240174
+Eugenii,Eugenio Derbez,0.81255877
+Eurovision2022,Alessandro Cattelan,0.8212973
+Evasore,Ernesto Maria Ruffini,0.82698524
+Evasore,David Riondino,0.84718674
+FARE DETENZIONE PER LEGITTIMA,Maschera di Ferro,0.70458424
+FARE DETENZIONE PER LEGITTIMA,Anna Bolena,0.6789726
+FARE IL RICCHIONE,Fabri Fibra,0.71494204
+FARE IL RICCHIONE,Salvo Lima,0.6975755
+FARE IL RICCHIONE,Roberto Calderoli,0.72107756
+FARE IL RICCHIONE,Pierre Ravanas,0.71178037
+FRATELLI D'#ITALIA',Edmondo Cirielli,0.7045188
+Fabricius,Werner Fabricius,0.93589354
+Fabricius,David Fabricius,0.95715755
+Fabricius,Johan Christian Fabricius,0.93919486
+Fabricius,Johannes Fabricius,0.96450895
+Fabricius,Ernst Fabricius,0.94116557
+Fabrizio,Fabrizio Corona,0.9274256
+Fabrizio,Fabrizio Frizzi,0.93051124
+Fabrizio,Fabrizio Gifuni,0.91769826
+Fabrizio,Fabrizio Ravanelli,0.9378702
+Fabrizio,Fabrizio Moro,0.9383565
+Fabrizio,Fabrizio Biggio,0.93127584
+Fabrizio,Fabrizio Pucci,0.92342496
+Fabrizio,Fabrizio Miccoli,0.9363148
+Fabrizio Marrazzo,Davide Silvestri,0.9006905
+Fabrizio Marrazzo,Elisa Anzaldo,0.8542294
+Faletti/Vito,Giorgio Faletti,0.84781635
+Faletti/Vito,Nino Frassica,0.7831518
+Faletti/Vito,Lorenza Mario,0.8161043
+Faletti/Vito,Cristina Garavaglia,0.8104147
+Faletti/Vito,Giovanni Falcone,0.82190645
+Faletti/Vito,Toto Cutugno,0.7808368
+Faletti/Vito,Enzo Jannacci,0.80971456
+Fantozzi,Paolo Villaggio,0.87509
+Fazio,Fabio Fazio,0.94272226
+Fazio,Federico Fazio,0.9383112
+Fazio,Pasquale Fazio,0.93887544
+Fazio,Ferruccio Fazio,0.92753994
+Fazio,Antonio Fazio,0.9362419
+Fazio,Luciana Littizzetto,0.92236435
+Fedez,Fedez,1.0
+Fedez,Chiara Ferragni,0.8673723
+Fedez,J-Ax,0.8544426
+Fedriga,Massimiliano Fedriga,0.9016987
+Fedriga,Renzo Tondo,0.8225472
+Fedriga,Alessandro Fedrigo,0.87426996
+Fedriga,Debora Serracchiani,0.8630805
+Fedriga,Costantino della Gherardesca,0.67327696
+Felice,Felice Maniero,0.9370556
+Felice,Papa Sisto V,0.79720104
+Felice,Carlo Felice di Savoia,0.82543993
+Felice,Felice Gimondi,0.9312375
+Felice,Felice Andreasi,0.87004226
+Felice,Felice Evacuo,0.93972945
+Felice,Felice Casorati,0.90712297
+FelicementeLGBT,Madonna (cantante),0.77429485
+FelicementeLGBT,Johann Joachim Winckelmann,0.8056466
+Felix,João Félix,0.94590867
+Felix,Felix Magath,0.8646912
+Felix,Miguel Ángel Félix Gallardo,0.8696389
+Felix,Felix Baumgartner,0.8243475
+Felix,Felix Mallard,0.86990774
+Felix,Félix Tshisekedi,0.81178623
+Felix,Allyson Felix,0.8562178
+Felix,Felix Silla,0.94527733
+Feltri,Vittorio Feltri,0.9404916
+Feltri,Stefano Feltri,0.9523393
+Feltri,Mattia Feltri,0.9283488
+Fenomeno,Jimmy il Fenomeno,0.8684279
+Ferragni,Chiara Ferragni,0.91762227
+Ferragni,Fedez,0.9174684
+Ferragni,Rosolino Ferragni,0.9214826
+Ferragni,Odoardo Ferragni,0.853549
+Ferragni,Francesca Manzini,0.889048
+Filastrocca Per Grandi,Davide Bregola,0.7183126
+Finocchio #Gay,Lino Banfi,0.8232794
+Finocchio #Gay,Gianluca Buonanno,0.839029
+Finocchio #Gay,Justin Fashanu,0.79553556
+Florenzi,Alessandro Florenzi,0.9265157
+Florenzi,Marianna Bacinetti,0.8033503
+Florenzi,Florenz Ziegfeld,0.7153677
+Florenzi,Giovanni Di Lorenzo (calciatore),0.82014763
+Fontana,Lucio Fontana,0.9374733
+Fontana,Lorenzo Fontana,0.94282234
+Formigli,Corrado Formigli,0.9685042
+Formigli,Giovanni Donzelli,0.86633027
+Formigli,Giuseppe Cruciani,0.889569
+Formigli,Ignazio La Russa,0.77851486
+Formigli,Michele Santoro,0.90301275
+Formigli,Valentina Petrini,0.8800749
+Fosse,Jon Fosse,0.922474
+Foto Nicola Arcuri,Francesco Coco (calciatore),0.83133507
+Foto Nicola Arcuri,Christian Vieri,0.86279297
+Foto Nicola Arcuri,Alberto Magliozzi,0.84273463
+Foto Nicola Arcuri,Loredana Bertè,0.8328784
+Foto Nicola Arcuri,Matteo Renzi,0.848296
+Francesca,Francesca Michielin,0.89680696
+Francesca,Francesca Chillemi,0.93147045
+Francesca,Francesca Lo Schiavo,0.87733704
+Francesca,Francesca Fagnani,0.84950644
+Francesca,Francesca Manzini,0.9352882
+Francesca,Piero della Francesca,0.7370958
+Francesca,Francesca da Rimini,0.86582124
+Francesca,Francesca Cavallin,0.87643456
+Francesca Catone,Marco Porcio Catone Uticense,0.86801636
+Francesca Catone,Giampiero Catone,0.92006195
+Francesca Catone,Francesca da Rimini,0.85667545
+Francesca Catone,Dionisio Catone,0.93068594
+Francesca Catone,Piero Ricca,0.9030143
+Francesca Pascale,Paola Turci,0.8691405
+Francesca Pascale,Marta Fascina,0.84985685
+Francesca Pascale,Virginia Raffaele,0.8827115
+Francesca Pascale,Michelle Bonev,0.9396246
+Francesca Pascale,Piero Ricca,0.8782982
+Francesca Pascale,Pedro Pascal,0.87323314
+Francesca Pascale,Mariarosaria Rossi,0.8550878
+Francesca Pascale,Silvio Berlusconi,0.8974093
+Francesca Pascale,Antonio Pascale,0.96137923
+Francesca Sabatella,Luigi Sabatelli,0.9250381
+Francesca Sabatella,Gaetano Sabatelli,0.93978214
+Francesca Sabatella,Francesco Hayez,0.83467597
+Francesca Sabatella,Luca Sabatelli,0.93315154
+Francesca Sabatella,Giuseppe Sabatelli,0.94317764
+Francesco,Francesco d'Assisi,0.8880769
+Francesco,Francesco Giuseppe I d'Austria,0.8551724
+Francesco,Francesco Facchinetti,0.92311007
+Francesco,Francesco Franceschi,0.9419608
+Francesco,Francesco Baracca,0.94093007
+Francesco,Francesco Lodi,0.92689955
+Francesco Totti,Francesco Totti,1.0000001
+Francesco Totti,Ilary Blasi,0.84709305
+Francesco Totti,Marco Delvecchio,0.8770531
+Francesco d'Assisi,Francesco d'Assisi,1.0000001
+Francesco d'Assisi,Chiara d'Assisi,0.96013033
+Francesco d'Assisi,Francesco d'Assisi di Borbone-Spagna,0.934559
+Franci,Carlo Franci,0.92191774
+Franci,Rinaldo Franci,0.93420637
+Franci,Mario Tuti,0.8119137
+Franci,Adolfo Franci,0.9542838
+Franci,Benvenuto Franci,0.93755764
+Franci,Francisco Franco,0.8964679
+Franco Grillini,Franco Grillini,1.0000001
+Franco Grillini,Alba Parietti,0.8698718
+Franco Grillini,Daniele Capezzone,0.9123433
+Franco Grillini,Alfredo Ormando,0.83979964
+Franco Grillini!,Franco Grillini,0.959826
+Franco Grillini!,Alba Parietti,0.8390119
+Franco Grillini!,Daniele Capezzone,0.8865559
+Franco Grillini!,Alfredo Ormando,0.82098794
+Fratoianni,Nicola Fratoianni,0.893966
+Fratoianni,Arturo Scotto,0.87105316
+Fratoianni,Angelo Bonelli,0.865896
+FredDePalma,Fred De Palma,0.8040614
+FredDePalma,Marracash,0.8443469
+FredDePalma,Shade (rapper),0.7942732
+Freda,Franco Freda,0.91111535
+Freda,Riccardo Freda,0.8955809
+Freda,Giovanni Ventura,0.8668723
+Freda,Steno,0.8892455
+Freda,Krystyna Freda,0.79877883
+Freda,Francesco Freda,0.90731263
+Freda,Freda Foh Shen,0.7634876
+Freda,Elena Freda,0.90423954
+Frits,Frits Bolkestein,0.8995329
+Frits,Frits Thaulow,0.9173968
+Frits,Frits Staal,0.921679
+Frits,Frits Zernike,0.90973544
+Frits,Frits Smol,0.9289888
+Frits,Frits Lugt,0.9324963
+Frits,Frits van den Berghe,0.8986638
+Frits,Frits Kuipers,0.9565052
+Frits,Frits Clausen,0.9278172
+Fritz,Taylor Fritz,0.88167894
+Fritz,Fritz Lang,0.93614966
+Fritz,Federico II di Prussia,0.80493855
+Fritz,Fritz Haber,0.94345325
+Fritz,Fritz Haarmann,0.8341601
+Fritz,Fritz da Cat,0.87205195
+Fritz,Fritz Walter,0.9355914
+Fritz,Fritz Sauckel,0.88317376
+Frocia,Alessandra Mussolini,0.8652649
+Frocia,Vladimir Luxuria,0.88977194
+Frocia,Jerry Lewis,0.86441314
+Frocia,Immanuel Casto,0.84716314
+Frocia,Fidel Castro,0.84932154
+G.Mosconi,Benito Mussolini,0.80715513
+G.Mosconi,Papa Francesco,0.76169103
+Gabriele,Gabriele D'Annunzio,0.88352627
+Gabriele,Gabriele Amorth,0.9373075
+Gabriele,Gabriele dell'Addolorata,0.8607744
+Gabriele,Gabriele Muccino,0.9194579
+Gabriele,Gabriele Salvatores,0.9018012
+Gabriele,Gabriele Corsi,0.9465201
+Gabriele,Gabriele Rossi (attore),0.87422013
+Gabriele,Gabriele Procida,0.94634885
+Gagliardini,Roberto Gagliardini,0.9613145
+Gagliardini,João Mário,0.7945357
+Gagliardini,Federico Dimarco,0.8193638
+Gagliardini,Cristiano Biraghi,0.8659185
+Gagliardini,Andrea Ranocchia,0.85393226
+Galli,Giovanni Galli,0.9143155
+Galli,Filippo Galli (calciatore),0.8898939
+Galli,Ernesto Galli della Loggia,0.7621127
+Galli,Giorgio Galli,0.91347474
+Galli,Niccolò Galli,0.92457175
+Galli,Ida Galli,0.92515296
+Galli,Carlo Galli (politico),0.87827766
+Garibaldi,Giuseppe Garibaldi,0.9425467
+Garibaldi,Anita Garibaldi,0.93556935
+Garibaldi,Ricciotti Garibaldi,0.8908392
+Garibaldi,Peppino Garibaldi,0.933246
+Gascoigne,Paul Gascoigne,0.89125156
+Gascoigne,George Gascoigne,0.891518
+Gascoigne,William Gascoigne,0.90120745
+Gascoigne,Alison Gascoigne,0.9015082
+Gascoigne,Julian Gascoigne,0.9041074
+Gascoigne,Roberto Di Matteo,0.7908757
+Gasperini,Gian Piero Gasperini,0.8688155
+Gasperini,Brunella Gasperini,0.9246316
+Gasperini,Luciano Gasperini,0.93333614
+Gasperini,Enrico Gasperini,0.93545943
+Gasperini,Pierluigi Gollini,0.8465793
+Gasperini,Claudia Gasperini,0.9045036
+Gasperini,Ivan Jurić,0.80591816
+Gay Pride,Imma Battaglia,0.80725276
+Gay Pride,Elly Schlein,0.7741293
+Gayo,Rosa Montero,0.86564505
+Gayo,Kai (cantante),0.8536265
+Gayo,Carlotta di Meclemburgo-Strelitz (1744-1818),0.78920895
+Geltrude,Geltrude Comensoli,0.8383852
+Geltrude,Geltrude Righetti,0.90177643
+Geltrude,Gertrude di Helfta,0.7900552
+Gender,Judith Butler,0.8731586
+Gennaro,San Gennaro,0.93632126
+Gennaro,Gennaro Gattuso,0.94442177
+Gennaro,Gennaro Sangiuliano,0.9431639
+Gennaro,Raiz,0.8147167
+Gennaro,Gennaro Tutino,0.9376617
+Gennaro,Gennaro Volpe,0.93441904
+Gennaro,Gennaro Delvecchio,0.9415747
+Gennaro,Gennaro Esposito,0.933119
+Gentiloni,Paolo Gentiloni,0.93137324
+Gentiloni,Vincenzo Ottorino Gentiloni,0.81205255
+Gentiloni,Umberto Gentiloni,0.9351013
+Gentiloni,Dario Franceschini,0.8667743
+Gentiloni,Sergio Mattarella,0.88812757
+Gesu Cristo,Gesù,0.95657563
+Gesù,Gesù,1.0000004
+Gesù,Maria (madre di Gesù),0.88514346
+Gesù Cristo,Gesù,0.95657563
+Gesù Cristo,Maria (madre di Gesù),0.896861
+Gianfranco Fini,Gianfranco Fini,1.0000004
+Gianfranco Fini,Italo Bocchino,0.8663939
+Gianfranco Fini,Francesco Storace,0.8945909
+Gianni Clerici,Gianni Clerici,0.9999995
+Gianni Clerici,Antonella Clerici,0.97396183
+Gianni Clerici,Gianni Clerici (giocatore di baseball),0.8803078
+Gianni Clerici,Adriano Panatta,0.89701486
+Gianni Clerici,Nicola Pietrangeli,0.8971775
+Gianni Clerici,Ivan Lendl,0.8080206
+Gianni Clerici,Teo Teocoli,0.7697431
+Gianni Comodino,Daniela Santanchè,0.8677428
+Gianni Comodino,Umberto I di Savoia,0.76872766
+Gianni Comodino,Roman Polański,0.84031487
+Giannini,Giancarlo Giannini,0.93821007
+Giannini,Massimo Giannini,0.94524413
+Giannini,Adriano Giannini,0.9280219
+Giannini,Giuseppe Giannini (calciatore),0.89830846
+Giannini,Lamberto Giannini,0.9388846
+Giannini,Stefania Giannini,0.9501741
+Giannini,Guglielmo Giannini,0.93050945
+Giannini,Oscar Giannino,0.86239564
+Giggino,Luigi Cesaro,0.89241636
+Giggino,Nile Rodgers,0.8656088
+Giggino,Pino Imperatore,0.8814682
+Gigi D'Alessio,Gigi D'Alessio,0.99999976
+Gigi D'Alessio,Gigi Finizio,0.8963201
+Gin Mare,Margit Evelyn Newton,0.80717117
+Giorgetti,Giancarlo Giorgetti,0.91601217
+Giorgetti,Alberto Giorgetti,0.92381865
+Giorgetti,Giorgetto Giugiaro,0.83355033
+Giorgetti,Rodolfo Giorgetti,0.92005134
+Giorgetti,Alex Giorgetti,0.92218214
+Giorgetti,Nello Giorgetti,0.8982835
+Giorgetti,Ferdinando Giorgetti,0.9128374
+Giorgetti,Giuseppe Giorgetti,0.92559373
+Giorgetti,Edoardo Giorgetti,0.9250355
+Giorgia,Giorgia Meloni,0.9372109
+Giorgia,Giorgia (cantante 1971),0.86057097
+Giorgia,Giorgia Palmas,0.92669505
+Giorgia,Giorgia Surina,0.9325833
+Giorgia,Giorgia Villa,0.9364565
+Giorgia,Giorgia Rossi,0.9145467
+Giorgia,Giorgia Würth,0.839398
+Giorgia #Meloni,Giorgia Meloni,0.9245491
+Giorgia #Meloni,Guido Crosetto,0.83880734
+Giorgia #Meloni,Francesco Lollobrigida,0.8164235
+Giorgia #Meloni,Matteo Salvini,0.8506129
+Giorgia Meloni,Giorgia Meloni,1.0000001
+Giorgia Meloni,Francesco Lollobrigida,0.88807863
+Giorgia Meloni,Guido Crosetto,0.911533
+Giorgia Meloni,Matteo Salvini,0.9098414
+Giorgia Meloni?,Giorgia Meloni,0.94684744
+Giorgia Meloni?,Guido Crosetto,0.874302
+Giorgia Meloni?,Francesco Lollobrigida,0.860575
+Giorgia Meloni?,Matteo Salvini,0.87222934
+Giovanni Nane,Giovanni Vecchina,0.9808197
+Giovanni Nane,Giuliano Scabia,0.8507295
+Giroud,Olivier Giroud,0.9575353
+Giroud,Françoise Giroud,0.8361778
+Giroud,Giroud (calciatore),0.89012134
+Giroud,Randal Kolo Muani,0.74444234
+Giroud,Divock Origi,0.78172976
+Giroud,Brahim Díaz,0.8374374
+Giuli,Giuli Manjgaladze,0.82237947
+Giuli,Luigia Giuli Vaccolini,0.877296
+Giuli,Augusto De Giuli Botta,0.84037
+Giulia,Giulia Michelini,0.93078387
+Giulia,Giulia Salemi,0.9443009
+Giulia,Giulia Elettra Gorietti,0.89373094
+Giulia,Giulia Stabile,0.9421596
+Giulia Musso,Giulio Musso,0.9533416
+Giulia Musso,Cornelio Musso,0.93353033
+Giuly,Ludovic Giuly,0.94588214
+Giuly,Beatrice Arnera,0.83617204
+Giuly,Giorgio Mastrota,0.8644843
+Giuly,Massimo Ciavarro,0.88393027
+Giuly,Alessandro D'Ambrosi,0.80983317
+Giuly,Francesco Pannofino,0.88889444
+Giuly,Luciana Littizzetto,0.8656032
+Giuseppe Conte,Giuseppe Conte,1.0
+Giuseppe Conte,Giuseppe Conte (scrittore),0.90458226
+Giuseppe Conte,Luigi Di Maio,0.83102095
+Giuseppe Conte,Francesco Giuseppe I d'Austria,0.82631636
+Giuseppe Conte,Gaetano Manfredi,0.8830337
+Giuseppe Conte,Sergio Mattarella,0.8640466
+Giusto,Giusto Pio,0.93842113
+Giusto,Giacomo il Giusto,0.84779334
+Giusto,Giusto Gervasutti,0.8423786
+Giusto,Giusto di Trieste,0.79961956
+Giusto,Riccardo Giusto,0.94088733
+Giusto,Giusto Lipsio,0.88554835
+Godo,Ezio Vendrame,0.8283355
+Gonzaga,Luigi Gonzaga,0.9036767
+Gonzaga,Francesco II Gonzaga,0.8459631
+Gonzaga,Federico II Gonzaga,0.8441981
+Gonzaga,Vincenzo I Gonzaga,0.8409379
+Governati,Nello Governato,0.87687856
+Governati,Giovanni Governato,0.86782587
+Grazie Checca,Checco Zalone,0.7122841
+Grazie Checca,Gianni Morandi,0.7477621
+Grazie Checca,Teresa Mannino,0.7626158
+Grazie Checca,Checco Miletto de Rossi,0.7300832
+Grazie Checca,Nicola Di Bari (cantante),0.7546389
+Greta,Greta Thunberg,0.8588546
+Greta,Greta Scarano,0.95226955
+Greta,Greta Scacchi,0.9402302
+Greta,Greta Gerwig,0.85021245
+Greta,Melissa Greta Marchetto,0.87524694
+Greta,Greta Manuzi,0.9164899
+Greta,Greta Ferro,0.93027127
+Grillo,Beppe Grillo,0.9423351
+Grillo,Frank Grillo,0.9299259
+Grillo,Giulia Grillo,0.93152213
+Grillo,Onofrio del Grillo,0.8370589
+Guardatela,Edoardo Vianello,0.866874
+Guardatela,Chelo Alonso,0.789386
+Guardatela,Johnny Dorelli,0.7960291
+Guardatela,San Sebastiano,0.87025136
+Guardatela,Enzo Garinei,0.83065856
+Guardatela,Mario Mattoli,0.8048289
+Guardiola,Carlo Ancelotti,0.87266976
+Guardiola,Sergi Guardiola,0.94520277
+Guardiola,José Guardiola,0.94458187
+Guardiola,Carlo Mazzone,0.854396
+Guevara,Che Guevara,0.9090728
+Guevara,Izan Guevara,0.82598186
+Guevara,Ander Guevara,0.84287524
+Guevara,Monika Ertl,0.810192
+Guevara,Sammy Guevara,0.91261613
+Guzzanti,Corrado Guzzanti,0.95969677
+Guzzanti,Sabina Guzzanti,0.9517445
+Guzzanti,Paolo Guzzanti,0.9432101
+Guzzanti,Caterina Guzzanti,0.93983245
+Guzzanti,Corrado Luigi Guzzanti,0.9018871
+Guzzanti,Elio Guzzanti,0.93653184
+Guzzanti,Marco Marzocca,0.8208574
+Haha,Fujiwara no Michitsuna no Haha,0.8144403
+Handanovic,Samir Handanovič,0.9651607
+Handanovic,Jasmin Handanovič,0.9519918
+Handanovic,João Mário,0.84209186
+Handanovic,André Onana,0.8177892
+Handanovic,Gianluca Pagliuca,0.853582
+Handanovic,Davide Faraoni,0.870423
+Handanovic,Sébastien Frey,0.8868069
+Handanovic,Ionuț Radu,0.8236656
+Handanovic,Marek Hamšík,0.86743504
+Harry,Harry Styles,0.92807615
+Harry,"Henry, duca di Sussex",0.83912706
+Harry,Harry Kane,0.92601275
+Harry,Harry Shum Jr.,0.8800707
+Harry,Debbie Harry,0.9496756
+Harry Styles,Harry Styles,0.9999997
+Hei,Donnie Yen,0.8696797
+Hei,Maggie Cheung,0.83552134
+Hei,Claudia Mori,0.8596116
+Hei,Mark Vande Hei,0.8562857
+Henry,Thierry Henry,0.94954777
+Henry,Henry Cavill,0.9500932
+Henry,O. Henry,0.91334534
+Henry,Henry Moon,0.9295974
+Henry,"Henry, duca di Sussex",0.869436
+Henry,Henry James,0.93641615
+Henry,Henry Fonda,0.93715787
+Henry,Mark Henry,0.94529235
+Higgs,Peter Higgs,0.89405686
+Higgs,Michael Higgs,0.883196
+Higgs,Stephen Hawking,0.8607372
+Higgs,Joe Higgs,0.8893722
+Hob,Franz Joseph Haydn,0.8307272
+Hob,Mimmo Locasciulli,0.7850425
+Hob,Leonard Bernstein,0.8248837
+How Sergio Perez,Cristiano Ronaldo,0.82853615
+How Sergio Perez,Ana de Armas,0.81009
+How Sergio Perez,Frédéric Vasseur,0.79215896
+How Sergio Perez,Lewis Hamilton,0.81491137
+How Sergio Perez,Lionel Messi,0.80990076
+How Sergio Perez,Pelé,0.81050277
+Hughie,Hughie Green,0.94347036
+Hughie,Hughie Thomasson,0.9264568
+Hughie,Hughie Mack,0.92561424
+Hughie,Hughie Fury,0.93624157
+Hughie,Hughie Jennings,0.94131434
+Hughie,Hughie Gallacher,0.8997741
+Hughie,Hugh Grant,0.91056955
+Hughie,Hugh Jackman,0.8904958
+Huston,John Huston,0.89722407
+Huston,Anjelica Huston,0.8059911
+Huston,Jack Huston,0.89557314
+Huston,Danny Huston,0.9294523
+Huston,Walter Huston,0.88919145
+IL DIRITTO DI VEDERMI,Jake Gyllenhaal,0.7662271
+IL DIRITTO DI VEDERMI,Vittoria del Regno Unito,0.7708194
+IL DIRITTO DI VEDERMI,Friedrich Nietzsche,0.77661026
+IL DIRITTO DI VEDERMI,Artemisia Gentileschi,0.7464356
+IL DIRITTO DI VEDERMI,Pëtr Il'ič Čajkovskij,0.6890724
+IL DIRITTO DI VEDERMI,Aldo Schiavone,0.7710627
+IV,Enrico IV di Franconia,0.84170777
+IV,Giorgio IV del Regno Unito,0.8090451
+IV,Filippo IV di Francia,0.8265327
+IV,Akhenaton,0.83742654
+IV,Carlo IV di Lussemburgo,0.807728
+Ian McKellen,Ian McKellen,0.99999964
+Ian McKellen,Ian McDiarmid,0.8513423
+Idiota,Herbert Ballerina,0.8746927
+IlVizietto,Marco Columbro,0.8212859
+IlVizietto,Benny Luke,0.81922483
+IlVizietto,Antonella Interlenghi,0.7941228
+IlVizietto,Giovanni Di Lorenzo (calciatore),0.8300052
+Ilary Blasi,Ilary Blasi,1.0000002
+Ilary Blasi,Francesca Manzini,0.8706672
+Ilary Blasi,Teo Mammucari,0.78729254
+Informando,Natalie Dormer,0.8248703
+Informando,Biagio Conte (missionario),0.79553044
+Inginocchiati Ecc,Leonardo da Vinci,0.7245459
+Inginocchiati Ecc,Pinturicchio,0.83629686
+Inginocchiati Ecc,Augusto,0.82816935
+Insigne,Lorenzo Insigne,0.9529574
+Insigne,Roberto Insigne,0.9456894
+Insigne,Stanislav Lobotka,0.8122052
+Inter-Juve,Leonardo Bonucci,0.7542764
+Inter-Juve,Fabio Cannavaro,0.76698387
+Inter-Juve,João Cancelo,0.72377884
+Inter-Juve,Mauro Icardi,0.80832016
+Inter-Juve,Danilo D'Ambrosio,0.80310374
+Inter-Milan,Milan Škriniar,0.7863024
+Inter-Venezia,Ferruccio Mazzola,0.75704855
+Inter-Venezia,Riccardo Bocalon,0.7170962
+Inventandosi,Luca Giordano,0.8125081
+Inventandosi,Pierre Plantard,0.80778813
+Inventandosi,Jane Fonda,0.7900204
+Inzaghi,Filippo Inzaghi,0.95442235
+Inzaghi,Simone Inzaghi,0.94455004
+Inzaghi,Inzaghi Donígio,0.86612403
+Inzaghi Simone,Simone Inzaghi,0.9559127
+Inzaghi Simone,Filippo Inzaghi,0.9319459
+Inzaghi Simone,Simone Barone,0.9030473
+Inzaghi Simone,Marco Simone,0.91050625
+Inzaghi Simone,Federico Dimarco,0.8142317
+Ipocrita,Brendan Fraser,0.86702347
+Italo,Italo Calvino,0.92149746
+Italo,Italo Galbiati,0.9463638
+Italo,Italo Bocchino,0.93549514
+Italo,Italo Svevo,0.9326929
+Italo,Italo Balbo,0.92765784
+Jacopo' Prof,Caterina da Siena,0.785511
+Jacopo' Prof,Loris J. Bononi,0.90283847
+Jason,Jason Statham,0.8873034
+Jason,Jason Momoa,0.87908214
+Jason,Jason Robards,0.8604479
+Jason,Jason Bateman,0.9397144
+Jason,Jason Isaacs,0.8818354
+Jason,Jason Schwartzman,0.87691355
+Jason,Jason Beghe,0.95156753
+Jason,Jason Sudeikis,0.85051566
+Jeff Benjamin,IU (cantante),0.8164973
+Jeff Benjamin,Suga,0.8696127
+Jeff Benjamin,Jennie Kim,0.84155047
+Jeff Benjamin,J-Hope,0.82456446
+Jennie,Jennie Kim,0.92899483
+Jennie,Jennie Garth,0.92684054
+Jennie,Jennie Jerome,0.91834676
+Jennie,Jenn Murray,0.844807
+Jennie,Jennie Lee,0.9056598
+Jennie,Jennie Livingston,0.9183322
+Jennifer Lopez,Jennifer Lopez,1.0
+Jennifer Lopez,Ben Affleck,0.85245967
+Jennifer Lopez,Marc Anthony,0.86083305
+Jeremy,Ron Jeremy,0.9284443
+Jeremy,Jeremy Irons,0.93416345
+Jeremy,Jérémy Ménez,0.9425354
+Jeremy,Jeremy Renner,0.93779725
+Jeremy,Jeremy Meeks,0.95146215
+Jeremy,Jeremy Davies,0.9404502
+Jeremy,Jeremy Clarkson,0.93272674
+Jeremy,Jeremy Mbakogu,0.8500236
+Jessica,Jessica Chastain,0.9181694
+Jessica,Jessica Watson,0.9322101
+Jessica,Jessica Lange,0.9265471
+Jessica,Jessica Biel,0.9436535
+Jessica,Jessica Morlacchi,0.94502485
+Jessica,Jessica Alba,0.92943716
+Jessica,Jessica Capshaw,0.9388914
+Jessica,Jessica Simpson,0.92769516
+John Waters,John Waters (regista 1946),0.9148784
+John Waters,Roger Waters,0.9654815
+John Waters,Divine,0.86161053
+John Waters,John Waters (regista 1893),0.9148784
+John Waters,Melanie Griffith,0.863723
+Johnson,Magic Johnson,0.93906415
+Johnson,Aaron Taylor-Johnson,0.88298255
+Johnson,Dakota Johnson,0.92604876
+Johnson,Dwayne Johnson,0.87627184
+Johnson,Ashley Johnson,0.9253256
+Johnson,Lyndon B. Johnson,0.8484766
+Johnson,Robert Johnson,0.92978394
+Johnson,Boris Johnson,0.93817544
+Jovanotti,Jovanotti,1.0
+Jovanotti,Claudio Cecchetto,0.901994
+Juan Jesus,Juan Jesus,1.0000004
+Juan Jesus,Juan Jesús Posadas Ocampo,0.9146981
+Juan Jesus,Juan Jesús Gutiérrez,0.94783676
+Juan Jesus,Gabriel Jesus,0.9594975
+Juric,Ivan Jurić,0.9521554
+Juric,Stanko Jurić,0.9306865
+Juric,Jurica Golemac,0.90691143
+Juric,Tomi Jurić,0.93896294
+Juric,Goran Jurić,0.9392939
+Juric,Frank Juric,0.95042133
+Juric,Matteo Paro,0.84376097
+Juve,Jørgen Juve,0.953575
+Juve,Leonardo Bonucci,0.8547417
+Juve,Claudio Marchisio,0.8767878
+Juve,Cristiano Ronaldo,0.87010413
+Juve,Giorgio Chiellini,0.848652
+Kaan Reed,Jon Favreau,0.83814174
+Kaan Reed,Paul Sand,0.85437036
+Karen,Karen Gillan,0.93693423
+Karen,Karen Grassle,0.88299036
+Karen,Karen Blixen,0.9316062
+Karen,Karen Lancaume,0.84345806
+Karen,Karen Mok,0.9426011
+Karen,Karen Carpenter,0.9273116
+Karen,Karen Black,0.9180723
+Karen,Karen Elson,0.8847466
+Karin Jeanne-Pierre,Maria Antonietta d'Asburgo-Lorena,0.9176436
+Karin Jeanne-Pierre,Georges Descrières,0.8737729
+Karin Jeanne-Pierre,Laurent Voulzy,0.85882396
+Kessie,Franck Kessié,0.9646064
+Kessie,Ismaël Bennacer,0.7768202
+Kessie,Stefano Pioli,0.79654306
+Kessie,Mike Maignan,0.74930525
+Kessie,Andrea Conti (calciatore 1994),0.7826532
+Kessie,Lucas Biglia,0.75974107
+Kessie,Ricardo Rodríguez,0.7620402
+Kimmich,Joshua Kimmich,0.9555337
+Kimmich,Davide Frattesi,0.80351114
+Kimmich,Thomas Müller (calciatore),0.8676469
+Kimmich,Hans-Dieter Flick,0.85208154
+Kimmich,Tommaso Pobega,0.8558631
+Kinn,Kinnie Laisné,0.8796078
+Kinn,Alfonzo McKinnie,0.83210087
+Kinn,Bryant McKinnie,0.83206147
+Kinn,Burt McKinnie,0.8407347
+Kirill,Kirill Vladimirovič Romanov,0.90210354
+Kirill,Kirill Petrenko,0.90817875
+Kirill,Kirill Serebrennikov,0.8782226
+Kirill,Kirill Pletnёv,0.95393753
+Kirill,Cirillo I,0.8044768
+Kirill,Kirill Kosarev,0.91363585
+Kirill,Kirill Nababkin,0.912369
+Klaus,Klaus Kinski,0.8665875
+Klaus,Klaus Barbie,0.93855274
+Klaus,Klaus Schwab,0.8747792
+Klaus,Klaus Iohannis,0.8467517
+Klaus,Klaus Davi,0.9563017
+Klaus,Klaus Mann,0.94395775
+Klaus,Klaus Schulze,0.8866775
+Klaus,Klaus Meine,0.8694331
+Klaus Davi,Klaus Davi,0.9999999
+Klaus Davi,Marcello Dell'Utri,0.81373096
+Klaus Davi,Antonio Bartolo Malacrinò,0.8406048
+Klaus Davi,Myrta Merlino,0.8557515
+Klaus Davi,Filippo Barreca,0.89595366
+Klaus Davi,Filippo D'Acquarone,0.8436871
+Klaus Davi,Antonello Piroso,0.8387115
+Klay Thompson,Klay Thompson,1.0
+Klay Thompson,Tristan Thompson,0.9465583
+Klay Thompson,Jordan Poole,0.8609326
+Klay Thompson,Stephen Curry,0.88870955
+Klay Thompson,Mychal Thompson,0.9246652
+Kolarov,Aleksandar Kolarov,0.85520446
+Kolarov,Vasil Kolarov,0.8025415
+Kolarov,Luca Pellegrini (calciatore 1999),0.8309787
+Kolarov,Tommaso Augello,0.8830431
+Kolarov,Nicolò Zaniolo,0.813967
+Kolarov,Lorenzo Pellegrini,0.8741373
+Kolarov,Riccardo Calafiori,0.80988246
+Koulibaly,Kalidou Koulibaly,0.8461896
+Koulibaly,Amir Rrahmani,0.8070908
+Koulibaly,Giovanni Di Lorenzo (calciatore),0.85042554
+L. Sciascia,Leonardo Sciascia,0.764091
+L. Sciascia,Ugo Sciascia,0.78357875
+L. Sciascia,Gesualdo Bufalino,0.7578995
+L. Sciascia,Antonino Sciascia,0.79222894
+LAVARE E RUBARE!,LiAngelo Ball,0.7693068
+LAVARE E RUBARE!,San Girolamo,0.792696
+LAVARE E RUBARE!,Papa Francesco,0.7483223
+LESBICA MALATA,Maria Antonietta d'Asburgo-Lorena,0.806333
+LESBICHE AGGREDITA,Mélanie Henique,0.81450987
+LESBICHE AGGREDITA,Madonna (cantante),0.82443047
+LORENZO PIACENTINI,Marcello Piacentini,0.9572416
+LORENZO PIACENTINI,Lorenzo Pellegrini,0.943511
+LORENZO PIACENTINI,Lorenzo Valla,0.9378924
+Labate,Gabriella Labate,0.9488839
+Labate,Tommaso Labate,0.93765974
+Labate,Manuele Labate,0.9441381
+Labate,Wilma Labate,0.9525549
+Labate,Camilla Labate,0.9362171
+Labate,Raf,0.85528505
+Labate,Giorgia Gianetiempo,0.826314
+Lady Frocia,Alessandra Mussolini,0.8731816
+Lady Frocia,Fabio Canino,0.84128374
+Larry,Larry Bird,0.9351261
+Larry,Larry Page,0.9213834
+Larry,Larry Mullen,0.86844563
+Larry,Larry Ellison,0.94894195
+Larry,Larry David,0.9510735
+Larry,Larry Sanger,0.866472
+Larry,Larry King,0.9388505
+Larry,Larry Semon,0.89394253
+LauraBoldrini,Laura Boldrini,0.9552649
+LauraBoldrini,Gianluca Buonanno,0.85875195
+Lautaro,Lautaro Martínez,0.93563044
+Lautaro,Lautaro,1.0
+Lautaro,Lautaro Valenti,0.9473267
+Lautaro,Lautaro Acosta,0.9231423
+Lautaro,Franco Lautaro Costa,0.90404415
+Leao,Rafael Leão,0.9363267
+Leao,Émerson Leão,0.9437021
+Leao,Nara Leão,0.9511982
+Leao,Charles De Ketelaere,0.78525746
+Leao,Divock Origi,0.7859766
+Leclerc,Arthur Leclerc,0.88734305
+Leclerc,Charles Victoire Emmanuel Leclerc,0.81512046
+Leggete,Laura Linney,0.82729566
+Leggete,George H. W. Bush,0.8160871
+Leggete,Mario Scelba,0.8439752
+Leggete,David Bowie,0.8690882
+Leggete,Paolo Villaggio,0.86845124
+Leggete,Luciano Bianciardi,0.8671813
+Leggete,Luca Mercalli,0.8662462
+Leggete,Cornelius Horan,0.8561615
+Lenin,Lenin,1.0
+Lenin,Lenin Mancuso,0.92701066
+Lenin,Lenín Moreno,0.87834054
+Leonardo Sciascia,Leonardo Sciascia,1.0
+Leonardo Sciascia,Gian Maria Volonté,0.8029039
+Letizia,Letizia Moratti,0.9231268
+Letizia,Letizia Ciampa,0.9520627
+Letizia,Letizia Ortiz,0.9471462
+Letizia,Letizia Battaglia,0.91177285
+Letizia,Letizia Scifoni,0.87284446
+Letizia,Grazia Letizia Veronese,0.89681685
+Letizia,Giuseppe Letizia,0.9420759
+Letizia,Gaetano Letizia,0.9289261
+Letizia,Letizia Paternoster,0.8730149
+Letta,Enrico Letta,0.93503994
+Letta,Gianni Letta,0.93444926
+Letta,Giampaolo Letta,0.9114231
+Letta,Giorgio Letta,0.9148225
+Letta,Dario Franceschini,0.88434917
+Letta,Letta Mbulu,0.8560549
+Letta #DiMaio #Berlusconi,Enrico Letta,0.7838462
+Letta #DiMaio #Berlusconi,Angelino Alfano,0.80554557
+Letta #DiMaio #Berlusconi,Anna Maria Bernini,0.7562269
+Letta #DiMaio #Berlusconi,Oscar Di Maio (1959),0.847121
+Letta #DiMaio #Berlusconi,Marcello Dell'Utri,0.82405114
+Letta #DiMaio #Berlusconi,Mara Carfagna,0.765276
+Letta #DiMaio #Berlusconi,Giorgia Meloni,0.7658895
+Letta #DiMaio #Berlusconi,Carlo Calenda,0.7644801
+Lewandowski,Robert Lewandowski,0.9153224
+Lewandowski,Sascha Lewandowski,0.8370286
+Lewandowski,Mateusz Lewandowski,0.8039587
+Lewandowski,Mariusz Lewandowski,0.85272086
+Lewandowski,Guillermo Ochoa,0.9013668
+Lewandowski,Janusz Lewandowski,0.84361964
+Lewandowski,Gina Lewandowski,0.9127989
+Lewis,Lewis Capaldi,0.93164146
+Lewis,Daniel Day-Lewis,0.87874687
+Lewis,Lennox Lewis,0.9405771
+Lewis,Juliette Lewis,0.94532657
+Lewis,Jerry Lewis,0.93409324
+Lewis,Carl Lewis,0.9355758
+Lewis,C. S. Lewis,0.830163
+Lewis,Lewis Hamilton,0.92547977
+Lewis,Damian Lewis,0.9446992
+Leão,Rafael Leão,0.9363267
+Leão,Émerson Leão,0.9437021
+Leão,Nara Leão,0.9511982
+Leão,Honório Carneiro Leão,0.85698444
+LiguriaPride,Alfred Hitchcock,0.8080688
+LiguriaPride,Frank Sinatra,0.824313
+LiguriaPride,Papa Paolo VI,0.7574841
+Lino Banfi,Lino Banfi,1.0000001
+Lino Banfi,Rosanna Banfi,0.96453416
+Lino Banfi,Heather Parisi,0.86793375
+Lippi,Marcello Lippi,0.94641197
+Lippi,Claudio Lippi,0.9430473
+Lippi,Filippo Lippi,0.945956
+Lippi,Caterina di Meo Lippi,0.8090346
+Lippi,Filippino Lippi,0.94904953
+Lippi,Lorenzo Lippi,0.93310565
+Lippi,Giulia Lippi,0.9251568
+Livia,Livia Turco,0.91941714
+Livia,Livia Giampalmo,0.85998946
+Livia,Livia Drusilla,0.86567414
+Livia,Chandra Livia Candiani,0.8189422
+Livia,Livia Azzariti,0.8556621
+Livia,Livia Venturini,0.9199629
+Loca,Shakira,0.92590183
+Loca,AKA 7even,0.89650726
+Lotito,Claudio Lotito,0.94784254
+Lotito,Ivana Lotito,0.92752844
+Lotito,Michel Lotito,0.93794215
+Louis frocio,Fidel Castro,0.85701966
+Louis frocio,Dennis Nilsen,0.84890723
+Louis frocio,Emile Griffith,0.84286207
+Luca,Luca Toni,0.94257957
+Luca,Vincenzo De Luca,0.87276447
+Luca,Luca Bizzarri,0.94261384
+Luca,Luca Cordero di Montezemolo,0.8150073
+Luca,Luca (evangelista),0.8937625
+Luca,Luca Barbareschi,0.9256636
+Luca,Erri De Luca,0.87620735
+Luca,Luca Ward,0.9366415
+Luca Bianco,Luca Perri,0.8700671
+Luca Bianco,Luca Toni,0.94308543
+Luca Bianco,Luca Della Bianca,0.794515
+Luca Bianco,Erri De Luca,0.8877213
+Luca Bianco,Luca Argentero,0.9095697
+Luca Bianco,Luca Turco,0.9529389
+Luca Bianco,Luca Telese,0.9143241
+Luca Brasi,Kevin Gates,0.887288
+Lucarelli,Cristiano Lucarelli,0.9474547
+Lucarelli,Selvaggia Lucarelli,0.93957925
+Lucarelli,Carlo Lucarelli,0.9232211
+Lucarelli,Alessandro Lucarelli,0.9389018
+Lucarelli,Davide Lucarelli,0.94225955
+Lucarelli,Raffaello Lucarelli,0.93487185
+Lucarelli,Ricardo Lucarelli,0.94272614
+Lucarelli,Valerio Lucarelli,0.93826044
+Luché,Luchè,0.99999946
+Luché,Geolier,0.87222266
+Luché,Lazza,0.83449316
+Luché,CoCo (cantante),0.8457404
+Lucienne,Lucienne Camille,0.9478029
+Lucienne,Lucienne Nahmias,0.89778376
+Lucienne,Lucienne Boyer,0.90216976
+Lucienne,Lucienne Delyle,0.9183537
+Lucienne,Lucienne Bréval,0.91680616
+Lucio Dalla,Lucio Dalla,0.99999994
+Lucio Dalla,Lucio Battisti,0.9490059
+Luigi Ciro Carlo,Ciro Menotti,0.88173044
+Luigi Ciro Carlo,Ciro Cirillo,0.89699495
+Luigi Ciro Carlo,Carlo Alberto di Savoia,0.8851002
+Luigia Gigia,Luigi Settembrini,0.8178617
+Luigia Gigia,Vittorio Corona (pittore),0.83024395
+Lukaku,Romelu Lukaku,0.81316614
+Lukaku,Jordan Lukaku,0.9313049
+Lukaku,Roger Lukaku,0.9035221
+Lukaku,Giuseppe Marotta (dirigente sportivo),0.8326784
+Lukaku,Lautaro Martínez,0.8493498
+Lukaku,Federico Dimarco,0.7770533
+Lulù,Lulù Marinelli,0.9169412
+Lupi,Maurizio Lupi,0.9347174
+Lurida,Sergio Caputo,0.8746737
+Luxuria,Vladimir Luxuria,0.9469213
+Luxuria,Federico Quaranta,0.8799212
+Luxuria,Alessandra Mussolini,0.869905
+Luxuria,Nicola Savino,0.87033004
+Luxuria,Belén Rodríguez,0.86413753
+L´ho,Bong Joon-ho,0.88603634
+L´ho,Lee Min-ho,0.8693381
+MADONNA,Madonna (cantante),0.8837643
+MADONNA,Maria (madre di Gesù),0.85764086
+MADONNA SANTA,Maria (madre di Gesù),0.8767194
+MALEDETTI,Marcello Simoni,0.871932
+Macron,Emmanuel Macron,0.9218829
+Macron,Brigitte Macron,0.9046335
+Macron,Élisabeth Borne,0.8012463
+Maddalena Loy,Nanni Loy,0.9563175
+Maddalena Loy,Andrea Sarubbi,0.8403634
+Maddalena Loy,Pietro Sarubbi,0.8370267
+Maddalena Loy,Gastone Moschin,0.8069041
+Maddalena Loy,Gian Maria Volonté,0.77268386
+Maddalena Loy,Laura Belli,0.8292125
+Maddalena Loy,Anna Magnani,0.7698993
+Maddalena Loy,Pia Velsi,0.8152028
+Maddalena Loy,Elena Fabrizi,0.81988823
+Madonna,Madonna (cantante),0.8837643
+Madonna,Maria (madre di Gesù),0.85764086
+Madre,Maria (madre di Gesù),0.8620726
+Madre,Madre Teresa di Calcutta,0.85055286
+Madre di Cristo,Maria (madre di Gesù),0.9118388
+Mah,Sarah Shahi,0.8113739
+Mal,Mal,0.99999976
+Mal,Mal Evans,0.91156304
+Mal,Mal Peet,0.9051193
+Maldini,Paolo Maldini,0.94403565
+Maldini,Cesare Maldini,0.9425965
+Maldini,Daniel Maldini,0.95721555
+Maldini,Adriana Fossa,0.89073265
+Maldini,Sergio Maldini,0.9422522
+Maldini,Alessandro Costacurta,0.90439606
+Malgioglio,Cristiano Malgioglio,0.9467571
+Malgioglio,Astutillo Malgioglio,0.87959564
+Malgioglio,Iva Zanicchi,0.8556919
+Malgioglio,Giuni Russo,0.85938346
+Malgioglio,Eleonora Giorgi,0.89174813
+Mancio,Itō Mancio,0.8463855
+Manco,Manco Cápac,0.89222956
+Manco,Clemente Manco,0.92712903
+Manco,Manco II,0.93054974
+Manco,Barış Manço,0.95269287
+Manco,Reimond Manco,0.8513406
+Manco Lisa,Elvis Presley,0.8127319
+Manco Lisa,Valentino Rossi,0.8292551
+Manco Lisa,Isabella d'Este,0.7875847
+Manco Lisa,Raffaello Sanzio,0.8511964
+Manco Lisa,Éric Cantona,0.84644043
+Manco Lisa,Osama bin Laden,0.8029189
+Mansell,Nigel Mansell,0.9330439
+Mansell,Clint Mansell,0.951384
+Mansell,Nelson Piquet,0.8660344
+Mansell,Riccardo Patrese,0.8189416
+Mansell,Jill Mansell,0.94756484
+Maometto,Maometto,1.0
+Maometto,Maometto II,0.9384148
+Maradona,Diego Armando Maradona Junior,0.8889457
+Maradona,Hugo Maradona,0.94592476
+Marc Gene,Marc Gené,0.9999998
+Marc Gene,Jordi Gené,0.93532926
+Marc Gene,Carlo Vanzini,0.8659438
+Marc Gene,Gene Hackman,0.8697113
+Marco,Marco Aurelio,0.9086416
+Marco,Marco (evangelista),0.8909437
+Marco,Marco Marzocca,0.8740972
+Marco,Marco Mengoni,0.91159356
+Marco,Marco Di Marco,0.8742467
+Margherita Guzzetta di,Filippo Mazzei,0.8521191
+Margherita Guzzetta di,Renzo Barbieri,0.8410016
+Margherita Guzzetta di,Gianna Manzini,0.85305667
+Maria,Maria Maddalena,0.93468857
+Maria,Maria (madre di Gesù),0.86067337
+Maria,Maria Antonietta d'Asburgo-Lorena,0.8568713
+Maria,Maria Montessori,0.9348391
+Maria,Maria Teresa d'Austria,0.8829504
+Maria,Erich Maria Remarque,0.81179285
+Maria,Maria De Filippi,0.8831978
+Mariapaola,Truman Capote,0.81974727
+Mariapaola,Renato Salvatori,0.82491624
+Mariapaola,Bruce Chatwin,0.83873624
+Mariapaola,Montgomery Clift,0.82929486
+Marietto,Carlo Angeletti,0.8213265
+Marietto,Marietta Tidei,0.8846353
+Marietto,Mariette Hartley,0.85448545
+Marietto,Marietta Robusti,0.93428254
+Marija #Zakharova,Alija Mustafina,0.8430655
+Marilyn Monroe,Marilyn Manson,0.98030806
+Marilyn Monroe,Tony Curtis,0.8767067
+Marino vai,Marino Girolami,0.84222776
+Marino vai,Valeria Fabrizi,0.8409896
+Marino vai,Francesca Chillemi,0.81065875
+Mario,Mario Balotelli,0.92258096
+Mario,Mario Götze,0.9514257
+Mario,Mario Gómez,0.93716073
+Mario,João Mário,0.9321489
+Mario 'r Cardinali,Filippo Filonardi (cardinale),0.88741666
+Mario 'r Cardinali,Mario Revollo Bravo,0.8177848
+Mario 'r Cardinali,Mario Grech,0.8415309
+Mario 'r Cardinali,Mario Merola,0.80977786
+Mario 'r Cardinali,Mario Filonardi,0.8489205
+Mario 'r Cardinali,Mario Casariego y Acevedo,0.8153931
+Mario 'r Cardinali,Mariano Rampolla del Tindaro,0.7425065
+Marotta,Giuseppe Marotta (dirigente sportivo),0.8940638
+Marotta,Davide Marotta,0.94243914
+Marotta,Giuseppe Marotta (scrittore),0.8901498
+Marotta,Renato Marotta,0.9312601
+Marotta,Maria Marotta,0.9285573
+Marotta,Gerardo Marotta,0.9555229
+Marotta,Gino Marotta,0.942175
+Martoglio,Nino Martoglio,0.94505334
+Martoglio,Angelo Musco,0.89310604
+Martoglio,Luigi Pirandello,0.82109725
+Martoglio,Leo Gullotta,0.89079666
+Martoglio,Giuseppe Sgarbi,0.85021114
+Martoglio,Guia Jelo,0.8155027
+Martoglio,Gabriele Amorth,0.8834667
+Massimiliano,Massimiliano I d'Asburgo,0.8336152
+Massimiliano,Massimiliano Fedriga,0.9225874
+Massimiliano,Massimiliano Allegri,0.9065483
+Massimiliano,Massimiliano I del Messico,0.86559105
+Massimiliano,Massimiliano Manfredi,0.91827667
+Massimiliano,Massimiliano Maria Kolbe,0.8793908
+Massimiliano,Massimiliano Rosolino,0.93160933
+Massimiliano,Massimiliano Bruno,0.9403584
+Massimiliano,Massimiliano Ossini,0.89647865
+Mattarella,Sergio Mattarella,0.9510355
+Mattarella,Piersanti Mattarella,0.9529284
+Mattarella,Laura Mattarella,0.93377215
+Mattarella,Bernardo Mattarella,0.9460419
+Matteo salvini,Matteo Salvini,0.99999994
+Matteo salvini,Matteo Maria Zuppi,0.8883279
+Matteo salvini,Giorgia Meloni,0.9098414
+Matteo salvini,Luciana Lamorgese,0.8055248
+Matteo salvini,Luigi Di Maio,0.83667874
+Matteo salvini,Giancarlo Giorgetti,0.8757976
+Maximo De,Maxime Lopez,0.8506111
+Maximo De,Eric Maxim Choupo-Moting,0.8208946
+Maximo De,Maxime De Zeeuw,0.8661785
+Maximo De,Claudia Koll,0.83509797
+Maximo De,Máximo Alonso,0.79480743
+Maximo De,Maxim De Cuyper,0.8378824
+Maximo De,Marc de Jonge,0.83620894
+Medvedev,Daniil Medvedev,0.81185246
+Medvedev,Dmitrij Medvedev,0.85862416
+Medvedev,Roj Aleksandrovič Medvedev,0.81474906
+Medvedev,Svetlana Medvedeva,0.7996965
+Medvedev,Vladimir Putin,0.8800718
+Medvedev,Jannik Sinner,0.79953027
+Medvedev,Jurij Medveděv,0.8628768
+Melissa Etheridge,Melissa Etheridge,1.0
+Mellos,Ilias Venezis,0.8412199
+Meloni,Giorgia Meloni,0.94809186
+Meloni,Marco Meloni (politico),0.8786314
+Meloni,Christopher Meloni,0.9292824
+Meloni,Alessandra Meloni,0.93740976
+Meloni,Guido Crosetto,0.89113617
+Mendes,Sam Mendes,0.9320033
+Mendes,Shawn Mendes,0.9333069
+Mendes,Eva Mendes,0.92607075
+Mendes,Nuno Mendes,0.8607307
+Mendes,Chico Mendes,0.9201913
+Mendes,Camila Mendes,0.91404915
+Mendes,Tiago Mendes,0.9362345
+Menomale,Enrico Montesano,0.85280466
+Menomale,Georges Brassens,0.8670089
+Mentre Zelensky,Volodymyr Zelens'kyj,0.89422643
+Mentre Zelensky,Mikheil Saak'ashvili,0.8578892
+Meret,Alex Meret,0.94334185
+Meret,Meret Oppenheim,0.8772963
+Meret,David Ospina,0.8377811
+Meret,Pierluigi Gollini,0.8181693
+Meret,Orestīs Karnezīs,0.80720377
+Mertens,Dries Mertens,0.95673144
+Mertens,Elise Mertens,0.9468269
+Mertens,Aryna Sabalenka,0.7627237
+Mertens,Wim Mertens,0.93994725
+Mertens,Gregory Mertens,0.931437
+Mertens,Joseph Mertens,0.9341756
+Mertens,Michael Mertens,0.9247038
+Mertens,Robert Mertens,0.90539
+Messias,Junior Messias,0.93730307
+Messias,Jair Bolsonaro,0.82516646
+Messias,Fabrício dos Santos Messias,0.88014764
+Messias,Manoel Messias Silva Carvalho,0.8735124
+Messias,Messias (calciatore),0.8921474
+Messias,Alexis Saelemaekers,0.81334096
+Mettetevi,Gino Rivieccio,0.7965859
+Mettetevi,Silver Sirotti,0.8191069
+Mettetevi,Corrado Guzzanti,0.84710836
+Michele,Michele Bravi,0.9323532
+Michele,Grazia Di Michele,0.8738885
+Michele,Michele Morrone,0.93123895
+Michele,Michele Placido,0.9176288
+Michele,Michele Caccamo,0.9296808
+Michele Lettera,Michele Greco,0.93424386
+Michele Lettera,Michele Profeta,0.9445641
+Michele Lettera,Michele Santoro,0.9238863
+Milan-Spezia,Daniel Maldini,0.80156887
+Milan-Spezia,Marco Serra (arbitro),0.85669243
+Milan-Spezia,Rafael Leão,0.7298773
+Milenkovic,Nikola Milenković,0.96174926
+Milenkovic,Bojana Milenković,0.9497976
+Milenkovic,Alessandro Prontera,0.84232056
+Milenkovic,Arthur Cabral,0.85176396
+Milenkovic,Anja Milenkovič,0.97165304
+Milenkovic,Riccardo Sottil,0.8439586
+Milenkovic,Borko Milenković,0.9411788
+Milenkovic,Pablo Marí,0.8476958
+Miley Cyrus,Miley Cyrus,1.0000001
+Miley Cyrus,Noah Cyrus,0.96747786
+Minchia,Luciana Littizzetto,0.8633815
+Minchia,Jamie Dornan,0.8515334
+Minigonna,Mary Quant,0.8808142
+Minigonna,Meagan Good,0.77109885
+Minigonna,Jordana Brewster,0.79011667
+Minigonna,Michael Clarke Duncan,0.7987015
+Mirabile,Francesco Brusoni,0.82132787
+Mirabile,Andrea Vesalio,0.8133066
+Mo,MØ,0.9158914
+Mo,Mo Yan,0.95115244
+Mo,Mo Farah,0.9444537
+Mo,Mo Williams,0.91884696
+Morata,Álvaro Morata,0.95558226
+Morata,Ursula Micaela Morata,0.8825364
+Morata,Olimpia Morata,0.923458
+Morata,Didier Morata,0.9491229
+Morata,Stéphane Morata,0.89214617
+Morata,Morato (calciatore 2001),0.8132103
+Morata,Juan Cuadrado,0.8934188
+Morata,Carlos Tévez,0.91792524
+Moratti,Letizia Moratti,0.9457897
+Moratti,Massimo Moratti,0.959589
+Moratti,Angelo Moratti,0.9568061
+Moratti,Bedy Moratti,0.89022064
+Moratti,Gian Marco Moratti,0.8879819
+Moratti,Milly Moratti,0.9356104
+Morisi,Luca Morisi,0.93624496
+Morisi,Moris Ergas,0.86036414
+Morisi,Guido Morisi,0.93383205
+Morisi,Roberto Morisi,0.9435689
+Morisi,Roberta Morise,0.9033667
+Morisi,Paolo Morisi,0.93831336
+Morisi,Anthony Moris,0.8770095
+Morisi,Mario Morisi,0.93630993
+Moto3,Francesco Bagnaia,0.8116415
+Moto3,Luca Marini,0.86343765
+Moto3,Enea Bastianini,0.86135006
+Moto3,Maverick Viñales,0.79667413
+Mou,Erica Mou,0.9550627
+Mou,Mou Zuoyun,0.82642835
+Mou,Milly D'Abbraccio,0.81924736
+Mou,José Mourinho,0.93404835
+Mou,Concita De Gregorio,0.80797136
+Mr,Mr. Rain,0.88892615
+Mr,Mr. T,0.8930293
+Mr,Mr. Marcus,0.8986355
+Mughini,Giampiero Mughini,0.96560377
+Mughini,David Parenzo,0.9211862
+Mughini,Giuseppe Cruciani,0.90111166
+Mughini,Giuseppe Prisco,0.8618665
+Mughini,Gaetano Scirea,0.8773571
+Mughini,Ernesto Galli della Loggia,0.66421163
+Mussolini,Benito Mussolini,0.945175
+Mussolini,Alessandra Mussolini,0.9282749
+Mussolini,Romano Mussolini,0.9298136
+Mussolini,Vittorio Mussolini,0.9249059
+Mussolini,Bruno Mussolini,0.9168514
+Mussolini,Arnaldo Mussolini,0.92630327
+Myrta Merlino,Myrta Merlino,1.0
+Myrta Merlino,David Parenzo,0.86414576
+Myrta Merlino,Marco Tardelli,0.8158153
+Myrta Merlino,Franco Cardini,0.825433
+Myrta Merlino,Giorgia Meloni,0.8516606
+Myrta Merlino,Oscar Farinetti,0.86945426
+NASCO COMUNISTA.,Vincenzo Vinciguerra,0.80560577
+NASCO COMUNISTA.,Corrado Guzzanti,0.83349955
+NASCO COMUNISTA.,Ivan Della Mea,0.7049941
+NASCO COMUNISTA.,Enzo Bettiza,0.8087348
+Nancy Liccardo,Pieter Paul Rubens,0.83119273
+Nancy Wheeler,Natalia Dyer,0.8217084
+Nancy Wheeler,Larry Ellison,0.7810801
+Nancy Wheeler,Shannon Purser,0.8292076
+Nancy Wheeler,Maggie Wheeler,0.9655141
+Nancy Wheeler,Charlie Heaton,0.8541239
+Nanni,Nanni Moretti,0.92591715
+Nanni,Nanni Loy,0.83939403
+Nanni,Nanni Baldini,0.93562317
+Nanni,Saul Nanni,0.92399997
+Nanni,Nanni Svampa,0.93838596
+Nanni,Dante Di Nanni,0.8576225
+Nanni,Roberta Nanni,0.9369706
+Nanni,Nanni Balestrini,0.87514395
+Nanni,Nicola Nanni,0.93388987
+Napoleone,Napoleone Bonaparte,0.94791806
+Napoleone,Napoleone III di Francia,0.8027194
+Napoleone,Napoleone II di Francia,0.83898187
+Napoleone,Napoleone Luigi Bonaparte,0.9006741
+Napoleone,Napoleone Vittorio Bonaparte,0.89313275
+Natacha Lesueur,Natacha Lesueur,1.0000005
+Natacha Lesueur,Carmen Miranda,0.7810949
+Navas,Keylor Navas,0.88420045
+Navas,Jesús Navas,0.9488863
+Navas,Nora Navas,0.94006
+Navas,Mauro Navas,0.9312631
+Navas,César Navas,0.9458207
+Negri,Toni Negri,0.9080504
+Negri,Ada Negri,0.9040312
+Negri,Pietro De Negri,0.8555349
+Negri,Giuseppe Negri,0.9206079
+Negri,Sebastian Negri,0.8971802
+Negri,Anna Negri,0.90160286
+Negri,Francesco Negri (esploratore),0.8606205
+Negri,Marco Negri (calciatore),0.85336864
+Nelson Piquet Senior,Alain Prost,0.8910843
+Nelson Piquet Senior,Calisto Tanzi,0.84285164
+Nelson Piquet Senior,Éric Boullier,0.8678434
+Nelson Piquet Senior,Johnny Herbert,0.8735959
+Nelson Piquet Senior,Tom Stallard,0.83277
+Nelson Piquet Senior,Marcin Budkowski,0.7861128
+Nelson Piquet Senior,Sam Michael,0.86624485
+Nick,Nick Jonas,0.92600584
+Nick,Nick Kamen,0.93495685
+Nick,Nick Cave,0.9384095
+Nick,Nick Offerman,0.87057364
+Nick,Nick Drake,0.9281468
+Nick,Nick Mason,0.94800144
+Nick,Nick Kyrgios,0.939979
+Nicola Pietrangeli,Nicola Pietrangeli,1.0000002
+Nicola Pietrangeli,Sergio Tacchini,0.8838145
+Nicola Pietrangeli,Adriano Panatta,0.8774474
+Nicola Pietrangeli,Fabio Fognini,0.89719796
+Nicola Pietrangeli,Orlando Sirola,0.81494266
+Nicole Minetti,Nicole Minetti,1.0000001
+Nicole Minetti,Annalisa Minetti,0.96144664
+Nicole Minetti,Virginia Raffaele,0.85842186
+Nicole Minetti,Emilio Fede,0.8308498
+Nicole Minetti,Lele Mora,0.86072946
+Nicole Minetti,Raffaella Fico,0.85811025
+Nicole Minetti,Licia Ronzulli,0.80684245
+Nicole Minetti,Roberto Formigoni,0.8798864
+Nino Cartabellotta,Bianca Laura Granato,0.83693755
+No dai Nainggolan,Mauro Icardi,0.7908297
+No dai Nainggolan,Adnan Januzaj,0.80426216
+No dai Nainggolan,Patrik Schick,0.762769
+No dai Nainggolan,João Pedro,0.80033064
+No dai Nainggolan,Stephan El Shaarawy,0.77532196
+No dai Nainggolan,Ivan Perišić,0.780306
+No dai Nainggolan,Daniele De Rossi,0.7590213
+No dai Nainggolan,Juan Iturbe,0.8300667
+Noo,Bae Noo-ri,0.8823627
+Noo,Cristina Giolitti,0.836669
+Noo,John Taylor (bassista),0.8088845
+Noo,Fred Bongusto,0.7779093
+OGNI VOLTA,Vasco Rossi,0.8038677
+OMOFOBO AL,Lorenzo Fontana,0.8258207
+OMOFOBO AL,Vittorio Feltri,0.789417
+ORSO DI PELUCHE!,Claudia Pandolfi,0.8030507
+ORSO DI PELUCHE!,Alain Delon,0.7576606
+ORSO DI PELUCHE!,Francesca Dellera,0.79031134
+ORSO DI PELUCHE!,Franco Interlenghi,0.7234645
+Obama,Barack Obama,0.95620906
+Obama,Michelle Obama,0.94645107
+Obama,"Barack Obama, Sr.",0.9005341
+Obama,Hillary Clinton,0.91199195
+Obama,Youssef Obama,0.94085914
+Obama,Salomón Obama,0.9385378
+Oddio,Tom Conti,0.86456156
+Oddio,Edward James Olmos,0.8265551
+Oddio,Fasma,0.8561057
+Oddio,Giancarlo Giannini,0.86064845
+Oddio,Sandro Pertini,0.83809066
+Oddio,Urbano Barberini,0.8231331
+Odiano,Noomi Rapace,0.8262918
+Odiano,Daniel Craig,0.8745786
+Odiano,Chris Rock,0.8491928
+Odiano,Rooney Mara,0.85386723
+Ok Silvio,Silvio Berlusconi,0.9016009
+Ok Silvio,Silvio Spaccesi,0.834022
+Ok Silvio,Giorgia Meloni,0.8286705
+Ollio Friedman,Nina Arianda,0.78876007
+Ollio Friedman,Roberto Vecchioni,0.83975655
+Ollio Friedman,Shirley Henderson,0.8804523
+Ollio Friedman,Arthur Space,0.8621066
+Orsini,Umberto Orsini,0.918713
+Orsini,Clarice Orsini,0.78563446
+Orsini,Felice Orsini,0.8952481
+Orsini,Papa Benedetto XIII,0.7707043
+Orsini,Francesco Orsini,0.9145977
+PAPA FRANCESCO VI,Papa Francesco,0.9556463
+PAPA FRANCESCO VI,Papa Paolo VI,0.9587082
+PAPA FRANCESCO VI,Papa Benedetto XVI,0.9451877
+PAPA FRANCESCO VI,Papa Giovanni Paolo I,0.92254543
+PAPA FRANCESCO VI,Papa Giovanni XXIII,0.916402
+PAPA FRANCESCO VI,Francesco d'Assisi,0.8719989
+PAPA FRANCESCO VI,Papa Alessandro VI,0.94470334
+PIACE,Tony Curtis,0.8591755
+PROSSIMI TWEETS,Katy Perry,0.8336376
+PROSSIMI TWEETS,Hilary Duff,0.8359747
+PROSSIMI TWEETS,Donald Trump,0.8157661
+PROSSIMI TWEETS,Kevin Smith,0.85139936
+Padre,Pio da Pietrelcina,0.7892482
+Paone,Alessandro Cecchi Paone,0.8396005
+Paone,Nando Paone,0.90515953
+Paone,Remigio Paone,0.9041311
+Paone,Giuseppe Cruciani,0.87909585
+Papa,Papa Benedetto XVI,0.88739717
+Papa,Papa Giovanni XXIII,0.83274937
+Papa,Papa Francesco,0.93274117
+Papa,Papa Pio X,0.8735553
+Papa,Papa Lino,0.9522193
+Papa,Papa Gregorio I,0.8547301
+Papa,Papa Paolo VI,0.8782732
+Papa,Papa Giovanni Paolo I,0.8439814
+PapaFrancesco,Papa Francesco,0.8835631
+PapaFrancesco,Papa Benedetto XVI,0.8475907
+PapaFrancesco,Francesco d'Assisi,0.84768
+PapaFrancesco,Papa Giovanni Paolo I,0.8091639
+PapaFrancesco,Papa Paolo VI,0.8289549
+PapaFrancesco,Papa Giovanni XXIII,0.798231
+PapaFrancesco,Carlo Maria Viganò,0.7943064
+Pappalardo,Adriano Pappalardo,0.915043
+Pappalardo,Antonio Pappalardo,0.92964256
+Pappalardo,Salvatore Pappalardo (cardinale),0.8819669
+Pappalardo,Salvatore Pappalardo (arcivescovo),0.8782395
+Pappalardo,Diego Pappalardo,0.9234246
+Pappalardo,Carolina Pappalardo,0.9211833
+Paragone,Gianluigi Paragone,0.91912234
+Paredes,Leandro Paredes,0.9441225
+Paredes,Ferran Paredes Rubio,0.825303
+Paredes,Marisa Paredes,0.93605995
+Paredes,Franco Paredes,0.9275955
+Paredes,Kevin Paredes,0.9257298
+Paredes,Cristhian Paredes,0.81697226
+Paredes,Carlos Paredes,0.9231788
+Paredes,Carlos Humberto Paredes,0.8126489
+Parenzo,David Parenzo,0.9491116
+Parenzo,Cesare Parenzo,0.9442408
+Parenzo,Sandro Parenzo,0.9432422
+Parenzo,Giuseppe Cruciani,0.9251644
+Pascale,Pedro Pascal,0.86440986
+Pascale,Antonio Pascale,0.92222095
+Pascale,Blaise Pascal,0.852319
+Pascale,Pascale Reynaud,0.85182166
+Pascale,Pascale Petit,0.9396088
+Pascale,Giovanni Pascale (oncologo),0.8645202
+Pascale,Michele De Pascale,0.85914886
+Pat,Pat Metheny,0.83212006
+Pat,Pat Riley,0.93789744
+Pat,Pat Morita,0.87943184
+Pat,Pat Smear,0.8811202
+Pat,Pat Benatar,0.8904229
+Pat,Pat Fry,0.9489169
+Pat,Pat Garrett,0.9420485
+Pat,Fat Pat,0.91442263
+Paul Newman,Paul Newman,0.99999976
+Paul Newman,Victoria Principal,0.82855785
+Paul Newman,Marlon Brando,0.8337363
+Paulo Roberto Checca,Francesco Totti,0.8304813
+Paulo Roberto Checca,Indro Montanelli,0.81606793
+Paulo Roberto Checca,Caligola,0.81704503
+Paulo Roberto Checca,Franca Valeri,0.83787674
+Paulo Roberto Checca,Pietro Bembo,0.8616277
+Pavone,Rita Pavone,0.9050729
+Pavone,Giuseppe Pavone,0.91645455
+Pavone,Mariano Pavone,0.9200015
+Pavone,Claudio Pavone,0.91760075
+Pazzesco,Jürgen Klopp,0.8400378
+Pazzesco,Guido Crosetto,0.8592843
+Pellegri,Pietro Pellegri,0.9535154
+Pellegri,Rina Pellegri,0.9605833
+Pellegri,Marco Pellegri,0.9513449
+Pellegri,Faustino Pellegri,0.9542134
+Pellegri,Pellegra Bongiovanni,0.88017654
+Pellegri,Amedeo Amadei,0.812081
+Pellegrini,Federica Pellegrini,0.9424062
+Pellegrini,Lorenzo Pellegrini,0.9342388
+Pellegrini,Luca Pellegrini (calciatore 1999),0.86724454
+Pellegrini,Manuel Pellegrini,0.94371486
+Pellegrini,Ernesto Pellegrini,0.9444057
+Pellegrini,Luca Pellegrini,0.93598807
+Pellegrini,Davide Pellegrini,0.935688
+Pelù Ligabue,Piero Pelù,0.91412985
+Pelù Ligabue,Luciano Ligabue,0.9156659
+Penosa,Maria Antonietta d'Asburgo-Lorena,0.8159296
+Penosa,Carlo De Benedetti,0.81341404
+Pensavo,Vittorio Viviani,0.8615322
+Pensavo,Massimo Troisi,0.86838
+Pensavo,Francesca Neri,0.8717855
+Pensavo,Anna Pavignano,0.8375504
+Pensavo,Ilaria Spada,0.8673909
+Perisic,Ivan Perišić,0.9049625
+Perisic,Marko Perišić,0.89418435
+Perisic,Matteo Darmian,0.8658389
+Perisic,Federico Dimarco,0.7598545
+Perisic,Joaquín Correa,0.8630196
+Perisic,Radja Nainggolan,0.810863
+Perisic,Joško Gvardiol,0.7720042
+Perisic,Simone Inzaghi,0.8305305
+Pessina,Matteo Pessina,0.9086012
+Pessina,Stefano Pessina,0.92627275
+Pessina,Davide Pessina,0.917331
+Pessina,Enrico Pessina,0.9155327
+Pessina,Giuseppe Pessina,0.9203577
+Pessina,Giorgio Pessina,0.8962953
+Pezzo,Paola Pezzo,0.89406294
+Pezzo,Lucio Del Pezzo,0.82798475
+Pier,Pier Paolo Pasolini,0.82370555
+Pier,Pier della Vigna,0.70989585
+Pier,Pier Giorgio Frassati,0.8671193
+Pier,Pier Silvio Berlusconi,0.84460366
+Pier,Pier Giorgio Bellocchio,0.83693075
+Pier,Pier Luigi Bersani,0.869418
+Pier,Pier Damiani,0.93468606
+Pier,Pier Ferdinando Casini,0.869791
+Pier,Pier Luigi Nervi,0.878499
+Pier ferdinando Casini,Pier Ferdinando Casini,1.0000005
+Pier ferdinando Casini,Pier Luigi Bersani,0.9123008
+Piero Fanti,Leonardo da Vinci,0.8350027
+Piero Fanti,Piero Piccioni,0.9608452
+Piero Fanti,Irama,0.82575953
+Pierre,Pierre-Joseph Proudhon,0.8718511
+Pierre,Marco Pierre White,0.8969932
+Pierre,Pierre Teilhard de Chardin,0.8279275
+Pierre,Pierre Womé,0.8658941
+Pierre,Pierre Kalulu,0.87720215
+Pierre,Pierre-Auguste Renoir,0.87594163
+Pillon,Giuseppe Pillon,0.897194
+Pillon,Simone Pillon,0.90011424
+Pillon,Laurent Pillon,0.88595724
+Pino Daniele:,Pino Daniele,0.96991
+Pino Daniele:,Giorgia (cantante 1971),0.90836877
+Pino Daniele:,Danny Pino,0.9156482
+Pino Daniele:,Steve Gadd,0.83989525
+Pio,Pio da Pietrelcina,0.8237448
+Pio,Papa Pio X,0.8664665
+Pio,Papa Pio XII,0.8665371
+Pio,Papa Pio IX,0.8823247
+Pio,Papa Pio VII,0.8517642
+Pio,Papa Pio XI,0.8516359
+Pio,Papa Pio II,0.87672836
+Pio,Papa Pio V,0.87047523
+Pioli,Stefano Pioli,0.9549903
+Pioli,Pierre Kalulu,0.8241378
+Pioli,Charles De Ketelaere,0.80494344
+Pioli,Brahim Díaz,0.81208587
+Pisu,Mario Pisu,0.8821907
+Pisu,Raffaele Pisu,0.88277316
+Pisu,Antonio Pisu,0.8913809
+Pisu,Max Pisu,0.88997793
+Pisu,Silverio Pisu,0.82579744
+Pisu,Renata Pisu,0.8885174
+Pisu,Giancarlo Giannini,0.82343686
+Pogba,Paul Pogba,0.9492678
+Pogba,Mathias Pogba,0.95085156
+Pogba,Florentin Pogba,0.9295523
+Pogba,Mino Raiola,0.8785057
+Pogba,Tanguy Ndombele,0.771683
+Pogba,Giuseppe Marotta (dirigente sportivo),0.8652443
+Poi,Giorgio Poi,0.92055583
+Ponzio Pilato?,Ponzio Pilato,0.96042645
+Ponzio Pilato?,Claudia Procula,0.81801254
+Porcodio,Aldo Mondino,0.8299967
+Povero Cerno,Maometto,0.85908395
+Povero Cerno,Giraut de Bornelh,0.75425005
+Preferisco,Fabrizia Sacchi,0.87153715
+Preferisco,Francesca Chillemi,0.8567413
+Preferisco Giorgia,Giorgio Panariello,0.8385118
+Preferisco Giorgia,Gino Stacchini,0.84530175
+Preferisco Giorgia,Camila Giorgi,0.8819647
+Preferisco Giorgia,Eros Ramazzotti,0.8123056
+Preferisco Giorgia,Fiorella Mannoia,0.8701553
+Primo,Primo Carnera,0.8855747
+Prost,Alain Prost,0.9393866
+Prost,Ayrton Senna,0.8701538
+Prost,Nicolas Prost,0.920835
+Putin,Vladimir Putin,0.9529681
+Putin,Ljudmila Putina,0.8187982
+Putin,Dmitrij Medvedev,0.8458034
+Putin,Evgenij Prigožin,0.7631558
+Putin nn,Ottone d'Asburgo-Lorena,0.80041265
+Putin nn,Alberto II di Monaco,0.819938
+Putin nn,Carlo Azeglio Ciampi,0.774097
+Putin nn,Nursultan Nazarbaev,0.81005824
+Putin nn,Viktor Juščenko,0.8010935
+Putin nn,Margaret Thatcher,0.858158
+Putin nn,Larry King,0.8679769
+Putin....,Vladimir Putin,0.8246125
+Putin....,Ljudmila Putina,0.78595805
+Putin....,Dmitrij Medvedev,0.8094908
+Putin....,Evgenij Prigožin,0.72805846
+Putin....,Anna Stepanovna Politkovskaja,0.7433275
+Quo Vado,Checco Zalone,0.7856256
+Quo Vado,Sonia Bergamasco,0.83996826
+Quo Vado,Lino Banfi,0.81120825
+Quo Vado,Gennaro Nunziante,0.7957001
+RENZO,Renzo Piano,0.9207396
+RENZO,Renzo Arbore,0.90099794
+RENZO,Renzo Montagnani,0.8720317
+RENZO,Renzo Palmer,0.9074911
+RENZO,Renzo Bossi,0.9266123
+RENZO,Renzo De Felice,0.8587277
+Rabiot,Adrien Rabiot,0.91783637
+Rabiot,Blaise Matuidi,0.79787475
+Rabiot,Mike Maignan,0.77707046
+Rabiot,Ángel Di María,0.79961777
+Rabiot,Arthur Melo,0.8684021
+Rabiot,Franck Kessié,0.8186332
+Radu,Ionuț Radu,0.8818251
+Radu,Radu Drăgușin,0.84438354
+Radu,Ștefan Radu,0.939836
+Radu,Radu III il Bello,0.805364
+Radu,Radu Lupu,0.8522472
+Radu,Radu Albot,0.8582233
+Radu,Vlad III di Valacchia,0.76091444
+Radu,Radu Jude,0.90300494
+Radu,Radu Mihăileanu,0.83629274
+Raffaello,Raffaello Sanzio,0.9516296
+Raffaello,Raffaella Carrà,0.8494814
+Raffaello,Raffaello Tonon,0.88305575
+Raffaello,Raffaello Raffaelli,0.8795494
+Raffaello,Raffaella Rea,0.87296855
+Ramazzotti,Eros Ramazzotti,0.9247326
+Ramazzotti,Micaela Ramazzotti,0.9417356
+Ramazzotti,Gianluca Ramazzotti,0.93223166
+Ramsey,Bella Ramsey,0.88060117
+Ramsey,Aaron Ramsey,0.9419335
+Ramsey,Anne Ramsey,0.91218966
+Ramsey,Jalen Ramsey,0.8703054
+Ramsey,David Ramsey,0.9389969
+Ramsey,Peter North,0.8902154
+Ramsey,Marion Ramsey,0.92490935
+Ranocchia,Andrea Ranocchia,0.9539542
+Ranocchia,Antonio Ranocchia,0.9532429
+Ranocchia”,Andrea Ranocchia,0.92719424
+Ranocchia”,Antonio Ranocchia,0.9282541
+Raspadori,Giacomo Raspadori,0.96133816
+Raspadori,Cristiano Giuntoli,0.8627087
+Raspadori,Mattia Zaccagni,0.8673908
+Raspadori,Matteo Politano,0.85279626
+Raspadori,Gianluca Scamacca,0.86235255
+Raspadori,Davide Frattesi,0.8691348
+Ratzinger,Papa Benedetto XVI,0.8863021
+Ratzinger,Georg Ratzinger (presbitero),0.8741379
+Ratzinger,Papa Francesco,0.91126573
+Ratzinger,Georg Ratzinger (politico),0.877241
+Rebecca,Rebecca Hall,0.9318077
+Rebecca,Rebecca Ferguson (attrice),0.8590668
+Rebecca,Rebecca Romijn,0.89274263
+Rebecca,Rebecca De Mornay,0.8547076
+Rebecca,Rebecca Miller,0.9301032
+Rebecca,Rebecca Gayheart,0.8826698
+Regina George,Regina George,0.9999999
+Regina George,Salote Tupou III,0.7658906
+Regina George,Regina di Saba,0.83703744
+Regina George,Elisabetta II del Regno Unito,0.83919275
+Regina George,Elizabeth Bowes-Lyon,0.82912266
+Renato,Renato Zero,0.9258907
+Renato,Renato Carosone,0.92018056
+Renato,Renato Vallanzasca,0.92440647
+Renato,Renato Pozzetto,0.9196725
+Renato,Renato Curcio,0.9270531
+Renato,Renato Guttuso,0.89686906
+Renato,Renato Rascel,0.8989244
+Renato,Renato Sanches,0.87553006
+Renato Sanches,Renato Sanches,1.0000002
+Renato Sanches,Bernardo Silva,0.8201667
+Renato Sanches,Éder (calciatore 1987),0.74496907
+Renato Sanchez,Renato Pozzetto,0.9313476
+Renato Sanchez,Renato Curcio,0.95047605
+Renato Sanchez,José María Sánchez,0.91258574
+Renato Sanchez,Arantxa Sánchez Vicario,0.8510102
+Renato Sanchez,Renato Scarpa,0.9495546
+Renato Sanchez,Alberto Franceschini,0.89092994
+Renato Sanchez,Renato Liprandi,0.8875396
+Renato rotto Sanchez,Roberto Ceccacci,0.838441
+Renato rotto Sanchez,Serena Williams,0.83052635
+Renato rotto Sanchez,Adriano Sofri,0.83743584
+Renzi,Matteo Renzi,0.9501189
+Renzi,Andrea Renzi (attore),0.8808892
+Renzi,Lorenzo Renzi (attore),0.8688668
+Reutemann,Carlos Reutemann,0.97059655
+Ricchione,Mariano Apicella,0.881951
+Ricchione,Vincenzo Ricchioni,0.8724602
+Ricchione,Salvo Lima,0.87807375
+Ricchione,Fabri Fibra,0.84836775
+Ricciardi,Franco Ricciardi,0.9183158
+Ricciardi,Walter Ricciardi,0.91353536
+Ricciardi,Daniel Ricciardo,0.88057446
+Ricky Gervais,Ricky Gervais,0.9999999
+Ricky Gervais,Stephen Merchant,0.86721784
+Rindou,Haruka Tomatsu,0.8518997
+Rino Gaetano,Rino Gaetano,1.0
+Rino Gaetano,Claudio Santamaria,0.88373554
+Rino Gaetano,Paolo Rossi (attore),0.8445723
+Riz Ortolani,Riz Ortolani,0.99999994
+Riz Ortolani,Lina Wertmüller,0.89071876
+Riz Ortolani,Antonio Albanese,0.8541802
+Riz Ortolani,Katyna Ranieri,0.78930104
+Rizzo tua,Marco Rizzo,0.7781743
+Rizzo tua,Giacomo Rizzo,0.78667974
+Rizzo tua,Jessica Rizzo,0.7954941
+Rizzo tua,Luca Rizzo,0.7881763
+Rizzo tua,Giuseppe Rizzo,0.7886224
+Rizzo tua,Gianni Rizzo,0.79084074
+Rizzo tua,Carlo Rizzo,0.76443785
+Rizzo tua,Marracash,0.8257216
+Rizzo tua,Luigi Rizzo,0.7996228
+Rizzo tua,Sergio Rizzo,0.77592325
+Robecchi,Alessandro Robecchi,0.8779777
+Robecchi,Luigi Robecchi Bricchetti,0.8052333
+Robecchi,Ambrogio Robecchi,0.9053982
+Robecchi,Brunella Gasperini,0.8600707
+Robecchi,Michele Robecchi,0.8880413
+Roberto,Roberto Cavalli,0.92811406
+Roberto,Roberto Benigni,0.91830456
+Roberto,Roberto De Zerbi,0.8865681
+Roberto,Roberto Pereyra,0.9526628
+Roberto,Roberto Durán,0.9371979
+Roberto,Edinson Cavani,0.86810756
+Roberto,Roberto Martínez,0.9448505
+Roberto,Roberto Sosa,0.94176894
+Roberto,Roberto Saviano,0.92240167
+Roberto Nuzzo,Mauro Casciari,0.91665965
+Roberto Nuzzo,Roberta Scardola,0.8607347
+Roberto Nuzzo,Maria Grazia Cucinotta,0.84708345
+Roberto Nuzzo,Francesco Montanari (attore),0.859761
+Roberto Nuzzo,Ambra Angiolini,0.86844575
+Roberto Nuzzo,Leo Gullotta,0.9393139
+Robin,Robin Williams,0.92093205
+Robin,Robin Wright,0.9372109
+Robin,Robin Gibb,0.93527985
+Robin,Robin Gosens,0.8138571
+Rodolfo,Rodolfo Graziani,0.9167543
+Rodolfo,Rodolfo II d'Asburgo,0.8453669
+Rodolfo,Rodolfo d'Asburgo-Lorena,0.86534405
+Rodolfo,Rodolfo I d'Asburgo,0.8289709
+Rodolfo,Rodolfo De Benedetti,0.86405385
+Rodolfo,Rodolfo Sancho,0.86450887
+Rodolfo,Rodolfo Mondolfo,0.944144
+Romelu,Romelu Lukaku,0.92566746
+Romelu,Giuseppe Marotta (dirigente sportivo),0.81091326
+Romelu,João Mário,0.81043524
+Romelu,Beto Betuncal,0.79922324
+Romero,Cristian Romero,0.93319595
+Romero,George A. Romero,0.8371563
+Romero,Luka Romero,0.9496704
+Romero,Ariadna Romero,0.8700191
+Romero,Yoel Romero,0.87851214
+Romero,Sergio Romero,0.9369618
+Romero,Cesar Romero,0.9460342
+Romero,Óscar Romero,0.92945987
+Romero,Attilio Romero,0.94311565
+Romina Sur,Romina Power,0.9418228
+Romina Sur,Romina Yan,0.9580474
+Romina Sur,Romina Basso,0.9340407
+Romina Sur,Raoul Bova,0.854287
+Ronaldo,Ronaldo,0.99999994
+Ronaldo,Cristiano Ronaldo,0.96564883
+Ronaldo,Ronaldo Vieira,0.94264746
+Ronaldo,Ronald Reagan,0.85792315
+Ronaldo,Ronaldo Vanin,0.88995373
+Ronaldo,Ronaldo Pompeu da Silva,0.8710638
+Rosario,Rosario Dawson,0.9286306
+Rosario,Rosario Livatino,0.92654943
+Rosario,Rosario Miraggio,0.93326795
+Rosario,Rosario Romeo,0.9323312
+Rosario,Rosario Crocetta,0.9215391
+Rose,Axl Rose,0.9374038
+Rose,Derrick Rose,0.94058526
+Rose,Ruby Rose,0.93253666
+Rose,Marco Rose,0.92879534
+Rose,Rose McGowan,0.7993737
+Rose,Rose Byrne,0.92235196
+Rosica,Giuseppe Rosica,0.94576335
+Rosica,Dragan Rosić,0.8885555
+Rosica,Lazar Rosić,0.825433
+Rotti,Elena Sofia Ricci,0.8003906
+Rotti,Arthur Miller,0.8478595
+Rotti,Maurizio Donadoni,0.84051645
+Rotti,Caso Aldrovandi,0.83858824
+Rubio,Ricky Rubio,0.951519
+Rubio,Gabriele Rubini,0.87492186
+Rubio,Ferran Paredes Rubio,0.8753996
+Rubio,Marco Rubio,0.93647915
+Rubio,Rey Mysterio,0.8850345
+Rubio,Paulina Rubio,0.94909257
+Rubio,Pilar Rubio Fernández,0.8826148
+Rubio,James Rodríguez,0.85170126
+Rugani,Daniele Rugani,0.9291284
+Rugani,Riccardo Calafiori,0.8218766
+Rugani,Marko Pjaca,0.8037801
+Rugani,Grégoire Defrel,0.80111355
+Rugani,Lorenzo Tonelli,0.8868913
+Rugani,Federico Di Francesco,0.81116813
+Rui,Rui Costa,0.8763261
+Rui,Mário Rui,0.8933175
+Rui,Rui Patrício,0.9052758
+Rui,Rui Barros,0.91069376
+Rui,Rui Hachimura,0.8475909
+Rui,Rui Vitória,0.897066
+Rui,Rui Águas,0.81613255
+Rui,Rui Almeida,0.900599
+Rui,Rui Faria,0.8357419
+SANTO,Lory Del Santo,0.8728241
+SANTO,Stefano protomartire,0.8216454
+SCHIFO DI,Michela Giraud,0.79951715
+SCHIFO DI,Niccolò Ammaniti,0.72784656
+SCHIFO DI,Antonella Clerici,0.7787715
+SCHIFO DI,Nicola Gratteri,0.7808868
+Sabrina,Sabrina Salerno,0.9326005
+Sabrina,Sabrina Ferilli,0.9227043
+Sabrina,Sabrina Donadel,0.941686
+Sabrina,Sabrina Impacciatore,0.8858203
+Sabrina,Sabrina Carpenter,0.93383384
+Sabrina,Sabrina Knaflitz,0.84461045
+Sainz,Carlos Sainz Jr.,0.876402
+Sainz,Carlos Sainz,0.91546553
+Sala,Giuseppe Sala (politico),0.8597059
+Sala,Emiliano Sala,0.9044765
+Sala,Claudio Sala,0.9215435
+Sallusti,Alessandro Sallusti,0.9302487
+Sallusti,Gaio Sallustio Crispo,0.84033656
+Sallusti,Flavio Sallustio,0.8831868
+Sallusti,Vittorio Feltri,0.8749223
+Sallusti,Sallustio Bandini,0.7791214
+Sallusti,Luca Palamara,0.79026186
+Sallusti,Mario Adinolfi,0.88414866
+Salluzzi,Annibale Evaristo Breccia,0.8075841
+Salluzzi,Antonio Riccardi (poeta),0.831739
+Salluzzi,Martinho Lutero Galati,0.81156063
+Salluzzi,Giovanni Battista Palumba,0.82580924
+Salvini,Matteo Salvini,0.9471486
+Salvini,Tommaso Salvini,0.9472902
+Salvini,Lino Salvini,0.9425192
+Salvini,Guido Salvini (giudice),0.8870447
+Salvini,Giorgio Salvini,0.938891
+Salvo,Salvo Lima,0.9430123
+Salvo,Ignazio e Antonino Salvo,0.86909884
+Salvo,Salvo Sottile,0.9223799
+Salvo,Salvo Randone,0.8922283
+Salvo,Albert DeSalvo,0.84359014
+Salvo,Salvatore Ficarra,0.913918
+San Francesco,Francesco d'Assisi,0.89550376
+San Francesco,Francesco da Paola,0.8624399
+San Francesco,Francesco di Sales,0.87718284
+San Giovanni,Giovanni Battista,0.91560054
+San Giovanni,Papa Giovanni XXIII,0.87357914
+San Paolo,Paolo di Tarso,0.8560536
+San Paolo,Papa Paolo VI,0.8914025
+San Silvestro,Papa Silvestro I,0.8795539
+Sanches,Renato Sanches,0.88304174
+Sanches,Yvandro Borges Sanches,0.81689405
+Sanches,Francisco Sanches,0.9288378
+Sanches,Afonso Sanches,0.8613329
+Sanches,Stacy Sanches,0.9087603
+Sanches,Bernardo Silva,0.8709649
+Sanchez,Alexis Sánchez,0.948048
+Sanchez,Hugo Sánchez,0.9321298
+Sanchez,Pedro Sánchez,0.9432133
+Sanchez,Arantxa Sánchez Vicario,0.86877966
+Sanchez,Joaquín,0.9472949
+Sanchez,Marcelino Sánchez,0.88309956
+Sanchez,Roselyn Sánchez,0.8699316
+Sappiamo,Colleen Hoover,0.83461857
+Saprai,Roby Facchinetti,0.82097495
+Saprai,Franco Ciani (musicista),0.830082
+Sara,Sara Tommasi,0.91554177
+Sara,Sara Simeoni,0.94690883
+Sara,Sara Zanier,0.90072024
+Sara,Sara Lazzaro,0.92687464
+Sara,Sara Gilbert,0.9440025
+Sara,Sara Di Vaira,0.8662827
+Sara,Mia Sara,0.92019755
+Sarah Nile,Cristina Del Basso,0.870268
+Sarri,Maurizio Sarri,0.9272473
+Sarri,Adrien Rabiot,0.8455773
+Sarri,Jorginho (calciatore 1991),0.83379626
+Sarri,Domenico Sarro,0.87606585
+Sarri,Egisto Sarri,0.8668015
+Saviano,Roberto Saviano,0.95718825
+Saviano,Giorgio Saviane,0.81843376
+Saviano,Sergio Saviane,0.84834445
+Scanzi,Andrea Scanzi,0.9538276
+Scanzi,Giovanni Scanzi,0.94606864
+Scanzi,Alessandra Mussolini,0.8657797
+Scanzi,Giuseppe Cruciani,0.8804649
+Scanzi,Gian Battista Scanzi,0.8843741
+Scanzi,Germano Mosconi,0.84519
+Scelba,Mario Scelba,0.8655614
+Scelba,Bernardo Mattarella,0.84408253
+Scelba,Gaspare Pisciotta,0.88087124
+Schiavo,Francesca Lo Schiavo,0.8537588
+Schiavo,Francesca Schiavo,0.9087009
+Schiavo,Grazia Schiavo,0.90090215
+Schiavo,Terri Schiavo,0.9130001
+Schiavo,Gordon (schiavo),0.857268
+Schifoso,David Foster Wallace,0.8027876
+Sciascia,Leonardo Sciascia,0.92911613
+Sciascia,Ugo Sciascia,0.9374151
+Sciascia,Gesualdo Bufalino,0.862908
+Sciascia,Antonino Sciascia,0.94379014
+Sciascia,Armando Sciascia,0.93575937
+Scusami,John Foster (cantante),0.8329713
+Sdeng,Zdeněk Zeman,0.78883433
+Sdeng,Francesco Giomi,0.8233824
+Sdeng,David Moss (musicista),0.83154374
+Senti,Kirstie Alley,0.7953874
+Senti,Rosa Balistreri,0.8425627
+Sergio,Sérgio Conceição,0.88464403
+Sergio,Sergio Ramos,0.9467603
+Sergio,Sergio Agüero,0.95041406
+Sergio,Sergio Leone,0.93380487
+Sergio,Sergio Parisse,0.9413856
+Sergio,Sergio Múñiz,0.9362566
+Sergio,Sergio Volpi,0.9417795
+Sergio,Sergio Busquets,0.9601983
+Sesshomaru,Riccardo Niseem Onorato,0.8324601
+Sesshomaru,Ken Narita,0.78003395
+Sesshomaru,Massimiliano Manfredi,0.784782
+Sesshomaru,Romano Malaspina,0.7643141
+Severgnini,Beppe Severgnini,0.9439684
+Severgnini,Edoardo Severgnini,0.9476041
+Severgnini,Roberto Parodi,0.9078949
+Severgnini,Luca Guadagnino,0.8947596
+Severgnini,Carlo Cottarelli,0.85941416
+Sgarbi,Vittorio Sgarbi,0.95902795
+Sgarbi,Elisabetta Sgarbi,0.9437364
+Sgarbi,Giuseppe Sgarbi,0.96147346
+Sgarbi,Filippo Sgarbi,0.9608959
+Sgarbi,Abdon Sgarbi,0.86382157
+Sgarbi,Alberto Sgarbi,0.96070755
+Siano,Nicky Siano,0.9108384
+Siano,Leopoldo Siano,0.93523
+Siano,Silvio Siano,0.90768325
+Siano,Domenico De Siano,0.8269636
+Siano,Susy Siano,0.9298552
+Signorini,Gianluca Signorini,0.93873036
+Signorini,Alfonso Signorini,0.9454186
+Signorini,Telemaco Signorini,0.93212056
+Signorini,Luigi Federico Signorini,0.88272834
+Signorini,Lorenzo Signorini,0.9350617
+Silvana De Mari,Silvana De Mari,0.9999999
+Silvana De Mari,Silvano Mari,0.9236078
+Silvana De Mari,Silvana Pampanini,0.8759113
+Silvio,Silvio Berlusconi,0.9236256
+Silvio,Silvio Pellico,0.91931194
+Silvio,Pier Silvio Berlusconi,0.86834574
+Silvio,Silvio Muccino,0.9104445
+Silvio,Silvio Piola,0.91581565
+Silvio,Silvio Brusaferro,0.86084574
+Silvio,Silvio Orlando,0.89908814
+Silvio Berlusconi,Silvio Berlusconi,0.9999997
+Silvio Berlusconi,Pier Silvio Berlusconi,0.9571792
+Silvio Berlusconi,Marina Berlusconi,0.9650777
+Silvio Berlusconi,Paolo Berlusconi,0.93305415
+Silvio Berlusconi,Barbara Berlusconi,0.959665
+Simo,Simo Häyhä,0.89347255
+Simo,Simo Aalto,0.8647906
+Simo,Francesca Manzini,0.8927779
+Simo,Simo Parpola,0.88345957
+Sirigu,Salvatore Sirigu,0.93892217
+Sirigu,Federico Sirigu,0.9268054
+Sirigu,Pierluigi Gollini,0.8483626
+Sirigu,Luciano Castellini,0.86381733
+Sirigu,Sandro Sirigu,0.9303373
+Sirigu,Alex Meret,0.83579224
+Sirigu,Gianluigi Donnarumma,0.79490864
+Sissi,Elisabetta di Baviera,0.787205
+Sissi,Romy Schneider,0.8637356
+Skriniar,Milan Škriniar,0.954028
+Skriniar,Alessandro Bastoni,0.79123616
+Skriniar,Victor Osimhen,0.8608741
+Skriniar,Jakub Kiwior,0.8212261
+Soldi,Marinella Soldi,0.9178405
+Somaro,Pietro Castellitto,0.8897003
+Somaro,Margaret Mazzantini,0.8737149
+Somaro,Marco Giallini,0.8138834
+Somaro,Sergio Castellitto,0.8835246
+Somaro,Nina Torresi,0.8296878
+Son,Son Heung-min,0.86969435
+Son,Son Ye-jin,0.87352794
+Sora Checca,Checco Durante,0.85692036
+Sora Checca,Ezio Capuano,0.88054067
+Sora Checca,Franca Valeri,0.8511822
+Sora Checca,Francesco Coccapieller,0.8591523
+Sora Checca,Aldo Fabrizi,0.8595555
+Sora Checca,Francesco De Gregori,0.8225429
+Spadafora,Vincenzo Spadafora,0.9317351
+Spadafora,Marina Spadafora,0.9349307
+Spadafora,Joseph Isaac Spadafora Whitaker,0.8608371
+Spadafora,Domenico Spadafora,0.93137693
+Spadafora,Gutierrez Michele Spadafora,0.8672035
+Spalletti,Luciano Spalletti,0.9439018
+Spalletti,Ettore Spalletti,0.94708455
+Spalletti,Gabriella Rasponi Spalletti,0.8779386
+Spalletti,João Mário,0.840362
+Spalletti,Stanislav Lobotka,0.83290154
+Sparati,Franco Bonisoli,0.85208905
+Sparisci,Kurt Russell,0.8933369
+Sparisci,Mike Evans (attore),0.85302746
+Sparisci,Bing Russell,0.8719066
+Sperando,Sperandio (medaglista),0.795406
+Sperando,Luca Sperandio,0.8223696
+Sperando,Angelo Sperandio,0.8344657
+Speranza,Roberto Speranza,0.9353411
+Speranza,Ernst Bloch,0.83699703
+Speri,Tito Speri,0.9117497
+Speri,Gian Battista Speri,0.8345772
+Speri,Speri Della Chiesa Jemoli,0.6838598
+Spiegatemi,Corrado Carnevale,0.87483037
+Spiegatemi,Paolo Attivissimo,0.87618303
+Stefani la Frocia,Alessandra Mussolini,0.7541332
+Stefani la Frocia,Vladimir Luxuria,0.74956906
+Stefani la Frocia,Jerry Lewis,0.7349511
+Stefani la Frocia,Fedez,0.7675992
+Stefani la Frocia,T. R. Knight,0.7392316
+Stefani la Frocia,Immanuel Casto,0.7232423
+Stefani la Frocia,Marco Pannella,0.73630214
+Stefano,Stefano protomartire,0.8553682
+Stefano,Alfredo Di Stéfano,0.8819122
+Stefano,Stefano Borgonovo,0.89164203
+Stefano,Stefano Bonaccini,0.94671667
+Stefano,Stefano Feltri,0.91580486
+Stefano,Stefano De Martino,0.89360976
+Stefano,Stefano Pioli,0.92209107
+Stronzetto,Lucio Dalla,0.87197614
+Sun Tzu,Sun Tzu,1.0
+Sun Tzu,Wu Zixu,0.7634503
+Suning,Zhang Jindong,0.83446133
+Suning,Steven Zhang,0.8444216
+Suning,Tabitha Chawinga,0.81937385
+Sà,André Sá,0.8914783
+Sà,LiSA,0.9111444
+Sà,Concita De Gregorio,0.7795467
+TROPPO FROCIA,Fedez,0.8612337
+TROPPO FROCIA,Fidel Castro,0.8293133
+TROPPO FROCIA,Immanuel Casto,0.84194815
+TROPPO FROCIA,Marco Pannella,0.8358287
+Tae,V (cantante),0.7765129
+Tae,Jong Tae-se,0.88398564
+Tae,Yoo Ji-tae,0.8622966
+Tae,Kim Tae-ri,0.8839327
+Tae,Hyun Bin,0.91656077
+Tae,Lee Tae-min,0.83153236
+Tamarro,Tony Tammaro,0.86027044
+Tamarro,Checco Zalone,0.853405
+Tamarro,Gigi D'Agostino,0.8059478
+Tamarro,Paolo Noise,0.86237705
+Telegram Twitter,Pavel Durov,0.7911353
+Telegram Twitter,Dmitrij Medvedev,0.77591324
+Tevez,Carlos Tévez,0.94665885
+Tevez,Mateo Retegui,0.80031693
+Tevez,Mauricio Tévez,0.9504808
+Tevez,Paulo Dybala,0.8680402
+Theo,Theo Hernández,0.94632953
+Theo,Theo James,0.9385772
+Theo,Theo Walcott,0.94445926
+Theo,Theodorus van Gogh,0.80967605
+Theo,Theo Rossi,0.910781
+Theo,Théo Pourchaire,0.8594748
+Theo,Theo Albrecht,0.8271086
+Theo,Theo Angelopoulos,0.84292114
+Timothy Snyder,Oskar Dirlewanger,0.78592885
+Timothy Snyder,Józef Piłsudski,0.8334776
+Timothy Snyder,Kazimierz Kelles-Krauz,0.826854
+Tom Hanks,Tom Hanks,0.9999999
+Tom Hanks,Colin Hanks,0.9661559
+Tommaso,Tommaso d'Aquino,0.89241827
+Tommaso,Tommaso Cerno,0.93713737
+Tommaso,Tommaso Augello,0.93492234
+Tommaso,Tommaso Moro,0.9486541
+Tommaso,Tommaso Buscetta,0.86406267
+Tommaso,Tommaso Zorzi,0.9418762
+Tommaso,Masaniello,0.92552304
+Tommaso,Tommaso Maestrelli,0.87869525
+Tommaso Zorzi,Tommaso Zorzi,1.0
+Tommaso Zorzi,Elettra Lamborghini,0.8376059
+Tommaso Zorzi,Giulia Salemi,0.90233105
+Tonali,Sandro Tonali,0.94109094
+Toti,Giovanni Toti,0.93765837
+Toti,Enrico Toti,0.9460851
+Toti,Toti Scialoja,0.8818032
+Toti,Toti Dal Monte,0.87673855
+Toti,Claudio Toti,0.94461036
+Toti,Gianni Toti,0.94515693
+Totti,Francesco Totti,0.94003093
+Totti,Maurizio Totti,0.9344978
+Totti,Marco Delvecchio,0.8673272
+Totti,Ilary Blasi,0.86813563
+Totò Riina,Salvatore Riina,0.96989757
+Totò Riina,Gaetano Riina,0.9576255
+Totò Riina,Sergio De Caprio,0.8407327
+Totò Riina,Leoluca Bagarella,0.8973086
+Totò Riina,Calogero Bagarella,0.8976606
+Traore,Adama Traoré (calciatore 1996),0.8393694
+Traore,Amad Diallo,0.73727167
+Traore,Hamed Traorè,0.90544677
+Traore,Bertrand Traoré,0.92467916
+Traore,Bakaye Traoré,0.8978606
+Traore,Lacina Traoré,0.9163262
+Traore,Lassina Franck Traoré,0.89790165
+Traore,Alain Traoré,0.93273085
+Travaglio,Marco Travaglio,0.9452318
+Travaglio,Franco Travaglio,0.9500067
+Travaglio,Peter Gomez,0.8744652
+Travaglio,Antonio Padellaro,0.8944045
+Travaglio,Stefano Travaglia,0.8752482
+Truman,Harry S. Truman,0.75866556
+Truman,Truman Capote,0.92891145
+Truman,Philip Seymour Hoffman,0.7540286
+Trump,Donald Trump,0.9498447
+Trump,Ivana Trump,0.9274888
+Trump,Ivanka Trump,0.8725817
+Trump,Fred Trump,0.9271784
+Trump,Eric Trump,0.9255725
+Trump,Tiffany Trump,0.9161577
+Trump,Donald Trump Jr.,0.90626574
+Turci,Paola Turci,0.88695115
+Turci,Massimo Turci,0.9003155
+Turci,Luigi Turci,0.8958466
+Turci,Lanfranco Turci,0.9128643
+Turci,Edmondo Turci,0.8861249
+Tze Le,Bombolo,0.8639855
+Tze Le,Laozi,0.7659264
+Tze Le,Mao Zedong,0.81556123
+UN BEL PO',Louis Zamperini,0.78861743
+UN BEL PO',Tito Tazio,0.80728084
+UN BIMBO,Francesco Totti,0.8294283
+UN BIMBO,Bimbo Coles,0.84745884
+UN BIMBO,Bimbo Tjihero,0.8297262
+UN C'È NIENTE A FARE !,Bobby Solo,0.6678843
+UN C'È NIENTE A FARE !,Antonio Pisu,0.6169617
+UN C'È NIENTE A FARE !,Raffaele Pisu,0.61859715
+UN C'È NIENTE A FARE !,Isabella Cecchi,0.60464895
+UN C'È NIENTE A FARE !,Ylenia Carrisi,0.6258517
+UN DEFICIENTE,Gianmarco Pozzoli,0.8954399
+UN DEFICIENTE,Franco Mari,0.8824597
+UN DEFICIENTE,Aldo Baglio,0.8578805
+UN DEFICIENTE,Carla Signoris,0.81907636
+UN DEFICIENTE,Giacomo Poretti,0.88019
+UN PADRE SINGLE E,Daniel Espinosa,0.81907785
+UN PADRE SINGLE E,Colin Firth,0.82802856
+UN TWEET,Jonathan Tweet,0.8465462
+UN TWEET,Tweet (cantante),0.8010677
+UN TWEET,Paolo Bargiggia,0.7908939
+Umberto,Umberto I di Savoia,0.84185994
+Umberto,Umberto Eco,0.94345945
+Umberto,Umberto II di Savoia,0.8529147
+Umberto,Umberto Agnelli,0.91145325
+Umberto,Umberto Saba,0.9269239
+Umberto,Umberto Tozzi,0.9289198
+Umberto,Umberto Galimberti,0.923669
+Umberto,Umberto Bossi,0.9477973
+Umberto,Umberto Smaila,0.9347968
+Un Asperger,Hans Asperger,0.8545974
+Un Asperger,Anthony Hopkins,0.8206012
+Uomo Giusto,William Glass,0.858662
+VEDERE COSTANTEMENTE,Carlo Rovelli,0.83947796
+VERO IN ITALIA,Lucio Vero,0.73359084
+VOGLIOSA,Moana Pozzi,0.8412683
+VOGLIOSA,Karin Schubert,0.8673105
+VOGLIOSA,Giuseppe Curia,0.87630796
+Vacci,Giulia Innocenzi,0.8694448
+Vacci,Papa Benedetto XVI,0.8127918
+Vacci,Mario Draghi,0.8339978
+Vacci,Talete,0.9305981
+Vagnati,Emiliano Moretti,0.852074
+Vagnati,Dodi Lukebakio,0.74290055
+Vai,Steve Vai,0.92651784
+Valentino,Valentino Rossi,0.93431747
+Valentino,Viola Valentino,0.9408004
+Valentino,Valentino (stilista),0.89188033
+Valentino,Cesare Borgia,0.84314203
+Valentino,Valentino Valentini,0.9332361
+Valeria,Valeria Valeri,0.9379822
+Valeria,Valeria Fabrizi,0.9396546
+Valeria,Valeria Golino,0.94849813
+Valeria,Valeria Marini,0.94823116
+Valeria,Valeria Bilello,0.87779903
+Valeria,Valeria Rossi,0.9325391
+Valeria,Valeria Ciangottini,0.8561791
+Valeria,Valeria Solarino,0.9462813
+Valeria,Valeria Graci,0.85994387
+Van Dijk,Virgil van Dijk,0.96553814
+Van Dijk,Dick van Dijk,0.97372603
+Van Dijk,Ellen van Dijk,0.966128
+Van Dijk,Ans van Dijk,0.9745234
+Van Dijk,Mathieu van der Poel,0.89275986
+Van Dijk,Jan van Dijk,0.9720511
+Van Dijk,Arjan van Dijk,0.9391608
+Van Dijk,Rob van Dijk,0.97181857
+Vasco,Vasco Rossi,0.93654346
+Vasco,Vasco da Gama,0.90107477
+Vattene,Mietta,0.947051
+Vattene,Amedeo Minghi,0.87696683
+Vattene,Michela Andreozzi,0.8324591
+Vergognose,Melissa Satta,0.84855556
+Vergognose,Pepe (calciatore),0.82589424
+Vergognose,Antonino Caponnetto,0.8582193
+Vergognose,Luciana Lamorgese,0.8033043
+Vergognosi,Melissa Satta,0.8474761
+Vergognosi,Pepe (calciatore),0.8448448
+Vero,Lucio Vero,0.9228705
+Vespa,Bruno Vespa,0.9315337
+Victoria Secret,Alessandra Ambrosio,0.8516128
+Victoria Secret,Victoria Cabello,0.9344288
+Victoria Secret,Heidi Klum,0.82584697
+Victoria Secret,Doutzen Kroes,0.7724411
+Victoria Secret,Valentina Vignali,0.86021006
+Victoria Secret,Kelly Gale,0.8591121
+Victoria Secret,Stella Maxwell,0.8635909
+Victoria Secret,Adriana Lima,0.88004583
+Victoria Secret,Miranda Kerr,0.87065
+Vidal,Arturo Vidal,0.96191037
+Vidal,Fabrizio Vidale,0.9129348
+Vidal,Gore Vidal,0.95034397
+Vidal,Nacho Vidal,0.9512331
+Vidal,Aleix Vidal,0.9459698
+Vidal,Vidal Sassoon,0.89800847
+Vidal,Maria Vidal,0.9308239
+Vidal,Henri Vidal,0.9361888
+Viggo Mortensen,Viggo Mortensen,0.99999976
+Viggo Mortensen,David Cronenberg,0.7831656
+Vito Catozzo,Giorgio Faletti,0.84504545
+Vito Catozzo,Vittorio Gui,0.8791727
+Vladimir #Putini,Vladimir Putin,0.9073324
+Vladimir #Putini,Ljudmila Putina,0.8614423
+Vladimir #Putini,Dmitrij Medvedev,0.84325093
+Vladimir #Putini,Evgenij Prigožin,0.7991726
+Vladimir #Putini,Volodymyr Zelens'kyj,0.83322954
+Vladimir #Putini,Anna Stepanovna Politkovskaja,0.8062399
+Vladimir Vladimirovič Putin,Vladimir Putin,0.9357958
+Vladimir Vladimirovič Putin,Michail Vladimirovič Mišustin,0.92471826
+Vladimir Vladimirovič Putin,Jurij Vladimirovič Andropov,0.9215319
+Vladimir Vladimirovič Putin,Sergej Vladimirovič Michalkov,0.90466964
+Vladimir Vladimirovič Putin,Igor' Sečin,0.815346
+Vlady,Marina Vlady,0.896085
+Vlady,Maria Antonietta d'Asburgo-Lorena,0.8348125
+Vlady,Valeria Valeri,0.8855948
+Vlahovic,Dušan Vlahović,0.957772
+Vlahovic,Arthur Cabral,0.81906545
+Vlahovic,Nicolás González,0.8195493
+Vlahovic,Krzysztof Piątek,0.82469076
+Vlahovic,Arkadiusz Milik,0.79608357
+Vlahovic,Filip Kostić,0.8881366
+Voltagabbana,Peter Gomez,0.8844536
+Voltagabbana,Paolo Guzzanti,0.877306
+Voltagabbana,Claudio Sabelli Fioretti,0.8143791
+Voltagabbana,Bobo Craxi,0.87795866
+Voltagabbana,Davide Lajolo,0.79275584
+Vucic,Aleksandar Vučić,0.8919026
+Vucic,Miloš Vučić,0.9378164
+Vucic,Sanja Vučić,0.91333836
+Vucic,Ivica Dačić,0.8092073
+Vucic,Marko Vučić,0.94164455
+Vucic,Edi Rama,0.8080934
+Vucic,Ivica Tončev,0.8348917
+Vucic,Martin Vučić,0.94665426
+Whitney Houston,Whitney Houston,0.9999998
+Whitney Houston,Cissy Houston,0.85529196
+Will Byers,Noah Schnapp,0.8108902
+Woodrow Wilson,Thomas Woodrow Wilson,0.9832936
+Woodrow Wilson,Robert Woodrow Wilson,0.98049414
+Woodrow Wilson,Margaret Woodrow Wilson,0.9819591
+Woodrow Wilson,Woody Strode,0.8565122
+Woodrow Wilson,Woody Guthrie,0.8460743
+Yasmina Reza,Yasmina Reza,1.0000004
+Yasmina Reza,Reza Ciro Pahlavi,0.8123391
+Yasmina Reza,Anna Foglietta,0.83982044
+Yasmina Reza,Ralph Fiennes,0.78406775
+Yasmina Reza,Ricardo Darín,0.7756041
+Yasmina Reza,Christopher Hampton,0.7866882
+Yup,David Leitch,0.8111181
+Yup,Hyeon Ju-yeop,0.7853821
+Yup,Kim Jae-yup,0.85799694
+Zan,Alessandro Zan,0.9205034
+Zan,Adriano De Zan,0.8634526
+Zan,Davide De Zan,0.8753775
+Zan,Žan Majer,0.8684415
+Zan,Žan Celar,0.8820142
+Zan,Žan Kranjec,0.8322743
+Zan,Žan Žužek,0.8536259
+Zaniolo,Nicolò Zaniolo,0.9527572
+Zaniolo,Igor Zaniolo,0.95222276
+Zaniolo,Gianluca Mancini,0.86141574
+Zaniolo,Moise Kean,0.7920759
+Zaniolo,Krzysztof Piątek,0.80652785
+Zaniolo,Luca Ranieri,0.87470376
+Zaza,Simone Zaza,0.9546832
+Zaza,Michele Zaza,0.943846
+Zaza,Zaza Pachulia,0.87284565
+Zaza,Zaza Gogava,0.9092924
+Zelenski,Tadeusz Boy-Żeleński,0.9171653
+Zelenski,Volodymyr Zelens'kyj,0.8896431
+Zelensky,Volodymyr Zelens'kyj,0.8888029
+Zelensky,Dario Nardella,0.8102726
+Zelensky,Luca Bizzarri,0.82684404
+Zio Silvio,Silvio Orlando,0.9000522
+Zio Silvio,Giovanni Buitoni,0.84234595
+Zio Silvio,Silvio Piola,0.89926744
+Zio Silvio,Benedetto Croce,0.85710275
+Zio Silvio,Paolo Berlusconi,0.88923335
+Zio Zuma,Brian Grazer,0.855995
+Zio Zuma,Ignacio Zuloaga,0.8692639
+Zio Zuma,Salman dell'Arabia Saudita,0.725158
+Zio Zuma,Delta Burke,0.8116268
+Zio Zuma,Charles B. Pierce,0.7988095
+Zorzi,Tommaso Zorzi,0.9003111
+Zorzi,Delfo Zorzi,0.8291325
+Zorzi,Andrea Zorzi,0.8932417
+Zorzi,Cecilia Zorzi,0.90168697
+Zorzi,Guglielmo Zorzi,0.878639
+Zorzi,Giorgione,0.92161727
+Zorzi,Renzo Zorzi (pilota automobilistico),0.7986753
+Zuckerberg,Mark Zuckerberg,0.95238614
+Zuckerberg,Eduardo Saverin,0.8450023
+Zuckerberg,Dustin Moskovitz,0.8073224
+Zuckerberg,Max Minghella,0.80202043
+alessandro,Alessandro Magno,0.91291296
+alessandro,Alessandro Cattelan,0.9066166
+alessandro,Alessandro Borghi (attore),0.8521212
+alessandro,Alessandro Severo,0.92792064
+alessandro,Alessandro Florenzi,0.896577
+alex,Alex Ferguson,0.93269587
+alex,Alex Baroni,0.9308563
+alex,Alex Zanardi,0.9336723
+alex,Alex Meret,0.8789385
+alex,Alex Pettyfer,0.9246708
+alex,Alex Britti,0.9171194
+alex finocchio,Johnny Dorelli,0.8480834
+alex finocchio,Silvan,0.89910567
+alexa,Alexa Bliss,0.926229
+alexa,Alexa Chung,0.9290858
+alexa,Alexa Demie,0.8640778
+alexa,Alexa Davalos,0.87589693
+alexa,Alexa Vega,0.9174103
+amadeus,Wolfgang Amadeus Mozart,0.8569828
+amadeus,Amadeus (conduttore televisivo),0.84743214
+amadeus,Rambo Amadeus,0.9257878
+amber,Amber Heard,0.95460856
+amber,Amber Tamblyn,0.88566417
+amber,Amber Valletta,0.94587463
+amber,Amber Rose,0.9381878
+amber,Amber Lynn,0.9362575
+amber,Amber Midthunder,0.8820688
+amber heard,Amber Heard,1.0
+amber heard,Johnny Depp,0.87216973
+amber heard,Elon Musk,0.80698633
+ame da fastidio,Guy de Maupassant,0.7241088
+ame da fastidio,Agnese Sorel,0.76939696
+amen,Francesco Gabbani,0.8112798
+amir,Amir Rrahmani,0.8566196
+amir,Amir,0.99999994
+amir,Amir Khan,0.92822576
+amir,Amir Ghalenoei,0.85318244
+amir,Amir Wilson,0.91674185
+amir,Yigal Amir,0.8258622
+andrea masiello,Andrea Masiello,0.99999976
+andrea masiello,Salvatore Masiello,0.9624728
+andrea masiello,Andrea Ranocchia,0.9411738
+andrea masiello,Daniele Padelli,0.93616784
+andrea masiello,Marco Di Vaio,0.8552615
+andrea masiello,Marino Defendi,0.8375976
+andrei,Ionuț Radu,0.8058466
+andrei,Alessandro Andrei,0.9053091
+andrei,Andrei Tchmil,0.8024293
+andrei,Andrej Tarkovskij,0.7593367
+andrei,André Onana,0.835654
+angela,Angela Bassett,0.8823186
+angela,Angela Lansbury,0.9365839
+angela,Piero Angela,0.92871296
+angela,Angela White,0.9287835
+angela,Angela Merkel,0.93192416
+angela,Angela Finocchiaro,0.9299142
+angela,Angela Luce,0.92882514
+angela,Alberto Angela,0.9354366
+angela,Angela Marsons,0.8888913
+annamaria franzoni,Ilaria Cavo,0.87544256
+annamaria franzoni,Annamaria Fassio,0.8891045
+annamaria franzoni,Carlo Taormina,0.87978536
+annamaria franzoni,Gianfranco Funari,0.8880122
+annamaria franzoni,Carlo Federico Grosso,0.8393705
+asagiri,Laura Lenghi,0.8187758
+ave' er culo,Maria Rosaria Omaggio,0.77912676
+awakening,Jonathan Groff,0.86393726
+awakening,Daniel Durant,0.87949216
+banco Luca,Nanni di Banco,0.8251055
+banco Luca,Paolo Carta,0.85295385
+banco Luca,Luca della Robbia,0.7749633
+banco Luca,Luca Mangoni,0.91056323
+basilico Invece,Gabriele Basilico,0.9158157
+bassetti,Gualtiero Bassetti,0.9226131
+bassetti,Angela Bassett,0.82913065
+bassetti,Piero Bassetti,0.9069036
+bassetti,Tito Bassetti,0.91086495
+bassetti,Marcantonio Bassetti,0.8580477
+bassetti,Joshua Bassett,0.82529056
+bassetti,Alberto Bassetti,0.92226726
+beach volley,Kathryn Plummer,0.7974872
+beach volley,Nika Daalderop,0.7898146
+beach volley,Karch Kiraly,0.7799249
+beata lxi,Francesco d'Assisi,0.7927505
+beata lxi,Gesù,0.7739409
+beata lxi,Giovanni Vincenzo Imperiale,0.7609012
+beata lxi,Giannino Castiglioni,0.7272762
+beata lxi,Ardengo Soffici,0.750303
+beata lxi,Gaetano Callido,0.7612964
+bell,Kristen Bell,0.91533494
+bell,Jamie Bell,0.92561764
+bell,Drake Bell,0.9283726
+bell,Alexander Graham Bell,0.8701356
+bennett,Tony Bennett,0.89701855
+bennett,Alan Bennett,0.923285
+bennett,Anthony Bennett,0.908666
+bennett,Brea Bennett,0.88793457
+bennett,Haley Bennett,0.90749884
+bennett,Manu Bennett,0.9081304
+bennett,Naftali Bennett,0.8524106
+bennett,Joan Bennett,0.8914611
+bennett,Eliza Bennett,0.9253627
+bergoglio,Papa Francesco,0.90361595
+bergoglio,Carlo Bergoglio,0.92934626
+bergoglio,Diego Fusaro,0.8548582
+berlusconi,Silvio Berlusconi,0.9417165
+berlusconi,Barbara Berlusconi,0.92804253
+berlusconi,Marina Berlusconi,0.92954856
+berlusconi,Pier Silvio Berlusconi,0.88291395
+berlusconi,Paolo Berlusconi,0.9186642
+berlusconi salvini,Matteo Salvini,0.93657476
+berlusconi salvini,Anna Maria Bernini,0.80450106
+berlusconi salvini,Silvio Berlusconi,0.93221307
+berlusconi salvini,Laura Ravetto,0.8373256
+berlusconi salvini,Giancarlo Giorgetti,0.84184575
+berlusconi salvini,Roberto Maroni,0.8750052
+beyonce,Beyoncé,1.0000002
+beyonce,Jay-Z,0.86195064
+bicipit grange,Brett Favre,0.7968881
+billionari,Paul Scheerbart,0.79223144
+bitti,Francesco Ricci Bitti,0.8473881
+bitti,Bitti Bergamo,0.8945745
+bitti,Bernardo Bitti,0.93090594
+bitti,Martino Bitti,0.9324106
+blaine,David Blaine,0.94018924
+blaine,Hal Blaine,0.82214504
+blaine,Vivian Blaine,0.93739414
+blanco,Blanco (cantante),0.8619891
+blanco,Raúl González Blanco,0.8948712
+blanco,Griselda Blanco,0.938614
+blanco,Cuauhtémoc Blanco,0.8216157
+blanco,Jorge Blanco,0.9272802
+blanco,Luis Carrero Blanco,0.8597795
+blanco,Benny Blanco,0.93381995
+blanco,Álex Blanco,0.9407667
+blanco #mahmood,Blanco (cantante),0.9134762
+blanco #mahmood,Mahmood,0.90011036
+bobby brown lesbica,Frank Sinatra,0.8645764
+bobby brown lesbica,Barack Obama,0.83301795
+bobby brown lesbica,Tracy Chapman,0.8691292
+bobby brown lesbica,Billie Jean King,0.84679246
+bonucci bremer,Giuseppe Moruzzi,0.7738201
+bossi,Umberto Bossi,0.93441147
+bossi,Renzo Bossi,0.91976184
+bossi,Isabella Bossi Fedrigotti,0.83689046
+bossi,Carlo Vegezzi Bossi,0.8378148
+bossi,Carmelo Bossi,0.93316936
+bossi,Stefano Bossi,0.9447503
+bremer,Gleison Bremer,0.9215197
+bremer,Lewis Paul Bremer,0.9051347
+bremer,Pauline Bremer,0.9487989
+bremer,Lucille Bremer,0.9613556
+bremer,Arthur Herman Bremer,0.91607153
+bremer,J.R. Bremer,0.8670781
+bremer,Gerhard Bremer,0.9260826
+brian molko,Brian Molko,1.0000001
+brian molko,Stefan Olsdal,0.7983898
+busone,Ferruccio Busoni,0.8767922
+busone,Vanna Busoni,0.87485415
+busone,Manlio Busoni,0.8684685
+busone,Giovanni Busoni,0.875319
+busone,Yosa Buson,0.9030899
+busone busone,Ferruccio Busoni,0.82696843
+busone busone,Yosa Buson,0.88954544
+busone busone,Manlio Busoni,0.8031683
+busone busone,Vanna Busoni,0.8215968
+busone busone,Giovanni Busoni,0.8205948
+busone busone,Jaures Busoni,0.8010836
+carl,Linneo,0.8945492
+carl,Carl Switzer,0.87986386
+carl,Carl Brave,0.92932904
+carl,Carl Carl,0.9591304
+carl,Carl von Clausewitz,0.83328307
+carl,Carl Gustav Jung,0.86599696
+carl,Carl Lewis,0.93980396
+carmen,Carmen Consoli,0.9074472
+carmen,Carmen Di Pietro,0.8671671
+carmen,Carmen Villani,0.93444103
+carmen,Carmen Lasorella,0.8614991
+carmen,Carmen Russo,0.9248718
+carmen,Carmen Scivittaro,0.8212069
+carmen,Carmen Electra,0.92881453
+carmen,Carmen Ejogo,0.85986125
+caterina,Caterina II di Russia,0.82954764
+caterina,Caterina da Siena,0.8453265
+caterina,Caterina de' Medici,0.8671974
+caterina,Caterina d'Alessandria,0.87062895
+caterina,Caterina d'Aragona,0.8686115
+caterina,Caterina di Meo Lippi,0.8368963
+caterina,Caterina Sforza,0.9414564
+caterina,Caterina Balivo,0.923263
+caterina,Caterina Shulha,0.8288757
+catullo,Gaio Valerio Catullo,0.8718444
+catullo,Lucia Catullo,0.9288149
+ceasefire,Jeremy Meeks,0.81617296
+champions Pioli,Stefano Pioli,0.9134875
+champions Pioli,Charles De Ketelaere,0.7900253
+champions Pioli,Simone Inzaghi,0.8725748
+champions Pioli,Theo Hernández,0.8137425
+champions Pioli,Paulo Sousa,0.8263322
+charles,Charles James,0.937407
+charles,Charles Nolcini,0.8581812
+charles,Charles Manson,0.93027085
+charles,Charles De Ketelaere,0.8426478
+charles,Charles Darwin,0.94198793
+charles,Jean Charles Cazin,0.8435875
+charles,Charles Dickens,0.94119394
+charlie manson,Charles Manson,0.9718868
+charlie manson,Marilyn Manson,0.9700586
+charlie manson,Leslie Van Houten,0.8361852
+charlie manson,Lynette Fromme,0.81467766
+charlie manson,Patricia Krenwinkel,0.80994403
+charlie manson,Tex Watson,0.8758533
+checca,Checco Zalone,0.8400072
+checca,Andrea Checchi,0.8345605
+checca,Checco Durante,0.88833964
+checca,Checco Marsella,0.8688334
+checca paone,Totò,0.8295326
+checca paone,Giovanna Donini,0.875339
+chris,Chris Benoit,0.9521941
+chris,Chris Hemsworth,0.937701
+chris,Chris Pine,0.9513374
+chris,Chris Martin,0.95178354
+chris,Chris Smalling,0.8814547
+chris,Chris Brown,0.9284568
+chris,Chris Cornell,0.93449557
+chris,Chris Evert,0.90002954
+christian,Christian Bale,0.9368812
+christian,Christian Günter,0.95170385
+christian,Christian Streich,0.873745
+christian,Christian Kouamé,0.8817756
+christian,Christian Atsu,0.88648266
+christian,Christian Vieri,0.9381894
+christian,Christian Slater,0.8786291
+ciai,Omero Ciai,0.9214257
+ciai,Carles Puigdemont,0.8019246
+ciai,Reynaldo Bignone,0.80016375
+ciai,Pedro Sánchez,0.84775937
+ciai,José Mujica,0.8414109
+ciai,Jorge Rafael Videla,0.78273606
+ciai,Jorge Eduardo Acosta,0.8048859
+cit Sciascia,Giovanni Verga,0.87489605
+cit Sciascia,Benito Mussolini,0.8973144
+cit Sciascia,Aldo Moro,0.86431944
+cit Sciascia,Luigi Melzi,0.82751256
+cit Sciascia,Luigi Pirandello,0.8974782
+cit Sciascia,José Saramago,0.89623106
+cit Sciascia,Pier Paolo Pasolini,0.8321587
+claudia,Claudia Pandolfi,0.935154
+claudia,Claudia Koll,0.9402514
+claudia,Claudia Cardinale,0.9479664
+claudia,Claudia Mori,0.9380435
+claudia,Claudio,0.94893914
+claudia,Claudia Schiffer,0.9369496
+claudia,Santa Claudia,0.92484814
+claudia,Claudia Gerini,0.9243349
+claudia ascoltami,Manuela Villa,0.90919995
+claudia ascoltami,Claudio Lippi,0.8752336
+claudia ascoltami,Paola Folli,0.9087297
+claudia ascoltami,Mal,0.8694245
+claudia ascoltami,Claudio Cavallaro,0.9039964
+claudia ascoltami,Alda Merini,0.85338706
+claudia ascoltami,Roberto Baggio,0.8639539
+claudia ascoltami,Anna Campori,0.84355915
+cuffiona,Giulia Farnese,0.79990536
+culattone,Ignazio La Russa,0.7458396
+culattone,Renzo Bossi,0.84973663
+culattone,Gabriele Corsi,0.8711176
+culattone,Roberto Calderoli,0.8748678
+dante,Dante Alighieri,0.9300107
+dante,Dante Ferretti,0.9070653
+dante,Emma Dante,0.91968983
+dante,Beatrice Portinari,0.82016665
+dante,Dante Gabriel Rossetti,0.88130325
+darseli,Leopoldo Trieste,0.8461709
+darseli,Charlie Chaplin,0.81764364
+darseli,Tiberio Murgia,0.82574064
+darseli,Tano Cimarosa,0.8379543
+davide,Davide,0.99999964
+davide,Davide Faraoni,0.9470964
+davide,Davide Frattesi,0.88556534
+davide,Davide Calabria,0.9243344
+davide,Davide Astori,0.93923974
+davide,Davide Nicola,0.9313996
+davide,Davide Devenuto,0.8901818
+davide garufi,Cesare Pavese,0.8186532
+davide garufi,James Hillman,0.8474583
+davide garufi,Manlio Sgalambro,0.84776616
+davide garufi,Claude Lévi-Strauss,0.8274033
+dazai,Osamu Dazai,0.82556874
+dazai,Mamoru Miyano,0.75769866
+djokovic,Novak Đoković,0.90270805
+djokovic,Jannik Sinner,0.79427004
+djokovic,Gaël Monfils,0.9086493
+djokovic,Daniil Medvedev,0.7965404
+djokovic,Stan Wawrinka,0.90028054
+dybala,Paulo Dybala,0.9411878
+dybala,Marko Pjaca,0.8097514
+dybala,Paul Pogba,0.8765302
+dybala,Oriana Sabatini,0.85053957
+dybala,Andrea Belotti,0.9047257
+elia,Antonella Elia,0.94201803
+elia,Carmine Elia,0.9429029
+elia,Elia Kazan,0.93847287
+elia,Elia Viviani,0.9323697
+elia,Michele Mario Elia,0.8664483
+elia,Eljero Elia,0.8638212
+elia,Leopoldo Elia,0.9509684
+elia,Elia Legati,0.9316149
+elia s5,Antonella Elia,0.9314785
+elia s5,Eljero Elia,0.87641364
+elia s5,Leopoldo Elia,0.93547523
+elia s5,Elia Viviani,0.91694486
+elia s5,Elia Legati,0.9230238
+elia s5,Giancarlo Elia Valori,0.90118724
+elisa,Elisa (cantante 1977),0.8674464
+elisa,Elisa Isoardi,0.94499964
+elisa,Elisa Kadigia Bove,0.8543314
+emanuele,Vittorio Emanuele II di Savoia,0.83899224
+emanuele,Emanuel Lo,0.9067534
+emanuele,Vittorio Emanuele III di Savoia,0.8213747
+emanuele,Vittorio Emanuele di Savoia (1937),0.854593
+emanuele,Emanuele Filiberto di Savoia (1972),0.8532027
+emanuele,Vittorio Emanuele I di Savoia,0.8270541
+emanuele,Carlo Emanuele III di Savoia,0.8203567
+emanuele,Emanuele Calaiò,0.9389033
+emily dickinson,Emily Dickinson,1.0000002
+emily dickinson,Ginevra Bompiani,0.8704968
+erica,Erica Necci,0.8858602
+erica,Erica Durance,0.8751097
+erica,Erica Mou,0.9407865
+erica,Erica Cerra,0.9531566
+erica,Erica Ash,0.94747055
+erica,Erica Gimpel,0.9036727
+erica,Erica Jong,0.94740844
+estinguetevi,Claudio Costa (medico),0.85997516
+fantozzi,Paolo Villaggio,0.87509
+fars,Ali ibn Buya,0.825308
+fc carson,Carson Fagan,0.79049826
+fc carson,Jesús Ferreira,0.8313584
+fc carson,Michael Bradley (calciatore),0.7823856
+femminuccia,Tristan Thompson,0.8639768
+femminuccia,Evangeline Lilly,0.82542896
+femminuccia,Charles Bukowski,0.83492434
+femminuccia,Eddie Izzard,0.8151767
+femminuccia,Ernst Thole,0.8100949
+frank zappa,Frank Zappa,1.0
+frank zappa,Dweezil Zappa,0.8191529
+frank zappa,Captain Beefheart,0.82659304
+frank zappa,Steve Vai,0.87106216
+frank zappa,Mike Keneally,0.8430922
+frà Hai,Fra Dolcino,0.9472505
+frà Hai,Fra Diavolo,0.9439855
+frà Hai,Fra Bevignate,0.8587379
+gabbione,Mauro Lessi,0.86623085
+gabbione,Aleandro Baldi,0.85169077
+gaia,Gaia (cantante),0.8609202
+gaia,Gaia Tortora,0.92794263
+gaia,Gaia Bolognesi,0.94224894
+gaia,Gaia Sabbatini,0.8596631
+gaia,Gaia Weiss,0.9534906
+gay annoying,Tim Curry,0.8585356
+gay annoying,Christian Jessen,0.814862
+gay annoying,Greg Daniels,0.8748889
+gay annoying,Lucas Cruikshank,0.8320588
+gay annoying,Giancarlo Meo,0.817289
+gay rumeni,Vladimir Putin,0.8519411
+gay rumeni,Sebastian Stan,0.8463477
+gay rumeni,Papa Francesco,0.82049567
+gay rumeni,Volodymyr Zelens'kyj,0.80407846
+gay rumeni,Alec Secăreanu,0.8157269
+gelato tiziano,Tiziano Ferro,0.8848705
+gelato tiziano,Pippo Baudo,0.8455406
+gelato tiziano,Lunetta Savino,0.85990715
+gelato tiziano,Enzo Jannacci,0.8277993
+gelato tiziano,Lucio Dalla,0.84496427
+gelato tiziano,Renato Zero,0.8476479
+gennaro,San Gennaro,0.93632126
+gennaro,Gennaro Gattuso,0.94442177
+gennaro,Gennaro Sangiuliano,0.9431639
+gennaro,Raiz,0.8147167
+gennaro,Gennaro Tutino,0.9376617
+gennaro,Gennaro Volpe,0.93441904
+gennaro,Gennaro Delvecchio,0.9415747
+gennaro,Gennaro Esposito,0.933119
+gennaro,Gianni De Gennaro,0.9046691
+genshin,Hiraga Genshin,0.9350575
+genshin,Miyamoto Musashi,0.8295131
+genshin,Kenjirō Tsuda,0.8223421
+gesucristo,Peire de Corbiac,0.76833946
+gini,Corrado Gini,0.91996396
+gini,Roberto Gini,0.91941595
+gini,Georginio Wijnaldum,0.7764436
+gini,Daniela Gini,0.9241312
+girogia,Lanfranco de Saliverti,0.8001121
+girogia,Pompeo Mariani,0.84606886
+giuseppe,Giuseppe II d'Asburgo-Lorena,0.83740824
+giuseppe,Giuseppe Garibaldi,0.9245893
+giuseppe,Giuseppe Anatrelli,0.8706916
+giuseppe,Giuseppe Cruciani,0.93485016
+giuseppe,Francesco Giuseppe I d'Austria,0.85711515
+giuseppe,Giuseppe Fiorello,0.9236128
+giuseppe,Giuseppe Verdi,0.9291233
+giuseppe,Giuseppe Franchetti,0.936509
+green thompson,Shaq Thompson,0.9446927
+green thompson,Klay Thompson,0.95359063
+green thompson,Elvis Presley,0.86195177
+green thompson,Tony Curtis,0.878658
+green thompson,Questlove,0.8532119
+grillo,Beppe Grillo,0.9423351
+grillo,Frank Grillo,0.9299259
+grillo,Giulia Grillo,0.93152213
+grillo,Onofrio del Grillo,0.8370589
+haikyuu,Kōki Uchiyama,0.84694535
+haikyuu,Mamoru Miyano,0.8194299
+haikyuu,Daisuke Namikawa,0.81708246
+haikyuu,Hiroshi Kamiya,0.83623683
+haikyuu,Takahiro Sakurai,0.8051522
+hailee,Hailee Steinfeld,0.9109951
+hailee,Hailé Selassié,0.86073184
+hailee,Menghistu Hailé Mariàm,0.8666031
+hailee,Haile Gebrselassie,0.8637198
+hamilton,Lewis Hamilton,0.9448463
+hamilton,George Hamilton,0.92397434
+hamilton,Linda Hamilton,0.9021781
+hamilton,Alexander Hamilton,0.93339044
+hamilton,Emma Hamilton,0.9136628
+hamilton,Bethany Hamilton,0.9218813
+hamilton,Page Hamilton,0.8880776
+harry,Harry Kane,0.92601275
+harry,Harry Styles,0.92807615
+harry,"Henry, duca di Sussex",0.83912706
+harry,Harry Shum Jr.,0.8800707
+harry,Harry S. Truman,0.8250067
+harry styles,Harry Styles,0.9999997
+hitler,Adolf Hitler,0.95508116
+hitler,Eva Braun,0.8835833
+hitler,Angela Hitler,0.93536407
+hitler,Alois Hitler,0.8251189
+hitler,Paula Hitler,0.9367296
+ho salutato loris,Barack Obama,0.84405756
+ho salutato loris,Pietro Nenni,0.83314633
+hq,Yvonne Strahovski,0.7477442
+ian gallagher,Liam Gallagher,0.9652095
+ian gallagher,Aidan Gallagher,0.96259
+ian gallagher,Noel Gallagher,0.96641743
+ian gallagher,David Gallagher,0.9681554
+ian gallagher,Cameron Monaghan,0.9189012
+ibrahimovic Mon,John Carew,0.8192507
+ibrahimovic Mon,David Trezeguet,0.8371148
+ilaria 2.0,Ilaria Capua,0.8595768
+ilaria 2.0,Ilaria Latini,0.8535936
+ilaria 2.0,Ilaria Cavo,0.8521617
+ilaria 2.0,Ilaria Stagni,0.8533498
+ilaria 2.0,Ilaria Porceddu,0.8665067
+ilaria 2.0,Ilaria Cusinato,0.8499005
+jacob,John Elkann,0.8697131
+jacob,Jacob Elordi,0.8616605
+jacob,Jacob Collier,0.96088564
+jacob,Jacob Böhme,0.9054848
+jacob,Jacob Zuma,0.8840567
+jacob,Jacob Rasmussen,0.8774591
+jaehyun,Kwon Eun-bin,0.8417913
+jeff azoff,Axl Rose,0.8454913
+jeff he,Jeff Bezos,0.92141116
+jeff he,Jeff Beck,0.9311173
+jeff he,Jeff Goldblum,0.8674663
+jeff he,Jeff Bridges,0.923882
+jeff he,DJ Jazzy Jeff,0.84343565
+jeff he,Jeff Buckley,0.90114814
+jeff he,Jeff Daniels,0.92116565
+jesse,Jesse James,0.93974197
+jesse,Jesse Owens,0.9345748
+jesse,Jesse Eisenberg,0.8382393
+jesse,Jesse Plemons,0.87543267
+jesse,Jesse Metcalfe,0.8274077
+jesse,Jesse Spencer,0.939981
+jesse,Jesse Jane,0.9431154
+jesse,Jesse Williams (attore),0.8664535
+jodie,Jodie Foster,0.92451775
+jodie,Jodie Comer,0.8600513
+jodie,Jodie Turner-Smith,0.8555064
+jodie,Jodie Whittaker,0.83394873
+jodie,Jodie Sweetin,0.85919917
+jodie,Jodie Kidd,0.9200257
+joe quinn,Ed Quinn,0.92957187
+joe quinn,Francesco Quinn,0.9219495
+joe quinn,Terry O'Quinn,0.8741579
+johnny gay pazzi,Al Corley,0.8302281
+johnny gay pazzi,Loretta Goggi,0.8179432
+johnny gay pazzi,Isabella Pasanisi,0.8011179
+johnny gay pazzi,Brad Pitt,0.8371191
+johnny gay pazzi,Povia,0.823263
+johnny gay pazzi,Frances McDormand,0.78740394
+johnny gay pazzi,Raffaella Carrà,0.82189935
+johnny gay pazzi,Jessica Tandy,0.82484055
+johnny gay pazzi,Nancy Sinatra,0.8407001
+jojo siwa,JoJo Siwa,0.9999999
+jojo siwa,Lizzy Greene,0.8651109
+jojo siwa,Chloe Fineman,0.837418
+jojo siwa,Ella Anderson,0.87008786
+joyce,James Joyce,0.9317335
+joyce,Yootha Joyce,0.85866094
+joyce,Joyce Lussu,0.95812476
+joyce,Joyce Carol Oates,0.8808839
+joyce,Lucia Joyce,0.93570626
+joyce,Joyce DiDonato,0.85975087
+jugar en,Stanislav Lobotka,0.82043105
+jugar en,Adolfo Gaich,0.8135653
+jugar en,Pablo Armero,0.8507345
+jugar en,Marcos Senesi,0.82551265
+jugar en,Piero Hincapié,0.7640822
+jugar en,Matías Almeyda,0.81657535
+jugar en,Walter Gargano,0.8307748
+justin,Justin Bieber,0.9349798
+justin,Justin Timberlake,0.92430973
+justin,Justin Gaethje,0.87491304
+justin,Justin Kluivert,0.9426174
+justin,Justin Long,0.950037
+justin,Justin Theroux,0.86252326
+justin,Justin Chatwin,0.9411609
+justin,Justin Hartley,0.86514115
+justin,Justin Simon,0.94454384
+juventini,Giovanni Trapattoni,0.8483344
+juventini,Paulo Sousa,0.83383393
+kakegurui,Emanuela Ionica,0.7947877
+kakegurui,Francesca Rinaldi,0.7793175
+kakegurui,Perla Liberatori,0.80592763
+kant,Immanuel Kant,0.94158244
+kant,Johann Gottlieb Fichte,0.82645905
+kimi raikkonen,Kimi Räikkönen,0.9999999
+kristen stewart,Kristen Stewart,0.9999999
+kristen stewart,Robert Pattinson,0.9365964
+kristen stewart,Taylor Lautner,0.9067288
+kurt,Kurt Cobain,0.9531358
+kurt,Kurt Russell,0.94906175
+kurt,Kurt Vonnegut,0.9329871
+kurt,Kurt Angle,0.9468071
+kurt,Kurt Zouma,0.94989914
+kurt,Kurt Hamrin,0.87696254
+kurt,Kurt Rambis,0.8728548
+kurt,Kurt Daluege,0.83793044
+kyrgios,Nick Kyrgios,0.8965819
+kyrgios,Thanasi Kokkinakis,0.77455765
+kyrgios,Stan Wawrinka,0.8187065
+kyrgios,Daniil Medvedev,0.7998936
+kyrgios,Alexander Zverev,0.81093025
+laura pausini,Laura Pausini,1.0
+leao,Rafael Leão,0.9363267
+leao,Émerson Leão,0.9437021
+leao,Nara Leão,0.9511982
+leao,Charles De Ketelaere,0.78525746
+leao,Divock Origi,0.7859766
+leclerc,Arthur Leclerc,0.88734305
+leclerc,Charles Victoire Emmanuel Leclerc,0.81512046
+lee know one and only,Chris Noth,0.8055825
+lee know one and only,Diane Warren,0.7677692
+lee know one and only,Elvis Presley,0.7260686
+lee know one and only,Dua Lipa,0.7299254
+lee know one and only,Sam Smith,0.74318355
+lee know one and only,Bryan Cranston,0.7306791
+lee know one and only,Dionne Warwick,0.7315079
+lega fratelli d'italia,Nunzia De Girolamo,0.71459424
+lega fratelli d'italia,Massimiliano Fedriga,0.6832462
+lega fratelli d'italia,Francesco Lollobrigida,0.6638504
+leo,Edoardo Leo,0.9520013
+leo,Leo Gullotta,0.9531666
+leo,Leo Gassmann,0.8634368
+leo,Maurizio Leo,0.94092
+leo,Leo Chiosso,0.85523987
+leo,Leo Valiani,0.8919694
+leo,Léo Duarte,0.9536712
+leo #nardo,Nardo Dunchi,0.80037653
+leo #nardo,Papa Francesco,0.78055036
+leo #nardo,Mostro di Firenze,0.7538253
+leo #nardo,Eolo Capritti,0.80966234
+leone,Sergio Leone,0.9315224
+leone,Miriam Leone,0.9368744
+leone,Giovanni Leone,0.9150299
+leone,Papa Leone I,0.8766116
+leone,Papa Leone X,0.8618863
+leorio,DJ Lethal,0.80409014
+leorio,Massimo De Ambrosis,0.85021615
+lory,Lory Del Santo,0.8666627
+lory,Bonnie Bianco,0.87375915
+lory,Loriana Lana,0.8788531
+lory,Pierre Lory,0.9332105
+lotito,Claudio Lotito,0.94784254
+lotito,Ivana Lotito,0.92752844
+lotito,Michel Lotito,0.93794215
+louie,Louie Dampier,0.8547892
+louie,Louie Annesley,0.8431663
+louie,Louie Anderson,0.8910837
+louie,Louie Austen,0.90385646
+louis,Louis Armstrong,0.9254722
+louis,Joe Louis,0.93440294
+louis,Louis Mountbatten,0.86512446
+louis,Louis Tomlinson,0.94870925
+louis tomlinson,Louis Tomlinson,1.0000004
+louis tomlinson,Harry Styles,0.9601448
+louis tomlinson,Zayn,0.92819023
+luis vuitton,Carlo Montanaro,0.87091744
+luis vuitton,Jennifer Lopez,0.8470074
+luis vuitton,Madonna (cantante),0.8397394
+luis vuitton,Frank Gehry,0.8940484
+madonna,Madonna (cantante),0.8837643
+madonna,Maria (madre di Gesù),0.85764086
+madonna di dio,Maria (madre di Gesù),0.8822254
+madonna di dio,Madonna (cantante),0.8204548
+mahmood,Mahmood,1.0
+mahmood,Blanco (cantante),0.77915776
+maometto,Maometto,1.0
+maometto,Maometto II,0.9384148
+marangoni da ied,Walter Alasia,0.7871144
+marangoni da ied,Alberto Bonisoli,0.7895618
+marangoni da ied,Enrico Azzimonti,0.77200186
+maria de filippi,Maria De Filippi,1.0
+maria de filippi,Irama,0.78930587
+maria francesca,Maria Francesca delle Cinque Piaghe,0.9120465
+maria francesca,Maria Francesca di Savoia,0.92465764
+maria francesca,Francesca Michielin,0.9028424
+maria francesca,Francesca Maria di Borbone-Francia,0.89221776
+maria francesca,Maria Sole Agnelli,0.8998308
+maria francesca,Francesca Saverio Cabrini,0.90445286
+maria francesca,Maria Teresa d'Austria,0.8906226
+maria francesca,Maria Sofia di Baviera,0.8857858
+maria francesca,Maria Valeria d'Asburgo-Lorena,0.87336
+mario,Mario Balotelli,0.92258096
+mario,Mario Götze,0.9514257
+mario,Mario Gómez,0.93716073
+mario,João Mário,0.9321489
+maro gli,Publio Virgilio Marone,0.76428384
+maro gli,Maro Itoje,0.80159277
+maro gli,Akaji Maro,0.8469951
+maro gli,Maro Joković,0.8401718
+martina,Martina Colombari,0.91136205
+martina,Martina Trevisan,0.9415184
+martina,Martina Navrátilová,0.9242149
+martina,Maurizio Martina,0.9323211
+martina,Martina Stella,0.93404496
+martina,Martina Hingis,0.9313195
+martina,Martina Stoessel,0.91467375
+massara,Frederic Massara,0.9350496
+massara,Natale Massara,0.93582493
+massara,Pino Massara,0.9360024
+massara,Daniele Massaro,0.8410654
+massara,Iginio Massari,0.8246602
+massara,Lea Massari,0.8242799
+massara,Francesco Massara,0.94022024
+massara,Enrico Massara,0.93998957
+massara,Paola Massari,0.8420261
+mattia,Mattia Perin,0.83539057
+mattia,Mattia Binotto,0.88370967
+mattia,Mattia Caldara,0.88392645
+mattia,Mattia Zaccagni,0.85299945
+mattia,Mattia Feltri,0.92016304
+mattia,Mattia Faraoni,0.9425338
+mattia,Mattia Destro,0.9194269
+mauriziocostanzoshow,Maurizio Leigheb,0.84891665
+me Zelensky,Roger Waters,0.81495035
+me Zelensky,Elon Musk,0.8120353
+me Zelensky,Mikheil Saak'ashvili,0.87296414
+me Zelensky,Sergej Viktorovič Lavrov,0.85948575
+menomale,Enrico Montesano,0.85280466
+menomale,Georges Brassens,0.8670089
+mery,Alessandra Di Sanzo,0.7863883
+mery,Tony Sperandeo,0.8301047
+mery,Alfredo Li Bassi,0.8341134
+mery,Ainett Stephens,0.79835653
+mery,Roberto Mariano,0.8918899
+michela,Michela Giraud,0.9378606
+michela,Michela Murgia,0.934484
+michela,Michela Rocco di Torrepadula,0.83703595
+michela,Michela Andreozzi,0.87942183
+michela,Michela Quattrociocche,0.855774
+michela,Michela Vittoria Brambilla,0.88921726
+michela,Michela Cescon,0.8824634
+michela,Michela Miti,0.9240337
+michele esposito,Michele Esposito,1.0
+michele esposito,Giovanni Esposito,0.9632832
+michele esposito,Giancarlo Esposito,0.9588407
+mikey,Mikey Madison,0.9423367
+mikey,Mikey Garcia,0.83914375
+mikey,Mikey Way,0.9346656
+mikey,Mikey Ambrose,0.92509437
+mikey,Mikey Graham,0.9285959
+mikey,Mikey Whipwreck,0.84889376
+mikey,Mikey Welsh,0.93065333
+milla,Milla Jovovich,0.93198353
+milla,Roger Milla,0.90336245
+milla,Milla Sannoner,0.82658666
+milla,Luis Milla,0.91039675
+milla,Essie Davis,0.7995195
+minchia,Luciana Littizzetto,0.8633815
+minchia,Jamie Dornan,0.8515334
+mitski,Mitski,0.99999976
+mitski,Mac DeMarco,0.8196314
+monsignor Paglia,Vincenzo Paglia,0.94096154
+monsignor Paglia,Óscar Romero,0.8790663
+monsignor Paglia,Luigi Manconi,0.86068153
+monsignor Paglia,Vittorio Sgarbi,0.8610655
+monsignor Paglia,Enrico Paglia,0.929968
+monsignor Paglia,Gina Lollobrigida,0.84258187
+monsignor Paglia,Saro Urzì,0.79864466
+morte?Ah,Ah Toy,0.8582047
+nada de nada,Nada (cantante),0.8372833
+nada de nada,Miguel Herrán,0.7583817
+nanon,Korapat Kirdpan,0.8082107
+nanon,Luigi XIV di Francia,0.78201807
+nanon,Joseph Boulogne Chevalier de Saint-George,0.7762314
+nardo,Olimpia Di Nardo,0.84271383
+nerazzurro,Luciano Spalletti,0.8576304
+nerazzurro,Matteo Politano,0.839918
+nerazzurro,Lautaro Martínez,0.84592956
+nerazzurro,Álvaro Recoba,0.9049907
+nerazzurro,Riccardo Ferri,0.87181985
+nicole dillo,Elio (cantante),0.8037487
+nicole dillo,Vasco Rossi,0.8280623
+nicole dillo,Mia Martini,0.853196
+nicole dillo,Peppino di Capri,0.79853135
+nicole dillo,Gene Gnocchi,0.862167
+nicole dillo,Bruno Munari,0.847124
+nicole dillo,Pier Maria Cecchini (1957),0.8294282
+noah,Noah Cyrus,0.8927899
+noah,Noah Schnapp,0.8229443
+noah,Noah Okafor,0.8356379
+noah,Noah Wyle,0.8445083
+noah,Joakim Noah,0.8732898
+noah,Noah Centineo,0.88587326
+noah,Noah Baumbach,0.830626
+noemi,Noemi (cantante),0.8792325
+noemi,Noemi Di Segni,0.8315071
+noemi,Fiorella Mannoia,0.9009957
+noemi,Noemi Signorile,0.9518831
+noemi,Noemi Gifuni,0.9435825
+nonno Dzeko,Silvano Martina,0.8655057
+nonno Dzeko,Federico Fazio,0.83854353
+nonno Dzeko,Enrico Chiesa,0.86835253
+nonno Dzeko,Sergio Agüero,0.87993556
+nonno Dzeko,Edinson Cavani,0.84790474
+nonno Dzeko,Andrea Fulignati,0.79035956
+nonno Dzeko,Gigi Riva,0.86747736
+nonno Dzeko,Michel Platini,0.84903103
+nonno Dzeko,Dario Hübner,0.86235154
+okay,Rosa Chemical,0.85654366
+okay,Okay Yokuşlu,0.88970155
+omofobo,Lorenzo Fontana,0.87459517
+omofobo,Vittorio Feltri,0.8341086
+omofobo,Fedez,0.9082538
+ounas,Adam Ounas,0.9379906
+ounas,Cristiano Giuntoli,0.8190844
+ounas,Amadou Diawara,0.8183548
+ounas,Amin Younes,0.8328638
+p3sar0,Edwin van der Sar,0.82147926
+p3sar0,Pol Pot,0.862584
+p3sar0,Martina Trevisan,0.8742558
+p3sar0,Francesco Totti,0.8240423
+paky,Shiva (rapper),0.80290675
+paky,Sick Luke,0.86138374
+paolo,Paolo di Tarso,0.846179
+paolo,Paolo Di Paolo,0.8724717
+paolo,Paolo Kessisoglu,0.80130994
+paolo,Paolo Rossi (attore),0.86289036
+paona,Achilla di Alessandria,0.8166715
+paona,Nitin Bose,0.8698183
+paona,Teodosio I di Alessandria,0.81446636
+papà rottinculo,Mario Adinolfi,0.7953503
+paraculo,Erriquez,0.81471276
+paraculo,Brad Euston,0.8363985
+paraculo,Vito Riviello,0.8461431
+paraculo,Giulio Giuseppe Negri,0.83182585
+parto cesareo,Edoardo Porro,0.83782786
+parto cesareo,Lina Medina,0.8704127
+parto cesareo,Cesario di Terracina,0.8578392
+patty,Patty Pravo,0.91946197
+patty,Patty Duke,0.93496114
+patty,Patty Jenkins,0.92442816
+patty,Patty Smyth,0.8343247
+patty,Patty Shepard,0.9225714
+paulo dybala,Paulo Dybala,0.99999994
+paulo dybala,Oriana Sabatini,0.8440803
+paulo dybala,Marko Pjaca,0.8140192
+pd,Dario Franceschini,0.8506934
+pd,Enrico Letta,0.8460304
+pd,Nicola Zingaretti,0.857856
+pd,Elly Schlein,0.8096837
+pd,Maurizio Martina,0.8454716
+pier,Pier Paolo Pasolini,0.82370555
+pier,Pier della Vigna,0.70989585
+pier,Pier Giorgio Frassati,0.8671193
+pier,Pier Silvio Berlusconi,0.84460366
+pier,Pier Damiani,0.93468606
+pier,Pier Giorgio Bellocchio,0.83693075
+pier,Pier Ferdinando Casini,0.869791
+pier,Pier Luigi Bersani,0.869418
+pier,Pier Luigi Nervi,0.878499
+pillon,Giuseppe Pillon,0.897194
+pillon,Simone Pillon,0.90011424
+pillon,Laurent Pillon,0.88595724
+pippo,Pippo Baudo,0.9463001
+pippo,Pippo Franco,0.9493525
+pippo,Pippo Barzizza,0.8443802
+pippo,Filippo Inzaghi,0.9237611
+pippo,Pippo Palmieri,0.93816495
+pippo,Pippo Santonastaso,0.81676286
+pippo,Pippo Starnazza,0.94857967
+pippo,Pippo Pelo,0.94462
+pirlo,Andrea Pirlo,0.9447067
+pirlo,Carlo Mazzone,0.8156643
+pirlo,Marco Verratti,0.86902976
+pirlo,Weston McKennie,0.77899325
+pirlo,Claudio Marchisio,0.9163796
+pompinaro,Lenny Bruce,0.86250985
+pro putin,Vladimir Putin,0.9351168
+pro putin,Lorenzo Fontana,0.8391136
+pro putin,Steven Seagal,0.820578
+pro putin,Mircea Lucescu,0.80341744
+pro putin,Evgenij Maksimovič Primakov,0.758175
+putin,Vladimir Putin,0.9529681
+putin,Ljudmila Putina,0.8187982
+putin,Dmitrij Medvedev,0.8458034
+putin,Evgenij Prigožin,0.7631558
+putin #Biden,Vladimir Putin,0.8782712
+putin #Biden,Joe Biden,0.837914
+putin #Biden,Victoria Nuland,0.81921136
+putin #Biden,Kevin McCarthy (politico),0.8656365
+putin piglia,Silvio Berlusconi,0.8441183
+putin piglia,Julija Tymošenko,0.83737063
+puttana,Matilda De Angelis,0.81339324
+r.,George R. R. Martin,0.93220955
+r.,R. R. Winterbotham,0.918523
+rabiot,Adrien Rabiot,0.91783637
+rabiot,Blaise Matuidi,0.79787475
+rabiot,Mike Maignan,0.77707046
+rabiot,Ángel Di María,0.79961777
+rabiot,Franck Kessié,0.8186332
+rabiot,Arthur Melo,0.8684021
+raga,Manuel Raga,0.9497236
+raga,Ravi Shankar,0.82365024
+raga,Manuel Raga (1973),0.8901653
+raga,Giuseppe Raga,0.92716944
+riccardo madonna,Riccardo Tisci,0.9096794
+riccardo madonna,Riccardo Morandi,0.9290051
+riccardo madonna,Benozzo Gozzoli,0.8201977
+rich,Adam Rich,0.92992735
+rich,Rich Piana,0.92350715
+rich,Buddy Rich,0.91891706
+rich,Rich Moore,0.92231226
+rich,Rich Sommer,0.9441111
+rich,Claude Rich,0.936429
+rights mimì,Moby,0.73227984
+rights mimì,Ruth Bader Ginsburg,0.751776
+rights mimì,DeObia Oparei,0.80618185
+rights mimì,Madonna (cantante),0.7406496
+rina Checca.....rina.....,Rina Breda Paltrinieri,0.6889049
+rina Checca.....rina.....,Checco Durante,0.67035407
+rina Checca.....rina.....,Attilio Cassinelli,0.6959652
+rina Checca.....rina.....,Marcello Prando,0.70057964
+rina Checca.....rina.....,Febo Conti,0.6919096
+rina Checca.....rina.....,Nerio Bernardi,0.71869063
+rina Checca.....rina.....,Fernando Farese,0.6671605
+rita,Rita Levi-Montalcini,0.85214007
+rita,Rita da Cascia,0.8826698
+rita,Rita Pavone,0.93339795
+rita,Rita Hayworth,0.88812745
+rita,Rita Ora,0.9302139
+rita,Rita dalla Chiesa,0.8934227
+rita,Rita Atria,0.89311373
+rita,Rita Forte,0.9344598
+robin,Robin Williams,0.92093205
+robin,Robin Wright,0.9372109
+robin,Robin Gibb,0.93527985
+robin,Robin Gosens,0.8138571
+robin,Robin Thicke,0.9103359
+ronaldo,Ronaldo,0.99999994
+ronaldo,Cristiano Ronaldo,0.96564883
+ronaldo,Ronaldo Vieira,0.94264746
+ronaldo,Ronaldo Vanin,0.88995373
+ronaldo,Ronald Reagan,0.85792315
+ronaldo,Ronaldo Pompeu da Silva,0.8710638
+rottinculo,Mario Adinolfi,0.83473754
+rt steve,Vladimir Putin,0.78117126
+rt steve,Rishi Sunak,0.73871636
+salvini,Matteo Salvini,0.9471486
+salvini,Tommaso Salvini,0.9472902
+salvini,Lino Salvini,0.9425192
+salvini,Guido Salvini (giudice),0.8870447
+salvini,Giorgio Salvini,0.938891
+sam,Sam Neill,0.92631924
+sam,Sam Claflin,0.9320938
+sam,Sam Smith,0.9323159
+sam,Sam Mendes,0.93464303
+sam,Sam Worthington,0.8508708
+sam,Sam Elliott,0.9390227
+sam,Sam Rockwell,0.9270333
+sam,Sam Raimi,0.8686522
+sam,Sam Lammers,0.9007916
+sanches,Renato Sanches,0.88304174
+sanches,Yvandro Borges Sanches,0.81689405
+sanches,Francisco Sanches,0.9288378
+sanches,Afonso Sanches,0.8613329
+sanches,Stacy Sanches,0.9087603
+sanches,Bernardo Silva,0.8709649
+sanpio,Chiara Rosa,0.8584349
+sarri,Maurizio Sarri,0.9272473
+sarri,Adrien Rabiot,0.8455773
+sarri,Domenico Sarro,0.87606585
+sarri,Jorginho (calciatore 1991),0.83379626
+sarri,Elseid Hysaj,0.79223907
+savic,Sergej Milinković-Savić,0.78873694
+savic,Vanja Milinković-Savić,0.78363526
+savic,Stefan Savić,0.9210774
+savic,Dejan Savić,0.93228436
+savic,Zoran Savić,0.9322174
+savic,Vujadin Savić,0.91046804
+savic,Milunka Savić,0.8032805
+shy boy,Taleesa,0.7922511
+shy boy,Siobhan Fahey,0.7397015
+simp,Raffaele Morelli,0.85173666
+sophie,Sophie Rhys-Jones,0.8356637
+sophie,Sophie Turner,0.89781725
+sophie,Sophie Marceau,0.91680914
+sophie,Sophia Loren,0.88144314
+sophie,Sophie Kinsella,0.9182024
+sophie,Sophie Dee,0.83601665
+sophie,Anne-Sophie Mutter,0.85477626
+"sora Maria""",Giuliano di Sora,0.8675697
+"sora Maria""","Ugo Boncompagni, IV duca di Sora",0.8899584
+"sora Maria""",Domenico di Sora,0.87746274
+steph,Stephen Curry,0.91194904
+steph,Steph Houghton,0.8548469
+steph,Pieter-Steph du Toit,0.80969274
+steph,Steph Branch,0.949853
+steph,Stefano Bersola,0.84631675
+steph,Steph Swainston,0.8557705
+sto Ricchione,Mariano Apicella,0.87439847
+sto Ricchione,Vincenzo Ricchioni,0.84430915
+sto Ricchione,Salvo Lima,0.8544255
+sto Ricchione,Fabri Fibra,0.85682136
+sto eurogol,Gianfranco De Laurentiis,0.77777195
+sto eurogol,Gianluca Gaetano,0.8237376
+sto eurogol,Giorgio Martino,0.8030135
+sto eurogol,Licia Nunez,0.8022387
+sto eurogol,Marko Rog,0.83231217
+sto eurogol,Alejandro Gómez,0.8090667
+sto eurogol,Radja Nainggolan,0.802235
+sto eurogol,Mario Balotelli,0.7843243
+sto rottinculo,Mario Adinolfi,0.78692913
+stray dogs,Mamoru Miyano,0.77926123
+stray dogs,Yoshimasa Hosoya,0.7977296
+taeyeon,Kim Tae-yeon,0.8144244
+taeyeon,Seohyun,0.9667994
+taeyeon,Tiffany Young,0.89700586
+taeyeon,Jessica (cantante),0.8347755
+tampini,Muhammad di Negeri Sembilan,0.7515186
+tampini,Miljan Mrdaković,0.81259155
+taylor,Taylor Swift,0.9185593
+taylor,Elizabeth Taylor,0.9243189
+taylor,Taylor Fritz,0.93481576
+taylor,Taylor Hawkins,0.9352586
+taylor,Roger Taylor (batterista 1949),0.8653463
+taylor,Aaron Taylor-Johnson,0.8656704
+taylor,James Taylor,0.934193
+taylor swift,Taylor Swift,0.99999964
+taylor swift louis tomlinson,Zayn,0.8345983
+teddy,Teddy Reno,0.9337156
+teddy,Teddy Teuma,0.86372596
+teddy,Theodore Roosevelt,0.8466216
+teddy,Teddy Sheringham,0.84683347
+teddy,Teddy Pendergrass,0.8388791
+teddy,Teddy Dunn,0.9457898
+teee,Stefano Bellani,0.7655027
+terf,J. K. Rowling,0.7977576
+terf,Louisa Wall,0.76142645
+theo,Theo Hernández,0.94632953
+theo,Theo Walcott,0.94445926
+theo,Theo James,0.9385772
+theo,Theodorus van Gogh,0.80967605
+theo,Theo Rossi,0.910781
+theo,Théo Pourchaire,0.8594748
+theo,Theo Angelopoulos,0.84292114
+theo,Theo Albrecht,0.8271086
+tifi Milan,Sergio Paganella,0.7842903
+tifi Milan,Clemente Caccianiga,0.7557629
+tiktok,Charli D'Amelio,0.78030425
+tiktok,Khaby Lame,0.82825744
+tiktok,Samantha Cristoforetti,0.7624979
+togepi,Satomi Kōrogi,0.82813096
+tuiter,Alberto Fernández (politico),0.8254298
+tuiter,Mariana Seligmann,0.76470363
+urlaccio,Giovanni Battista Niccolini,0.7959819
+valer,Valeria Valeri,0.8558458
+valer,Valer Dorneanu,0.789726
+valer,Valerio Mastandrea,0.82664114
+valer,Valér Švec,0.83560175
+valer,Valér Banna,0.92061734
+valer,Valer Toma,0.8928051
+vedila,Leonardo Vinci,0.862275
+vieni(non,Francesca Manzini,0.80210793
+vieni(non,Anna Pettinelli,0.8076369
+walt,Walt Disney,0.9483517
+walt,Walt Whitman,0.93105775
+will,Will Smith,0.91520405
+will,Will Ferrell,0.86588997
+young royals,Edvin Ryding,0.8344023
+young royals,Charlotte Casiraghi,0.8625257
+young royals,Alex Polidori,0.8469751
+young royals,Carlo Filippo di Svezia,0.80842847
+young royals,Pernilla August,0.77815205
+zaniolo,Nicolò Zaniolo,0.9527572
+zaniolo,Igor Zaniolo,0.95222276
+zaniolo,Gianluca Mancini,0.86141574
+zaniolo,Moise Kean,0.7920759
+zaniolo,Lorenzo Pellegrini,0.8753122
+zaniolo,Krzysztof Piątek,0.80652785
+zelensky,Volodymyr Zelens'kyj,0.8888029
+zelensky,Dario Nardella,0.8102726
+zelensky,Luca Bizzarri,0.82684404
+zio Dzeko,Kōstas Manōlas,0.7767727
+zio Dzeko,Alessandro Del Piero,0.81183493
+zio Dzeko,Seydou Keita,0.8828532
+zio Dzeko,Silvio Piola,0.8382036
+zio Dzeko,Sergej Barbarez,0.8351442
+ziyech,Hakim Ziyech,0.95275575
+ziyech,Noussair Mazraoui,0.86995876
+ziyech,Mateo Kovačić,0.79236805
+ziyech,Noa Lang,0.80996776
+ziyech,Achraf Hakimi,0.856785
+❗ A,Tite Kubo,0.8114853
+❗️ Sto,Rosalía (cantante),0.87818474
+👀,Bobby Portis,0.821206
+👀,Jarrett Jack,0.83244014
+💦,ItsOkToCry,0.7858082
+💦💦💦💦💦💦,ItsOkToCry,0.7858082
+💩,ItsOkToCry,0.7858082
